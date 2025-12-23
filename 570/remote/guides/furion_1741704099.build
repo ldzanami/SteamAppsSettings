@@ -1,0 +1,84 @@
+"guidedata"
+{
+	"Hero"		"furion"
+	"Title"		"100% EZ GAME"
+	"GameplayVersion"		"7.38b"
+	"Overview"		""
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x00000000CD31DC50"
+	"OriginalCreatorID"		"0x00000000382F8487"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000067D04BA3"
+	"TimePublished"		"0x0000000067D04BA3"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_magic_wand"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_power_treads"
+				"item"		"item_mjollnir"
+				"item"		"item_hurricane_pike"
+				"item"		"item_revenants_brooch"
+				"item"		"item_black_king_bar"
+				"item"		"item_butterfly"
+				"item"		"item_satanic"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_nullifier"
+				"item"		"item_silver_edge"
+				"item"		"item_rapier"
+				"item"		"item_disperser"
+				"item"		"item_abyssal_blade"
+				"item"		"item_greater_crit"
+				"item"		"item_sphere"
+				"item"		"item_manta"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_refresher"
+				"item"		"item_skadi"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"furion_force_of_nature"
+			"2"		"furion_sprout"
+			"3"		"furion_force_of_nature"
+			"4"		"furion_teleportation"
+			"5"		"furion_force_of_nature"
+			"6"		"furion_wrath_of_nature"
+			"7"		"furion_force_of_nature"
+			"8"		"furion_teleportation"
+			"9"		"furion_teleportation"
+			"10"		"special_bonus_unique_furion_6"
+			"11"		"furion_teleportation"
+			"12"		"furion_wrath_of_nature"
+			"13"		"furion_sprout"
+			"14"		"furion_sprout"
+			"15"		"special_bonus_unique_furion_2"
+			"16"		"furion_sprout"
+			"18"		"furion_wrath_of_nature"
+			"20"		"special_bonus_unique_furion_7"
+			"25"		"special_bonus_unique_furion"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

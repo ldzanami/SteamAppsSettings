@@ -1,0 +1,55 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	users = 
+	[
+		{
+			flags = 3
+			steamid = 76561198160992023
+		},
+		{
+			flags = 3
+			steamid = 76561199658324185
+		},
+		{
+			flags = 3
+			steamid = 76561199215221282
+		},
+		{
+			flags = 3
+			steamid = 76561199068228130
+		},
+		{
+			flags = 3
+			steamid = 76561198293228612
+		},
+		{
+			flags = 3
+			steamid = 76561198134787156
+		},
+		{
+			flags = 3
+			steamid = 76561197992156636
+		},
+		{
+			flags = 3
+			steamid = 76561198167977974
+		},
+		{
+			flags = 3
+			steamid = 76561199120543631
+		},
+		{
+			flags = 3
+			steamid = 76561198249978782
+		},
+		{
+			flags = 3
+			steamid = 76561199024821169
+		},
+		{
+			flags = 3
+			steamid = 76561198963913655
+		},
+	]
+	player_volume_map = null
+}

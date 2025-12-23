@@ -1,0 +1,41 @@
+"550"
+{
+	"ChangeNumber"		"3"
+	"OSType"		"0"
+	"cfg/config.cfg"
+	{
+		"root"		"0"
+		"size"		"7405"
+		"localtime"		"1766327317"
+		"time"		"1766327317"
+		"remotetime"		"1766327317"
+		"sha"		"035090b92315192e9eb688efda7791d355defa8f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"materials/vgui/logos/spray.vtf"
+	{
+		"root"		"0"
+		"size"		"22104"
+		"localtime"		"1766327317"
+		"time"		"1766327317"
+		"remotetime"		"1766327317"
+		"sha"		"1b4ef3f58e09382b5b75253c0eca69b3831d9160"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"materials/vgui/logos/spray.vmt"
+	{
+		"root"		"0"
+		"size"		"115"
+		"localtime"		"1766327317"
+		"time"		"1766327317"
+		"remotetime"		"1766327317"
+		"sha"		"76a19efd20f2b337937f098441d9b5ce1df60ac5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

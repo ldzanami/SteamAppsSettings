@@ -1,0 +1,307 @@
+"guidedata"
+{
+	"Hero"		"templar_assassin"
+	"Title"		"noshigano build(refractor facet)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.40"
+	"Overview"		"GUIDE ON TEMPLAR ASSASSIN BY TOP1 OPENDOTA
+you can order a coach or boost with discord contact: noshigano
+https://funpay.com/users/4177731/"
+	"GuideRevision"		"154"
+	"AssociatedWorkshopItemID"		"0x00000000953173D8"
+	"OriginalCreatorID"		"0x000000003588185E"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000694757F9"
+	"TimePublished"		"0x00000000694757F9"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"twitch.tv/noshigano"
+			{
+				"item"		"item_ward_observer"
+				"item"		"item_circlet"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_slippers"
+				"item"		"item_quelling_blade"
+			}
+			"MID GAME 15 00 - 20 00"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_blight_stone"
+				"item"		"item_null_talisman"
+				"item"		"item_dragon_lance"
+				"item"		"item_desolator"
+				"item"		"item_blink"
+			}
+			"lane situative"
+			{
+				"item"		"item_bottle"
+				"item"		"item_magic_stick"
+				"item"		"item_magic_wand"
+				"item"		"item_wind_lace"
+				"item"		"item_falcon_blade"
+			}
+			"SLOT AFTER BLINK"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
+				"item"		"item_greater_crit"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_hurricane_pike"
+				"item"		"item_mjollnir"
+				"item"		"item_ultimate_scepter"
+			}
+			"default "
+			{
+				"item"		"item_power_treads"
+				"item"		"item_dragon_lance"
+				"item"		"item_desolator"
+				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
+				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
+				"item"		"item_hurricane_pike"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_nullifier"
+				"item"		"item_swift_blink"
+				"item"		"item_rapier"
+			}
+			"SITUATIVE (AFTER BKB OR daedalus)"
+			{
+				"item"		"item_nullifier"
+				"item"		"item_revenants_brooch"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_bloodthorn"
+				"item"		"item_silver_edge"
+				"item"		"item_sphere"
+				"item"		"item_mjollnir"
+				"item"		"item_butterfly"
+				"item"		"item_assault"
+				"item"		"item_sheepstick"
+				"item"		"item_manta"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_rapier"
+				"item"		"item_wind_waker"
+				"item"		"item_disperser"
+				"item"		"item_refresher"
+			}
+			"fast agh build t.me/noshigano"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_desolator"
+				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
+				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
+				"item"		"item_nullifier"
+				"item"		"item_hurricane_pike"
+				"item"		"item_monkey_king_bar"
+			}
+			"order a coach - discord: noshigano"
+			{
+				"item"		"item_spark_of_courage"
+				"item"		"item_dormant_curio"
+				"item"		"item_misericorde"
+				"item"		"item_pogo_stick"
+				"item"		"item_mana_draught"
+				"item"		"item_serrated_shiv"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_giant_maul"
+				"item"		"item_desolator_2"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_demonicon"
+				"item"		"item_divine_regalia"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_quelling_blade"		"рубить деревья  для стаков"
+			"item_bottle"		"if have troubles with HP + control runes
+
+DONT BUY IT IF U WANT ONLY MANA FROM THIS ITEM(you have null, falcon, basilus)"
+			"item_power_treads"		"ALWAYS PT
+"
+			"item_blight_stone"		"snowball farm + lane
+"
+			"item_desolator"		"If u see that u will buy it after 20 min - skip it, u can buy blink or crystallis(if you carry) and try to comeback your farm"
+			"item_blink"		"save/mobility"
+			"item_clarity"		"mmmm mana is your farm and damage"
+			"item_black_king_bar"		"instead of this you can buy agh shard
+
+bkb needs only if enemy has a lot of control and you need to attack"
+			"item_greater_crit"		"more phys burst"
+			"item_lesser_crit"		"dmg item
+can be bought instead desolator if you have bad farm or playing against dusa"
+			"item_hurricane_pike"		"save item
+ursa, troll, razor, clock and etc."
+			"item_aghanims_shard"		"must have item
+can be purchased instead of a phone
+
+ACTIVE GAME + U CAN STOP SPELLS LIKE BLACKHOLE, FREEZING FIELD(just before place trap under you and blow it when they cast abilities)
+
+"
+			"item_butterfly"		"default chose in late against 2+ phys cores
+
+rush it if enemy team has as minimum 3 phys cores and they cannot rush mkb
+"
+			"item_tango"		"IF U WANNA ORDER COACHING
+contact with me discord: noshigano
+or
+funpay.com/users/4177731/
+"
+			"item_ward_observer"		"IF U WANNA ORDER COACHING
+contact with me discord: noshigano
+or
+funpay.com/users/4177731/
+"
+			"item_ward_sentry"		" IF U WANNA ORDER BOOST OR COACHING
+https://funpay.com/users/4177731/
+
+another way to contact with me discord: noshigano"
+			"item_wraith_band"		"attack speed + armor"
+			"item_revenants_brooch"		"bad farm and need to hit targets with high armor
+MKB+BROOCH / MJOLNIR + BROOCH
+
+NOT DESO + BROOCH"
+			"item_ring_of_basilius"		"ultra nerfed, try to dont play with pls (7.39d)
+
+"
+			"item_magic_wand"		"if they spam "
+			"item_nullifier"		"against ghost/force/glimmer and ursa so you can dispell overpower"
+			"item_octarine_core"		"if u playing with agh and no chance to fight(need to split lanes)"
+			"item_mjollnir"		"vs illusions(PL,NAGA,TB)"
+			"item_null_talisman"		"for mana regen
+dont buy it if u already have bottle"
+			"item_infused_raindrop"		"never buy(bagged)
+"
+			"item_blood_grenade"		"buy for mid"
+			"item_ultimate_scepter"		"Imba item ( mobility for all map, split, solo kills )
+
+guide - t.me/noshigano
+
+IMBA EVEN FOR PRO MATCHES CARRY POSITION (HELLO)
+
+имба"
+			"item_manta"		"if needs dispel and safety split lanes"
+			"item_sange_and_yasha"		"if wanna play without bkb against bkb control
+
+upd: nerfed, only agains 3+ bkb controls"
+			"item_dragon_lance"		"attack range = faster attack camps = fam
+also attack range = position in fight"
+			"item_monkey_king_bar"		"vs any evasion( PA, radiance, butterfly etc.)
+also vs high armor heroes(morph, tb etc.)"
+			"item_silver_edge"		"vs bristleback"
+			"item_bloodthorn"		"INSTEAD MKB ALSO VS BILLION HP+ARMOR
+
+
+P.S: this item is broken(thx valve)
+active: instead 60% of dmg its a 120%"
+			"item_sphere"		"doom/lc/pudge etc."
+			"item_sheepstick"		"control"
+			"item_skadi"		"only vs morph or 99999% health regen
+"
+			"item_wind_lace"		"movespeed = mobility = farm"
+			"item_devastator"		"only with revenants brooch"
+			"item_assault"		"vs drow"
+			"item_rapier"		"stability dps item
+instead of desolator in late game"
+			"item_dagon"		"rofl"
+			"item_enhancement_alert"		"imba for 1/2 tier"
+			"item_enhancement_tough"		"fine"
+			"item_enhancement_vast"		"OP chose"
+			"item_enhancement_audacious"		"OP like range attack but if you need dmg"
+			"item_magic_stick"		"vs spam lane"
+			"item_circlet"		"grade to null"
+			"item_falcon_blade"		"for carry with voidblades facet"
+			"item_disperser"		"KAIT also vs dusa "
+			"item_gungir"		"+75 radius traps and blades =)))))
+think about it"
+			"item_wind_waker"		"late item for kait ( for example against puck lv. 25)"
+			"item_spark_of_courage"		"one of the best neutrals(1 tier)"
+			"item_dormant_curio"		"invest"
+			"item_misericorde"		"dmg"
+			"item_enhancement_quickened"		"early movespeed for farm"
+			"item_enhancement_crude"		"good with butterfly"
+			"item_enhancement_fleetfooted"		"fine for ultra late"
+			"item_enhancement_boundless"		"also OP"
+			"item_mana_draught"		"fix troubles with mana"
+			"item_pogo_stick"		"mobility faster farm"
+			"item_serrated_shiv"		"best neutral 3 tier"
+			"item_gunpowder_gauntlets"		"good vs high armor/illusions"
+			"item_magnifying_monocle"		"good for start fight(better range attack and blink range)"
+			"item_giant_maul"		"crit dmg"
+			"item_desolator_2"		"late"
+			"item_helm_of_the_undying"		"late"
+			"item_demonicon"		"team split"
+			"item_divine_regalia"		"ALL IN"
+			"item_swift_blink"		"best grade of blink"
+			"item_helm_of_the_dominator"		"PLS NO!!!"
+			"item_refresher"		"super late for once use(2 bkb)"
+			"item_satanic"		"ultra rare ( 0.1% games )
+if you chose to play without bkb and tunnel dmg(not burst) 
+
+example of build: deso hurricane nullifier butterfly satanic skadi
+"
+			"item_slippers"		"just for stats for lane NOT FOR WRAITH BAND"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"templar_assassin_refraction"
+			"2"		"templar_assassin_psi_blades"
+			"3"		"templar_assassin_refraction"
+			"4"		"templar_assassin_psi_blades"
+			"5"		"templar_assassin_refraction"
+			"6"		"templar_assassin_psionic_trap"
+			"7"		"templar_assassin_refraction"
+			"8"		"templar_assassin_psi_blades"
+			"9"		"templar_assassin_psi_blades"
+			"10"		"templar_assassin_meld"
+			"11"		"templar_assassin_meld"
+			"12"		"templar_assassin_psionic_trap"
+			"13"		"templar_assassin_meld"
+			"14"		"templar_assassin_meld"
+			"15"		"special_bonus_unique_templar_assassin_meld_duration"
+			"18"		"templar_assassin_psionic_trap"
+			"20"		"special_bonus_unique_templar_assassin_8"
+			"25"		"special_bonus_unique_templar_assassin_refraction_damage"
+		}
+		"AbilityTooltips"
+		{
+			"templar_assassin_refraction"		"FACET REFRACTOR
+
+ITS YOUR FARM AND SAVE - ALWAYS USE IT AFTER LEVEL 7
+
+On lvl 7 always should be max if refractor facet
+
+"
+			"templar_assassin_meld"		"VOIDBLADES: max meld lv 7 if playing this facet
+Deny creeps, shot by psiblades
+
+LVL 4: IF WANNA TRY TO KILL
+
+"
+			"templar_assassin_psionic_trap"		"before use it wait 3.5 secs for charge in another case it not deal dmg and slow is only 30%
+try to place it on lane maximum of amount
+
+AND DONT FORGET GIVE TRAP CONTROL TO ALLIES"
+			"special_bonus_unique_templar_assassin_3"		"always skip it"
+			"special_bonus_unique_templar_assassin_refraction_damage"		"refractor and no need to dispel"
+			"special_bonus_unique_templar_assassin_8"		"-armor = more dmg"
+			"special_bonus_unique_templar_assassin_4"		"dispel"
+			"special_bonus_unique_templar_assassin"		"50/50 talent"
+			"special_bonus_unique_templar_assassin_7"		"BURST and cancel bkb tpout"
+			"special_bonus_unique_templar_assassin_meld_duration"		"skip till lv 16"
+			"templar_assassin_psi_blades"		"IT WAS NERFED SO WE SHOULD TAKE IT AS MINIMUM AT 2 POINT"
+			"special_bonus_unique_templar_assassin_refraction_disable_cast"		"vs Necro(dodge ult) also with talent lv20 can dispel euls"
+		}
+	}
+}
+ 

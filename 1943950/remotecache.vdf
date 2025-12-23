@@ -1,0 +1,41 @@
+"1943950"
+{
+	"ChangeNumber"		"3"
+	"OSType"		"0"
+	"EscapeTheBackrooms/Saved/SaveGames/GameSettings_SaveSlot.sav"
+	{
+		"root"		"3"
+		"size"		"1555"
+		"localtime"		"1758822063"
+		"time"		"1758822062"
+		"remotetime"		"1758822062"
+		"sha"		"72e4ed09ccb87ad512f3bb85c562a7e99a7eced0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"EscapeTheBackrooms/Saved/SaveGames/MAINSAVE.sav"
+	{
+		"root"		"3"
+		"size"		"1224"
+		"localtime"		"1758782530"
+		"time"		"1758782529"
+		"remotetime"		"1758782529"
+		"sha"		"26fe5a217892f4068b949e521296fddd0b757b26"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"EscapeTheBackrooms/Saved/SaveGames/SAVE_0.sav"
+	{
+		"root"		"3"
+		"size"		"1221"
+		"localtime"		"1758820393"
+		"time"		"1758820392"
+		"remotetime"		"1758820392"
+		"sha"		"e4c3b32476d36e8d3c6f15ff0b9e96fe3de4ce4d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

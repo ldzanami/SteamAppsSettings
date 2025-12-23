@@ -1,0 +1,83 @@
+"guidedata"
+{
+	"Hero"		"dragon_knight"
+	"Title"		"EZ GAME 100%"
+	"GameplayVersion"		"7.38"
+	"Overview"		""
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x00000000CBDD29D3"
+	"OriginalCreatorID"		"0x00000000382F8487"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000067BF0A8C"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_quelling_blade"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+				"item"		"item_armlet"
+				"item"		"item_mask_of_madness"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_sange_and_yasha"
+				"item"		"item_black_king_bar"
+				"item"		"item_greater_crit"
+				"item"		"item_satanic"
+				"item"		"item_silver_edge"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_refresher"
+				"item"		"item_mage_slayer"
+				"item"		"item_bloodthorn"
+				"item"		"item_blink"
+				"item"		"item_hurricane_pike"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dragon_knight_breathe_fire"
+			"2"		"dragon_knight_dragon_tail"
+			"3"		"dragon_knight_breathe_fire"
+			"4"		"dragon_knight_dragon_blood"
+			"5"		"dragon_knight_dragon_blood"
+			"6"		"dragon_knight_elder_dragon_form"
+			"7"		"dragon_knight_dragon_blood"
+			"8"		"dragon_knight_dragon_blood"
+			"9"		"dragon_knight_dragon_tail"
+			"10"		"special_bonus_attack_damage_15"
+			"11"		"dragon_knight_dragon_tail"
+			"12"		"dragon_knight_elder_dragon_form"
+			"13"		"dragon_knight_dragon_tail"
+			"14"		"dragon_knight_breathe_fire"
+			"15"		"special_bonus_hp_300"
+			"16"		"dragon_knight_breathe_fire"
+			"18"		"dragon_knight_elder_dragon_form"
+			"20"		"special_bonus_unique_dragon_knight_7"
+			"25"		"special_bonus_unique_dragon_knight"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

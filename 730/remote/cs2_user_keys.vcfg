@@ -1,0 +1,27 @@
+"config"
+{
+	"bindings"
+	{
+		"c"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"MOUSE1"		"+attack"
+		"h"		"<unbound>"
+		"x"		"slot12"
+		"v"		"switchhands"
+		"["		"say  "
+		"l"		"give weapon_ak47"
+		"o"		"give weapon_smokegrenade 1"
+		"i"		"give weapon_molotov"
+		"p"		"give weapon_flashbang"
+		"`"		"toggleconsole"
+		"MWHEELUP"		"<unbound>"
+		"MWHEELDOWN"		"<unbound>"
+		"s"		"+back"
+		"w"		"+forward"
+		"a"		"+left"
+		"d"		"+right"
+		"SPACE"		"+jump"
+		"0"		"give weapon_m4a1_silencer"
+		"CTRL"		"+duck"
+	}
+}

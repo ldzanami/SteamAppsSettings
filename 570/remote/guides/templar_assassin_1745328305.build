@@ -1,0 +1,92 @@
+"guidedata"
+{
+	"Hero"		"templar_assassin"
+	"Title"		"100% EZ GAME"
+	"GameplayVersion"		"7.38c"
+	"Overview"		""
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x00000000CEBDE9CB"
+	"OriginalCreatorID"		"0x00000000382F8487"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000680798C1"
+	"TimePublished"		"0x00000000680798C1"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_tango"
+				"item"		"item_power_treads"
+				"item"		"item_dragon_lance"
+				"item"		"item_lesser_crit"
+				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
+				"item"		"item_greater_crit"
+				"item"		"item_hurricane_pike"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_desolator"
+				"item"		"item_nullifier"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_satanic"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_rapier"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_clarity"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_dust"
+				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
+				"item"		"item_ward_observer"
+				"item"		"item_quelling_blade"
+				"item"		"item_infused_raindrop"
+				"item"		"item_gem"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"templar_assassin_refraction"
+			"2"		"templar_assassin_meld"
+			"3"		"templar_assassin_refraction"
+			"4"		"templar_assassin_psi_blades"
+			"5"		"templar_assassin_refraction"
+			"6"		"templar_assassin_psionic_trap"
+			"7"		"templar_assassin_refraction"
+			"8"		"templar_assassin_psi_blades"
+			"9"		"templar_assassin_meld"
+			"10"		"special_bonus_unique_templar_assassin_meld_duration"
+			"11"		"templar_assassin_meld"
+			"12"		"templar_assassin_meld"
+			"13"		"templar_assassin_psionic_trap"
+			"14"		"templar_assassin_psi_blades"
+			"15"		"special_bonus_unique_templar_assassin_8"
+			"16"		"templar_assassin_psi_blades"
+			"18"		"templar_assassin_psionic_trap"
+			"20"		"special_bonus_unique_templar_assassin_refraction_damage"
+			"25"		"special_bonus_unique_templar_assassin"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

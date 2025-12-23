@@ -1,0 +1,35 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	users = 
+	[
+		{
+			flags = 3
+			steamid = 76561198263619944
+		},
+		{
+			flags = 3
+			steamid = 76561198295123712
+		},
+		{
+			flags = 3
+			steamid = 76561199402999312
+		},
+		{
+			flags = 3
+			steamid = 76561199071960560
+		},
+		{
+			flags = 3
+			steamid = 76561198119926813
+		},
+		{
+			flags = 3
+			steamid = 76561199017107108
+		},
+		{
+			flags = 3
+			steamid = 76561199562321854
+		},
+	]
+	player_volume_map = null
+}

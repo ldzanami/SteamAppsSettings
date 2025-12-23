@@ -1,0 +1,168 @@
+"guidedata"
+{
+	"Hero"		"ringmaster"
+	"Title"		"Torte de Lini Position 4, Facet 1"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.40"
+	"Overview"		"  "
+	"GuideRevision"		"66"
+	"AssociatedWorkshopItemID"		"0x00000000C598F0EC"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006946E284"
+	"TimePublished"		"0x000000006946E284"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_glimmer_cape"
+				"item"		"item_aether_lens"
+			}
+			"utility items"
+			{
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_dust"
+				"item"		"item_gem"
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_blood_grenade"
+			}
+			"Situational Items"
+			{
+				"item"		"item_rod_of_atos"
+				"item"		"item_solar_crest"
+				"item"		"item_cyclone"
+				"item"		"item_spirit_vessel"
+			}
+			"Extension Items"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_force_staff"
+				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_gungir"
+			}
+			"  "
+			{
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"gain mmr at"
+			{
+			}
+			"youtube/tortedelini"
+			{
+			}
+			"twitch/tortedelini"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_blood_grenade"		"Rely on Blood Grenade as your initiating or sequential slow on foes when going for a kill in-lane or throughout the ganking phase."
+			"item_ward_sentry"		"Don’t cheap out by not buying Sentry Wards. As a support, you need to regularly stack and pull your jungle camps to the lane but you can also use your Sentry Ward to block the enemy jungle camp from being pulled to their lane.
+
+Pulling jungle camps is not a courtesy for your carry, it’s to bring the creep wave to your side of the lane and thus will give you more runway to harass and even kill enemies as they will be far from their tower trying to last-hit creeps near your tower."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. You should think about picking up Ring of Basi or Boots of Speed first depending on if you need movement in the early-game to harass or engage or your team relies on the mana regen from Ring of Basi to do more spells throughout."
+			"item_glimmer_cape"		"Use Glimmer Cape before getting closer to a fight to use Tame the Beasts and Escape Act.
+
+Alternatively, you can use Glimmer Cape on an Ally before Escape Act to give them magic resistance against AoE magic damage but also help hide them so they can retreat in a direction opponents wont expect."
+			"item_aether_lens"		"We rely on Aether Lens because Tame the Beasts and Escape Act are great abilities that have a short range and so Aether Lens provides additional safety."
+			"item_blink"		"Ringmaster relies on saving allies with Escape Act but if have to walk up to an ally to save them, you migh either be too far or youre too close and can get caught out and die.
+
+Blink Dagger allows you to jump in and save them at the exact time that you need to."
+			"item_rod_of_atos"		"Use Rod of Atos to guarantee the follow-up of any of your other abilities. If you use Wheel of Wonder, be sure to cast Wheel of Wonder first, before using Rod of Atos as your ultimate travels slower than Rod of Atos.
+
+Typically, you can combine Rod of Atos with Tame the Beasts into Wheel of Wonder to guarantee they turn towards your Wheel."
+			"item_solar_crest"		"A Solar Crest not only gives you a larger mana-pool in the early-game to help alleviate harassment with your spells but it also provides strong armor, attack speed, movement speed and a barrier to protect your ally who can then initiate or gank someone with all that value.
+
+You can also apply Solar Crest on yourself for additional protection to make enemies you gank harder to fight back with you without losing or taking significant damage."
+			"item_spirit_vessel"		"Spirit Vessel capitalizes on your early ganking prowess to then be able to dish out strong scaling damage to high health heroes.
+
+Combined with Impalement Arts, you can cripple large HP heroes very early and aggressively."
+			"item_aghanims_shard"		"Despite being uncontrollable, the Spotlight ability from your Aghs Shard is great both to rid illusions from heroes like Phantom Lancer and Naga Siren.
+
+Spotlight also causes miss chance from enemies, so against carries that stay a long time in fights like Lifestealer, the Spotlight can provide a lot of value to mitigate his presence and damage."
+			"item_force_staff"		"Rely on Force Staff to help an ally distance themselves further after Escape Act or as a way to close the gap in team-fights to follow-up with Tame the Beasts."
+			"item_cyclone"		"Combined with Tame the Beasts and Wheel of Wonder, you can chain-debuff an enemy for a very long period.
+
+Activate Euls on an enemy before channeling your Tame the Beasts and casting Wheel of Wonder."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"ringmaster_impalement"
+			"2"		"ringmaster_tame_the_beasts"
+			"3"		"ringmaster_impalement"
+			"4"		"ringmaster_the_box"
+			"5"		"ringmaster_impalement"
+			"6"		"ringmaster_wheel"
+			"7"		"ringmaster_impalement"
+			"8"		"ringmaster_tame_the_beasts"
+			"9"		"ringmaster_tame_the_beasts"
+			"10"		"special_bonus_unique_ringmaster_whip_radius"
+			"11"		"ringmaster_tame_the_beasts"
+			"12"		"ringmaster_wheel"
+			"13"		"ringmaster_the_box"
+			"14"		"ringmaster_the_box"
+			"15"		"special_bonus_unique_ringmaster_whip_debuff_immunity"
+			"16"		"ringmaster_the_box"
+			"18"		"ringmaster_wheel"
+			"20"		"special_bonus_unique_ringmaster_whip_damage"
+			"25"		"special_bonus_unique_ringmaster_the_box_strong_dispel_and_flying"
+		}
+		"AbilityTooltips"
+		{
+			"ringmaster_tame_the_beasts"		"Rely on Tame the Beasts to initiate on enemies or to repel them back when they jump on your allies.
+
+Sometimes just a minimal channel of the ability is all you need to disrupt engagements or chain follow-through on an allys initiation.
+
+Use Wheel of Wonder or Impalement Arts as a follow-up to Tame the Beasts."
+			"ringmaster_the_box"		"Rely on Escape Act to save an ally or yourself from big ultimate non-interruptible abilities. This ability even works against Black Hole to save an ally and briefly prevent them from taking damage."
+			"ringmaster_impalement"		"Impalement Arts is your initiation from afar to catch an enemy out or to harass when laning. It prevents them from being able to Blink away and the damage is health percentage base so it scales well into the late-game.
+
+When its unsafe to engage with your other abilities, rely on Impalement Arts in the meantime.
+
+Also great to deal with heavy camps during laning to prevent enemies from pulling efficiently."
+			"ringmaster_wheel"		"Wheel of Wonder is a great follow-up ability to ultimate abilities like Dark Willows Terrorize, Dark Seers Vacuum and Wall of Replica or Magnus Reverse Polarity. Basically abilities that corral enemies together for you to land your ultimate on them as they face one direction to flee.
+
+Be sure to cast this ability just slightly ahead of where they are and where they will go to guarantee someone gets taunted and trapped by your Wheel of Wonder."
+			"ringmaster_spotlight"		"Not only is this ability really strong against illusion heroes, it can be great against enemies who like to stand in one place and fight like Wraith King or Lifestealer.
+
+This ability also really works in chokes against high-ground pushes as the enemies are more tightened in one area and thus will be hit by Spotlight."
+			"ringmaster_whoopee_cushion"		"Those who smelt, dealt it."
+			"ringmaster_strongman_tonic"		"As used by Dwayne, The Rock, Johnson"
+			"ringmaster_funhouse_mirror"		"Theres nothing fun about having to look yourself in the mirror."
+		}
+	}
+}
+ 

@@ -1,0 +1,201 @@
+"guidedata"
+{
+	"Hero"		"axe"
+	"Title"		"Torte de Lini Position 3, Facet 1"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.40"
+	"Overview"		" "
+	"GuideRevision"		"502"
+	"AssociatedWorkshopItemID"		"0x0000000007AC35DE"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006946710F"
+	"TimePublished"		"0x000000006946710F"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_ring_of_protection"
+			}
+			"Early game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_chainmail"
+			}
+			"Core items"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_blade_mail"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
+			}
+			"Situational items"
+			{
+				"item"		"item_vanguard"
+				"item"		"item_pipe"
+				"item"		"item_crimson_guard"
+			}
+			"Extension items"
+			{
+				"item"		"item_lotus_orb"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_refresher"
+			}
+			"Luxury items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_octarine_core"
+				"item"		"item_shivas_guard"
+				"item"		"item_overwhelming_blink"
+			}
+			"  "
+			{
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"gain mmr at"
+			{
+			}
+			"youtube/tortedelini"
+			{
+			}
+			"twitch/tortedelini"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Use Blink Dagger to initiate on your opponent in fights.
+
+1. Initiate with Blink Dagger onto enemys location
+2. Cast Berserkers Call to force them to attack
+3. Use Blade Mail (if obtained) to force their attacks back
+4. Use Battle Hunger to further inflict pain on enemies
+5. End with Culling Blade on any fleeing enemies"
+			"item_pipe"		"Pipe of Insight is against magic-nukers that Axe cannot stand against. Pipe of Insight is a strong considerable pick-up that offers the team a lot of what they want: Magic Resistance, health regeneration and more."
+			"item_black_king_bar"		"Axe might have a lot of great armor, he doesnt do that well against magic-dealers and worse, he doesnt want to be interrupted, debuffed, like silence, when trying to initiate.
+
+Black King Bar aims to ensure you can always engage with your opponent while taking significantly less magic damage and immunity to debuffs."
+			"item_shivas_guard"		"1. Blink
+2. Berserkers Call
+3. Shivas Guard. 
+
+Keep foes close and crippled as you activate Shivas Guard to truly put into effect your presence.
+
+Shivas Guard also slows attack speed of all enemies nearby, making Axes presence all the more challenging."
+			"item_crimson_guard"		"Crimson Guard amplifies Axes ability to absorb a ton of damage and, in turn, keep everyone focused on him. The damage taken is completely removed during Crimson Guards duration; making it an incredible item with no mana cost and a great way to mitigate against strong physical melee carries or heroes with illusions."
+			"item_blade_mail"		"Synergizes great with Axes first ability: Berserkers Call. As you taunt them to attack you, reflect back the damage through Blade Mail to maximize its value and punishment against enemies.
+
+Blade Mail also helps you farm for your bigger items like Blink Dagger so be sure to ask teammates to stack Jungle camps to maximize the value of Blade Mail and farming speed."
+			"item_lotus_orb"		"Lotus Orb makes Axes teamfighting strength even more potent. Blade Mail on top of Lotus Orb means even more damage, spells and attacks are reflected back to their foes; giving Axe more armour and also more direct fighting power and mana to spam his abilities.
+
+The ability to dispel key disables can also come in handy if there is another ally being targeted with disables. "
+			"item_bracer"		"An early bracer helps ward off against supports who harass you with magical spells. The extra health from the Bracer also helps you survive in the lane."
+			"item_phase_boots"		"Phase Boots helps close the gaps on enemies (combined with Battle Hunger) to pull off Berserkers Call.
+
+The extra armor and attack damage also helps you last hit early-game but also do more damage with your Battle Hunger, thanks to the armor."
+			"item_force_staff"		"After initiating with Berserkers Call, you can use Force Staff to push yourself towards allies and the taunted enemies will follow."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes."
+			"item_meteor_hammer"		"Meteor Hammer increases your farming capability and makes your ganks all the more potent. As you grab enemies with your Berserker&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Call, cast Meteor Hammer to then stun and damage them after the duration."
+			"item_manta"		"After initiating on an enemy, activate Manta Style to further proc. Counter Helix.
+
+Use Manta Style to further split-push lanes and increase your farming capabilities."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_soul_ring"		"Pick up Soul Ring if youre ganking a lot and lack the mana regeneration necessary to keep up with the pace of your ganks."
+			"item_aghanims_shard"		"Aghs Shard value leans a lot on being able to stack a lot of Battle Hungers on enemies both when initiating with Berserkers Call but also in directly casting it.
+
+The slows and effects stack, especially when running away from Axe and their increased damage later in the game stems from you having high armor."
+			"item_refresher"		"Refresher Orb serves three main purposes:
+
+1. Extending the duration of Bersekers Call
+2. Extending the duration of Black King Bar
+3. Nuke down enemies with double the Culling Blade
+
+You should have the mana for all this if you got Aghs."
+			"item_ring_of_protection"		"An early Ring of Protection to hold you over until you get your first item.
+
+More importantly, it gives more value towards your Battle Hunger harassment"
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_ring_of_health"		"An early ring of health helps regenerate any harassment you might receive against enemies in the lane that is then built into Vanguard."
+			"item_kaya_and_sange"		"Kaya and Sange means Axe can output a lot more with his Counter Helix on top of the damage casted when using Battle Hunger.
+
+More importantly, this item alleviates mana issues that Axe has in the late-game as Culling Blade costs a lot of mana."
+			"item_octarine_core"		"Octarine Core brings your Berserkers Call on an even lower cooldown, making your intiations all the more occurring and difficult for the enemy to handle that tempo."
+			"item_ultimate_scepter"		"The power of Aghs Scepter is the potency in your Counter Helx. The more enemies hit you, usually from Berserkers Call, the less damage they deal - increasing your survivability but also amplifying the late-game value of Berserkers Call and Counter Helix and diminishing the overall damage of your enemies post-Berserkers Call."
+			"item_vanguard"		"Opt for Vanguard that you can disassemble to make Lotus Orb. But early in the lane, if you find yourself getting physically harassed too much, Vanguard can smoothen your lane and can then make jungling vastly easier.
+
+Also allows you to dive Tier 1 towers to kill the enemy carry."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"axe_battle_hunger"
+			"2"		"axe_counter_helix"
+			"3"		"axe_counter_helix"
+			"4"		"axe_berserkers_call"
+			"5"		"axe_counter_helix"
+			"6"		"axe_culling_blade"
+			"7"		"axe_counter_helix"
+			"8"		"axe_berserkers_call"
+			"9"		"axe_berserkers_call"
+			"10"		"special_bonus_unique_axe_8"
+			"11"		"axe_berserkers_call"
+			"12"		"axe_culling_blade"
+			"13"		"axe_battle_hunger"
+			"14"		"axe_battle_hunger"
+			"15"		"special_bonus_unique_axe"
+			"16"		"axe_battle_hunger"
+			"18"		"axe_culling_blade"
+			"20"		"special_bonus_unique_axe_4"
+			"25"		"special_bonus_unique_axe_2"
+		}
+		"AbilityTooltips"
+		{
+			"axe_berserkers_call"		"Use this ability to escape as the armour boost is a way to prevent final attacks from killing you.
+
+Works through Black King Bar, also taunts heroes who are invisible, breaking their invisibility.
+
+Pop Battle Hunger on an enemy during Berserkers Call as the increased armor affects the value of Battle Hunger.
+
+If fighting a lot of jungle creep stacks, this can help you survive more hits to deal more Counter Helix damage."
+			"axe_battle_hunger"		"This is your harassment tool and a way to chase fleeing heroes. Especially good on support heroes who cannot last-hit.
+
+This also puts enemys Blink Dagger on constant cooldown, preventing enemies from escaping."
+			"axe_counter_helix"		"Rely on Counter-Helix to flash-farm your necessary items (Blink Dagger). This is your main damage-dealer when trying for kills:
+
+1. Blink Dagger onto a group of enemies
+2. Activate Berserkers Call
+3. Use Culling Blade on weak foes as Counter-Helix does its damage.
+4. Follow-up with Battle Hunger to chase any survivors"
+			"axe_culling_blade"		"Culling Blade goes through everything like sliced bread. 
+
+It even goes through life-saving abilities like Dazzles Shallow Grave. 
+
+For each kill, it refreshes the use of Culling Blade, so use it constantly ONLY to guarantee a kill and bulk up on extra armor.
+
+Be wary of its mana cost and its better to use it before they can escape. Killing someone with Culling Blade means massive armor so cast that Battle Hunger during the buff duration.
+
+Can also be used on couriers at full health!"
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

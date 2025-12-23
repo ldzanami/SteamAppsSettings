@@ -1,0 +1,65 @@
+"3241660"
+{
+	"ChangeNumber"		"2"
+	"OSType"		"0"
+	"semiwork/Repo/CurrentKeyBindings.es3"
+	{
+		"root"		"12"
+		"size"		"1266"
+		"localtime"		"1743247542"
+		"time"		"1743247541"
+		"remotetime"		"1743247541"
+		"sha"		"202598f36836d1087914c43d64607b55b597a8b5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"semiwork/Repo/DefaultKeyBindings.es3"
+	{
+		"root"		"12"
+		"size"		"1266"
+		"localtime"		"1743247411"
+		"time"		"1743247410"
+		"remotetime"		"1743247410"
+		"sha"		"202598f36836d1087914c43d64607b55b597a8b5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"semiwork/Repo/Player-prev.log"
+	{
+		"root"		"12"
+		"size"		"30217"
+		"localtime"		"1743254870"
+		"time"		"1743254869"
+		"remotetime"		"1743254869"
+		"sha"		"74ef6bdd5b6ca076eee9270103d1d8844042ed65"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"semiwork/Repo/Player.log"
+	{
+		"root"		"12"
+		"size"		"47106"
+		"localtime"		"1743320816"
+		"time"		"1743320815"
+		"remotetime"		"1743320815"
+		"sha"		"4a6e887c4d814a19061ce77e4b5e34c2fff29c28"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"semiwork/Repo/SettingsData.es3"
+	{
+		"root"		"12"
+		"size"		"1229"
+		"localtime"		"1743320807"
+		"time"		"1743320806"
+		"remotetime"		"1743320806"
+		"sha"		"7741a9be059e23e7edaf386c9167a305003640d9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

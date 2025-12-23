@@ -1,0 +1,72 @@
+"guidedata"
+{
+	"Hero"		"huskar"
+	"Title"		"Без названия"
+	"GameplayVersion"		"7.39b"
+	"Overview"		""
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x00000000382F8487"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000684AC28B"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_tango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_bracer"
+				"item"		"item_bracer"
+				"item"		"item_power_treads"
+				"item"		"item_dragon_lance"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_sange_and_yasha"
+				"item"		"item_hurricane_pike"
+				"item"		"item_satanic"
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_skadi"
+				"item"		"item_assault"
+				"item"		"item_heart"
+				"item"		"item_butterfly"
+				"item"		"item_shivas_guard"
+				"item"		"item_overwhelming_blink"
+				"item"		"item_basher"
+				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter_2"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"10"		"special_bonus_unique_huskar_3"
+			"15"		"special_bonus_lifesteal_15"
+			"20"		"special_bonus_unique_huskar_6"
+			"25"		"special_bonus_unique_huskar_5"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

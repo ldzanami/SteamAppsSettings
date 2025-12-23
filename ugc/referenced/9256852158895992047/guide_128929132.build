@@ -1,0 +1,160 @@
+"guidedata"
+{
+	"Hero"		"lion"
+	"Title"		"Torte de Lini Position 5, Facet 1"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.40"
+	"Overview"		" "
+	"GuideRevision"		"345"
+	"AssociatedWorkshopItemID"		"0x0000000007AF4D6C"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006947A7EF"
+	"TimePublished"		"0x000000006947A7EF"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_ring_of_regen"
+				"item"		"item_magic_stick"
+				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
+			}
+			"Early game"
+			{
+				"item"		"item_boots"
+			}
+			"Core items"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_blink"
+				"item"		"item_glimmer_cape"
+				"item"		"item_aether_lens"
+				"item"		"item_aghanims_shard"
+			}
+			"utility items"
+			{
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_dust"
+				"item"		"item_gem"
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_blood_grenade"
+			}
+			"Situational items"
+			{
+				"item"		"item_ghost"
+				"item"		"item_aeon_disk"
+			}
+			"Extension items"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_cyclone"
+				"item"		"item_ultimate_scepter"
+			}
+			"  "
+			{
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"gain mmr at"
+			{
+			}
+			"youtube/tortedelini"
+			{
+			}
+			"twitch/tortedelini"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"A successful gank can be entirely determined by Lion properly initiating. This will ensure this happens. 
+
+Follow-up blink onto your foe with your Earth Spike, then steal hex after the stun duration runs out and follow-up with Mana Drain to ensure he cant escape with abilities."
+			"item_courier"		"As a support hero, you need few items to achieve the same impact as those who are going to carry or initiate; be sure to pick up both items to put your team on even ground from the get-go."
+			"item_aether_lens"		"Aether Lens is perfect for Lion who has an incredible ultimate: Finger of Death; but dangerous range that may put him in a bad position. Knowing your range is larger and can disable at a better spot can be key to pulling off ganks you couldnt comfortably do before."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. 
+
+It can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to the safety of your teammates."
+			"item_ultimate_scepter"		"This item works great when you can get someone to set it up such as Dark Seer, Magnus or Enigma as they gather enemies in a small AOE for you to take advantage of.
+
+Even without those heroes, the improved damage and AOE effect is great late-game when enemies clump up and are especially resistant."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_veil_of_discord"		"Great particular item when looking to increase the damage of your casters. Veil of Discord can add to the survivability of Lion; though it is situationally useful as a whole."
+			"item_tranquil_boots"		"Lion needs very little to be in the field. Tranquil Boots gives him the regeneration and survivability he needs at an easy cost."
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun."
+			"item_ghost"		"Ghost Scepter is to help you versus physically carries that want to immediately target you. This prevents them from targeting you and lets you escape via Force Staff or other items that provide your escape."
+			"item_rod_of_atos"		"Similar to Euls Scepter of Divinity, Rod of Atos entraps foes for a period in time, long enough for your follow-up abilities or skill-shots.
+
+Rely on Rod of Atos to set up a gank as its range is quite far."
+			"item_meteor_hammer"		"Follow-up your Earth Spike and Hex with Meteor Hammer for an even longer stun duration if you find your team lacking stun and follow-up."
+			"item_boots"		"Early Boots to routinely harass, rotate to mid for a gank as well as positioning to land your Earth Spike."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"Aghs Shard can be great versus illusion-based heroes but also as a way to disjoint nuking and rid targeted-spells from hurting you as you wait for your abilities to come off cooldown."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_phylactery"		"Phylactery provides great stats for ganking heroes that need the additional slow and damage to set up kills and follow-through."
+			"item_blood_grenade"		"Rely on Blood Grenade as your initiating or sequential slow on foes when going for a kill in-lane or throughout the ganking phase"
+			"item_pavise"		"Pavise is a good intermediary item to provide additional protection for yourself or allies while also giving you incredible magic regeneration so you wont need to pick up regen or go back to base."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"lion_impale"
+			"2"		"lion_mana_drain"
+			"3"		"lion_mana_drain"
+			"4"		"lion_voodoo"
+			"5"		"lion_mana_drain"
+			"6"		"lion_finger_of_death"
+			"7"		"lion_mana_drain"
+			"8"		"lion_impale"
+			"9"		"lion_impale"
+			"10"		"lion_impale"
+			"11"		"special_bonus_unique_lion_6"
+			"12"		"lion_finger_of_death"
+			"13"		"lion_voodoo"
+			"14"		"lion_voodoo"
+			"15"		"special_bonus_unique_lion_5"
+			"16"		"lion_voodoo"
+			"18"		"lion_finger_of_death"
+			"20"		"special_bonus_unique_lion_10"
+			"25"		"special_bonus_unique_lion_2"
+		}
+		"AbilityTooltips"
+		{
+			"lion_impale"		"Earth Spike is a great dedicated stun that is your core abilities to disrupting fights, catching enemies off-guard and being an overall nuisance. 
+
+Target the ground with this ability as it does improve the range and can let you stun several targets at once."
+			"lion_voodoo"		"This is your initiation mid-game:
+
+1. Blink or gank an enemy
+2. Hex a target first as Hex is instant, Earth Spike is not.
+3. Use Mana Drain as they are hexed
+4. Follow-up with Earth Spike
+5. End with Finger of Death"
+			"lion_mana_drain"		"Works on creeps and heroes, but requires you to channel. Use wisely where you arent vulnerable. The range is quite good; so use it whenever possible or even on enemies as your cooldown is low.
+
+Instantly destroys illusions."
+			"lion_finger_of_death"		"Use it to tear down carries that are fragile in form but dish out a lot of damage. In most cases, youll be able to kill them given you follow-up with your other damage-dealing ability: Earth Spike.
+
+For each kill, you gain more damage. If they die within 3 seconds "
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

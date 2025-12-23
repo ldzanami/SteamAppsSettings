@@ -1,0 +1,143 @@
+"guidedata"
+{
+	"Hero"		"marci"
+	"Title"		"МОЁ"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.37d"
+	"Overview"		"_"
+	"GuideRevision"		"63"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000006300EB0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000670294AD"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items"
+			{
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_tango"
+				"item"		"item_quelling_blade"
+				"item"		"item_magic_stick"
+				"item"		"item_faerie_fire"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_armlet"
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_blink"
+				"item"		"item_basher"
+				"item"		"item_satanic"
+				"item"		"item_greater_crit"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_disperser"
+				"item"		"item_desolator"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_skadi"
+				"item"		"item_greater_crit"
+				"item"		"item_maelstrom"
+				"item"		"item_mjollnir"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_silver_edge"
+				"item"		"item_sphere"
+				"item"		"item_assault"
+				"item"		"item_overwhelming_blink"
+			}
+			"consumables"
+			{
+				"item"		"item_tango"
+				"item"		"item_clarity"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_faerie_fire"
+				"item"		"item_infused_raindrop"
+				"item"		"item_dust"
+				"item"		"item_smoke_of_deceit"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_black_king_bar"		"Your defensive item which protects you from lockdown and magical damage.
+
+When you have Black King Bar you can even kill backline heroes by yourself with Unleash."
+			"item_basher"		"Agression item which allows you to solo kill heroes / lockdown them further(manfight them)."
+			"item_abyssal_blade"		"Agression item which allows you to solo kill heroes / lockdown them further(manfight them)."
+			"item_satanic"		"Perfect for manfighting / lifestealing when youre low hp.
+
+It also applies a basic dispel."
+			"item_skadi"		"Very good against range enemy cores.
+
+Perfect against heroes with high regenration or lifesteal.
+
+Provides good stats."
+			"item_greater_crit"		"Further enables all the damage youre dealing."
+			"item_maelstrom"		"Provides extra magical damage and it also increases your farming speed."
+			"item_mjollnir"		"Provides extra magical damage and it also increases your farming speed.
+
+Good against illusion heroes."
+			"item_sange_and_yasha"		"Provides good tankiness and status resistance. You can situationally replace BKB."
+			"item_silver_edge"		"Good against heroes with passive like PA / BRISTLEBACK / HUSKAR."
+			"item_sphere"		"Situational defensive item against single target spells that can kill you (Doom / hex etc)"
+			"item_assault"		"Situational utility teamfight item which further enables your attack speed aswell."
+			"item_desolator"		"Good against heroes with low armor and perfect against buildings."
+			"item_monkey_king_bar"		"Good against heroes with evasion (Troll / PA / Butterfly purchasers)"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"marci_companion_run"
+			"2"		"marci_bodyguard"
+			"3"		"marci_grapple"
+			"4"		"marci_bodyguard"
+			"5"		"marci_bodyguard"
+			"6"		"marci_unleash"
+			"7"		"marci_companion_run"
+			"8"		"marci_bodyguard"
+			"9"		"marci_companion_run"
+			"10"		"special_bonus_unique_marci_lunge_range"
+			"11"		"marci_companion_run"
+			"12"		"marci_unleash"
+			"13"		"marci_grapple"
+			"14"		"marci_grapple"
+			"15"		"special_bonus_unique_marci_lunge_movespeed"
+			"16"		"marci_grapple"
+			"18"		"marci_unleash"
+			"20"		"special_bonus_unique_marci_unleash_speed"
+			"25"		"special_bonus_unique_marci_guardian_damage"
+		}
+		"AbilityTooltips"
+		{
+			"marci_grapple"		"Allows you to slow an enemy.
+
+Your main combo is Rebound into Dispose into using your Unleash and hitting enemy heroes."
+			"marci_companion_run"		"Your main initiating tool.
+
+You stun enemies up to 2.1 seconds at max level in an area.
+
+Your main combo is Rebound into Dispose into using your Unleash and hitting enemy heroes."
+			"marci_guardian"		"Provides a lot of damage and lifesteal.
+
+Very easy to trade and harass."
+			"marci_unleash"		"It provides a basic dispel when youre using it.
+
+16 Seconds duration.
+
+You deal a lot of damage during its duration."
+		}
+	}
+}

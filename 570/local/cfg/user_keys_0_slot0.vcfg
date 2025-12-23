@@ -1,0 +1,12 @@
+"config"
+{
+	"bindings"
+	{
+		"\"		"toggleconsole"
+		"SPACE"		"+dota_camera_follow"
+		"PAUSE"		"toggleconsole"
+		"9"		"say Я ЕБАНУТЫЙ"
+		"="		"toggleconsole"
+		"-"		"say http:/leagueoflegends.com/registration"
+	}
+}

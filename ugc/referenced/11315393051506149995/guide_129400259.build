@@ -1,0 +1,194 @@
+"guidedata"
+{
+	"Hero"		"viper"
+	"Title"		"Torte de Lini Position 2, Facet 2"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.40"
+	"Overview"		" "
+	"GuideRevision"		"507"
+	"AssociatedWorkshopItemID"		"0x0000000007B67DC3"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006946E29B"
+	"TimePublished"		"0x000000006946E29B"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_ward_observer"
+			}
+			"Early game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_boots"
+				"item"		"item_wind_lace"
+				"item"		"item_magic_wand"
+			}
+			"Core items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_shivas_guard"
+				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
+			}
+			"Situational items"
+			{
+				"item"		"item_rod_of_atos"
+				"item"		"item_blade_mail"
+				"item"		"item_cyclone"
+				"item"		"item_eternal_shroud"
+				"item"		"item_manta"
+			}
+			"Extension items"
+			{
+				"item"		"item_blink"
+				"item"		"item_lotus_orb"
+				"item"		"item_hurricane_pike"
+				"item"		"item_sheepstick"
+				"item"		"item_butterfly"
+				"item"		"item_skadi"
+			}
+			"Luxury items"
+			{
+				"item"		"item_bloodstone"
+				"item"		"item_gungir"
+				"item"		"item_bloodthorn"
+				"item"		"item_wind_waker"
+			}
+			"  "
+			{
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"gain mmr at"
+			{
+			}
+			"youtube/tortedelini"
+			{
+			}
+			"twitch/tortedelini"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_black_king_bar"		"You should be taking most damage spells as you are able to take the damage and your passive should help shift the battle in your teams favour.
+
+However, taking several stuns to the face is not ideal. Black King Bar is for when you need to deal damage and not just tank as your team lacks dealers."
+			"item_hurricane_pike"		"When enemies get too close and in your face, use Hurricane Pike to push them away and provide insane range for your attacks.
+
+Also useful if you have the jump on them (like with Aghs Nosedive) to push them immediately apart from your attacks and kite them hard."
+			"item_blade_mail"		"Combined with Corrosive Skin, Blade Mail absorbs a good amount of damage that would have otherwise killed Viper. Pick this up versus especially aggressive (but frail heroes) such as Sniper, Clinkz, etc."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in massive attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do will be count as critical, allowing you tear them down relatively quickly before the duration of Bloodthorn ends!"
+			"item_tango"		"Plant a tree with iron branch to consume with tangos to increase your regeneration - especially useful in the mid-lane where you want to save starting items to afford early game items like bottle or boots of speed."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for users who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks. Monkey King Bar not only provides strong attack speed but also heightens your ability to your enemies with your attacks."
+			"item_assault"		"Assault Cuirass provides a lot of everything Viper wants: more armor to deal back in Corrosive Skin.
+
+To add, it also weakens enemies, ensuring you have the survivability to outlast them."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_travel_boots"		"You disassemble Arcane Boots to eventually make Bloodstone and make Boots of Travel to compensate for Vipers weak movement speed."
+			"item_blink"		"Blink Dagger is a way to compensate for Vipers terrible movement speed. The Blink Dagger will allow you to catch foes to initiate wtih your abiliites and slows."
+			"item_rod_of_atos"		"Initiate with Rod of Atos and follow-up with Nethertoxin to entrap key enemies into your disables and slow."
+			"item_lotus_orb"		"Lotus Orb provides the armor to give more survivability but also allows you dispel big stuns/slows or reflect back nuke damage on your teammates who keep getting targeted."
+			"item_spirit_vessel"		"Spirit Vessel capitalizes on your early ganking prowlness to then be able to dish out strong scaling damage to high health heroes.
+
+Combined with Vipers Poison Attack means an incredible decrease in health and a bonus in damage for Viper."
+			"item_urn_of_shadows"		"Urn of Shadows early on means some quick regen, armor and defensive value but also taking advantage of your strong harassment capabilities."
+			"item_ethereal_blade"		"Before casting your ultimate, use Ethereal Blade on a carry to mitigate their damage output and follow-through.
+
+Cast your ultimate to completely wipe them out."
+			"item_skadi"		"Skadi works great in combination with your Poison Attack but more importantly, it provides you with enough mana, health, attack speed and stats to be able to follow-through towards the late-game.
+
+Especially strong against physical attacks and large healers."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_dragon_lance"		"Dragon Lance provides great stats but, more importantly, a range that most units cannot beat. With Viper, that range means catching enemies early with your slows and preventing them from being able to run away."
+			"item_orchid"		"Orchid gives the much needed mana to Viper so he can continue to spam his spells. It also takes maximum advantage of his amplifying damage and effect in reducing enemys magic resistance, leading to a very strong early-game and preventing enemies from escaping once caught out by Viper."
+			"item_sange_and_yasha"		"Sange and Yasha provides a lot more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced while the Yasha portion gives you the movement and attack speed to close the gaps on foes and start dealing damage much faster and efficiently."
+			"item_aghanims_shard"		"Aghs Shard helps with the pushing power and power you get from your Poison Attacks. The ability to wipe towers out incredibly fast can be good in some line-ups, provided you have the mana to keep it going."
+			"item_maelstrom"		"An early maelstrom hastens your farm with great chain lightning attacks. To add, Maelstrom is a nice mix-up of damage against enemies that have high armor as the damage you’re dealing with Chain Lightning is magical.
+
+To add, Chain Lightning deals more damage combined with stacks of your Poison Attack."
+			"item_gungir"		"Gleipnir is a great item if you have the all-around damage but lack the ability to keep people in places and need to disable them long enough to hold your attacks. For fights that have a lot of maneuverability involved, Gleipnir can be a solution instead of Mjollnir providing attack speed."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_null_talisman"		"An early Null Talisman provides just enough last-hitting power for you to last-hit comfortably while also giving you some breathing room in mana-pool and regen to use your spells consistently to last-hit the ranged creep and harass the enemy."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_ultimate_scepter"		"With Aghanims Scepter, your follow-through into a fight post-ultimate is now Nosedive in which you can debuff foes, punish them with your Corrosive Skin and throw down a Nethertoxin and Poison Attack to finish them off."
+			"item_manta"		"Manta Style rids some of the slows and silences that can greatly hinder your output and maneuvrability while bolstering your auto-attack speed so you can stack more Poison Attacks on enemies.
+
+Your Illusions get full Corrosive Skin value so you can split-push with them easily"
+			"item_bloodstone"		"Bloodstone provides additional spell lifesteal in combination with your Nethertoxin as well as Corrossive Skin massive damage providing huge value and return of mana investment to justify the purchase."
+			"item_eternal_shroud"		"This works in two values: 
+
+1. The damage you receive is reduced by the spell shield and magic resistance.
+
+2. The spell lifesteal from the damage you deal is restored back."
+			"item_arcane_boots"		"Dont forget to disassemble Arcane Boots to make Bloodstone."
+			"item_kaya_and_sange"		"Kaya and Sange takes advantage of Vipers magic output, replenishes his mana-pool very quickly and ultimately provides strong sustainability against debuffs to keep him outputting with his attacks and Corrosive Skin."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_guardian_greaves"		"Guardian Greaves retains Vipers incredible ability to resist and punish enemies with his Corrosive Skin and provide additional survivability and presence in fights with his own dispel as well as armor increase and great health and regeneration upon activating your item ability."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"viper_poison_attack"
+			"2"		"viper_corrosive_skin"
+			"3"		"viper_poison_attack"
+			"4"		"viper_nethertoxin"
+			"5"		"viper_nethertoxin"
+			"6"		"viper_viper_strike"
+			"7"		"viper_nethertoxin"
+			"8"		"viper_nethertoxin"
+			"9"		"viper_corrosive_skin"
+			"10"		"special_bonus_unique_viper_1"
+			"11"		"viper_corrosive_skin"
+			"12"		"viper_viper_strike"
+			"13"		"viper_corrosive_skin"
+			"14"		"viper_poison_attack"
+			"15"		"special_bonus_unique_viper_3"
+			"16"		"viper_poison_attack"
+			"18"		"viper_viper_strike"
+			"20"		"special_bonus_unique_viper_2"
+			"25"		"special_bonus_unique_viper_nethertoxin_radius"
+		}
+		"AbilityTooltips"
+		{
+			"viper_poison_attack"		"With each attack, Poison Attack applies a slow and deals additional damage through reduced magic resistance. Combined with Nethertoxin, your foe will be severely weakened to your onslaught."
+			"viper_nethertoxin"		"Use Nethertoxin to:
+
+1. Harass foes out of lane
+2. To destroy stacked jungle camps or flash-farm laning creeps with its AoE
+3. To defend against sieged enemies by casting it in front of towers.
+
+Rely on this ability to improve your farm."
+			"viper_corrosive_skin"		"Enemies who choose to fight you will be furthered crippled in combination with your other ability: Poison Attack.
+
+During the laning phase, this will punish foes who harass you hard and magic-users such as Zeus due to your increased Magic Resistance."
+			"viper_viper_strike"		"This is your opener and a great ability to wear down physically-attacking or any fleeing foes.
+
+It goes through Black King Bar, so use it regardless if you just want to initiate."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ Allyourbase
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

@@ -1,0 +1,150 @@
+{
+	"version": 1,
+	"history":
+	[
+		{
+			"tip_id": 2,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 4,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 5,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 6,
+			"display_count": 1,
+			"variants_seen":
+			[
+				21400029
+			]
+		},
+		{
+			"tip_id": 7,
+			"display_count": 20,
+			"variants_seen":
+			[
+				5290,
+				5287,
+				5391,
+				5103,
+				5047,
+				5385,
+				5103,
+				5190,
+				5190,
+				5465,
+				5040,
+				5581,
+				5190,
+				5189,
+				5261,
+				5040,
+				5144,
+				5110,
+				5103,
+				5144
+			]
+		},
+		{
+			"tip_id": 8,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 9,
+			"display_count": 8,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 10,
+			"display_count": 10,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 11,
+			"display_count": 5,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 12,
+			"display_count": 10,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 13,
+			"display_count": 8,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 14,
+			"display_count": 2,
+			"variants_seen":
+			[
+				35,
+				48
+			]
+		},
+		{
+			"tip_id": 301,
+			"display_count": 21,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 302,
+			"display_count": 10,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 303,
+			"display_count": 20,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 304,
+			"display_count": 20,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 305,
+			"display_count": 8,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 306,
+			"display_count": 20,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 307,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 308,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 317,
+			"display_count": 11,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 401,
+			"display_count": 21,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 406,
+			"display_count": 1,
+			"variants_seen": null
+		}
+	]
+}

@@ -1,0 +1,5 @@
+"AcknowledgedViolators"
+{
+	"guilds_violator"		"1"
+	"autodeliver_violator"		"1"
+}

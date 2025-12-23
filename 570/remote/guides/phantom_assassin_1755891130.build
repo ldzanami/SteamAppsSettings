@@ -1,0 +1,144 @@
+"guidedata"
+{
+	"Hero"		"phantom_assassin"
+	"Title"		"Копия MOUZ Guides  | Phantom Assassin "
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.39d"
+	"Overview"		"_"
+	"GuideRevision"		"154"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000006300EB0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000068A8C5BA"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_bfury"
+				"item"		"item_black_king_bar"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_basher"
+				"item"		"item_aghanims_shard"
+				"item"		"item_satanic"
+				"item"		"item_abyssal_blade"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_manta"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_rapier"
+				"item"		"item_assault"
+				"item"		"item_nullifier"
+				"item"		"item_skadi"
+				"item"		"item_moon_shard"
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_desolator"
+				"item"		"item_sphere"
+			}
+			"consumables"
+			{
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_clarity"
+				"item"		"item_infused_raindrop"
+				"item"		"item_dust"
+			}
+			"VISIT MOUZ.GG/DOTA"
+			{
+				"item"		"item_gem"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_magic_wand"		"A very good item for teamfighting, re-engaging and sustaining. "
+			"item_bfury"		"Improves your farming abilities. Works very well with Stifling dagger (especially with the lvl 20 talent)."
+			"item_black_king_bar"		"Black King Bar enables your teamfight abilities; its an item you usually get against a lot of magic damage or lockdown."
+			"item_abyssal_blade"		"Allows you to focus down certain key enemy targets."
+			"item_assault"		"Provides an attack speed and armor aura buff and an armor aura debuff. A great item for teamfighting and pushing."
+			"item_skadi"		"Improves your stats and survivability."
+			"item_satanic"		"Very strong lategame item that improves your survivability and ability to manfight."
+			"item_nullifier"		"An item that prevents the target from using any items’ active abilities and even cancels them if already activated. Especially good against Black King Bar.
+
+"
+			"item_power_treads"		"Situationally get Treads instead of Phase Boots when you lose your lane and youre forced to recover in the jungle."
+			"item_ultimate_scepter"		"Blur now has instant cast time and applies a dispel. Anytime you get a hero kill, your abilities are refreshed. Reduces Blur cooldown to 12 seconds.
+
+Upgrade it to Aghanims Blessing since you want a slot open."
+			"item_rapier"		"You replace your Power treads with Divine Rapier."
+			"item_orb_of_corrosion"		"Situationally you should get it as your first item if it helps you win the lane."
+			"item_desolator"		"Increases your overall damage. Good at bursting backline heroes. Good against buildings."
+			"item_basher"		"You can lockdown even magical immunity heroes, good for manfighting."
+			"item_monkey_king_bar"		"Good against heroes with evasion."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"phantom_assassin_stifling_dagger"
+			"2"		"phantom_assassin_phantom_strike"
+			"3"		"phantom_assassin_stifling_dagger"
+			"4"		"phantom_assassin_phantom_strike"
+			"5"		"phantom_assassin_stifling_dagger"
+			"6"		"phantom_assassin_coup_de_grace"
+			"7"		"phantom_assassin_stifling_dagger"
+			"8"		"phantom_assassin_phantom_strike"
+			"9"		"phantom_assassin_phantom_strike"
+			"10"		"special_bonus_unique_phantom_assassin_4"
+			"11"		"phantom_assassin_immaterial"
+			"12"		"phantom_assassin_coup_de_grace"
+			"13"		"phantom_assassin_immaterial"
+			"14"		"phantom_assassin_immaterial"
+			"15"		"special_bonus_unique_phantom_assassin_3"
+			"16"		"phantom_assassin_immaterial"
+			"18"		"phantom_assassin_coup_de_grace"
+			"20"		"special_bonus_unique_phantom_assassin_strike_aspd"
+			"25"		"special_bonus_unique_phantom_assassin_2"
+		}
+		"AbilityTooltips"
+		{
+			"phantom_assassin_stifling_dagger"		"An easy way to get last hits or harass enemies during the laning stage.
+
+Use it on fleeing enemies since it gives vision on targets after it hits, which lets you follow up with Phantom Strike.
+
+Applies Desolator and Basher effects.
+
+The dagger cannot miss.
+"
+			"phantom_assassin_phantom_strike"		"You can use it both aggressively or defensively.
+
+Stifling Dagger into Phantom Strike is your initiation and go-to combo. You can attack units other than the one you jumped to and you still get the buff.
+
+Can be used to jump to allies as an escape mechanism.
+"
+			"phantom_assassin_blur"		"Stacks with other evasion items.
+
+Use it to vanish off the map when you are going towards certain fights/targets or when you are farming.
+"
+			"phantom_assassin_coup_de_grace"		"Phantom Assassin refines her combat abilities, acquiring a 20% chance of gaining Deadly Focus buff with each attack. While Phantom Assassin is focused, her next attack will deal a guaranteed critical hit with 200/325/450% damage and consume the buff. Stifling Dagger has a 40% chance to gain Deadly Focus. The hit that lands a guaranteed crit may also activate a Deadly Focus buff, making consecutive crits possible."
+		}
+	}
+}

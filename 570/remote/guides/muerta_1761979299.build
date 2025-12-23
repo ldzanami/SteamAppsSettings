@@ -1,0 +1,101 @@
+"guidedata"
+{
+	"Hero"		"muerta"
+	"Title"		"100% EZ GAME"
+	"GameplayVersion"		"7.39e"
+	"Overview"		""
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x00000000382F8487"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000069065762"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
+				"item"		"item_tango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_lesser_crit"
+				"item"		"item_witch_blade"
+				"item"		"item_dragon_lance"
+				"item"		"item_aghanims_shard"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
+				"item"		"item_devastator"
+				"item"		"item_hurricane_pike"
+				"item"		"item_refresher"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_rapier"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_manta"
+				"item"		"item_bloodthorn"
+				"item"		"item_butterfly"
+				"item"		"item_satanic"
+				"item"		"item_swift_blink"
+			}
+			"helpers"
+			{
+				"item"		"item_tango"
+				"item"		"item_clarity"
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_flask"
+				"item"		"item_blood_grenade"
+				"item"		"item_dust"
+				"item"		"item_infused_raindrop"
+				"item"		"item_quelling_blade"
+				"item"		"item_faerie_fire"
+				"item"		"item_enchanted_mango"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"muerta_dead_shot"
+			"2"		"muerta_gunslinger"
+			"3"		"muerta_the_calling"
+			"4"		"muerta_gunslinger"
+			"5"		"muerta_gunslinger"
+			"6"		"muerta_pierce_the_veil"
+			"7"		"muerta_gunslinger"
+			"8"		"muerta_dead_shot"
+			"9"		"muerta_dead_shot"
+			"10"		"special_bonus_hp_150"
+			"11"		"muerta_dead_shot"
+			"12"		"muerta_pierce_the_veil"
+			"13"		"muerta_the_calling"
+			"14"		"muerta_the_calling"
+			"15"		"special_bonus_unique_muerta_gunslinger_bonus_damage"
+			"16"		"muerta_the_calling"
+			"18"		"muerta_pierce_the_veil"
+			"20"		"special_bonus_unique_muerta_pierce_the_veil_duration"
+			"25"		"special_bonus_unique_muerta_gunslinger_double_shot_chance"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

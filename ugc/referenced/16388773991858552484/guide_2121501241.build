@@ -1,0 +1,286 @@
+"guidedata"
+{
+	"Hero"		"drow_ranger"
+	"Title"		"САМЫЙ ПОДРОБНЫЙ ГАЙД"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.40"
+	"Overview"		"Гайд от спамера траксы. Со всех акков имею более 1500 игр, 70% винрейт в среднем."
+	"GuideRevision"		"91"
+	"AssociatedWorkshopItemID"		"0x000000007E738A39"
+	"OriginalCreatorID"		"0x00000000192DA5DC"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006946D66D"
+	"TimePublished"		"0x000000006946D66D"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"БАза. можно брать вместо топора 2 цирклетки"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+			}
+			"НАЧАЛО"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+				"item"		"item_wind_lace"
+				"item"		"item_dragon_lance"
+			}
+			"1 и 2 СЛОТ"
+			{
+				"item"		"item_hurricane_pike"
+				"item"		"item_manta"
+				"item"		"item_aghanims_shard"
+			}
+			"3 И 4 СЛОТ(НА ВЫБОР)"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_butterfly"
+				"item"		"item_greater_crit"
+			}
+			"5 И 6 СЛОТ  (НА ВЫБОР)"
+			{
+				"item"		"item_greater_crit"
+				"item"		"item_satanic"
+				"item"		"item_skadi"
+				"item"		"item_swift_blink"
+			}
+			"СИТУАТИВНО"
+			{
+				"item"		"item_silver_edge"
+				"item"		"item_rapier"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sphere"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_tango"		"МНОГО РАСХОДНИКОВ=ВЫИГРАННАЯ ЛИНИЯ.НЕ ЗАБУДЕМ ДОКУПИТЬ ПОСЛЕ РУН"
+			"item_branches"		"ОДНУ СКУШАТЬ С ТАНГУСОМ, ДВЕ НА СТИКИ"
+			"item_circlet"		"АПАЕМ В МАСКУ"
+			"item_wraith_band"		"ПРОМЕЖУТОЧНЫЕ АЙТЕМЫ ОЧЕНЬ ВАЖНЫ.ЕСЛИ ВСЕ ОЧЕНЬ ХОРОШО,МОЖНО КУПИТЬ ВТОРОЙ"
+			"item_power_treads"		"ПТ БРАТЬ ВСЕГДА
+(НЕ ЗАБЫВАЙТЕ ПЕРЕКЛЮЧАТЬ НА СИЛУ КОГДА ЕСТЬ ШАНС УМЕРЕТЬ)"
+			"item_dragon_lance"		"1-Й СЛОТ.
+ДАЕТ ХОРОШУЮ ДАЛЬНОСТЬ АТАКИ+ЛОВКОСТЬ,КОТОРАЯ НАМ ОЧЕНЬ НУЖНА.ОБЯЗАТЕЛЬНО АПНУТЬ В ПИКУ."
+			"item_manta"		"2-Й СЛОТ.
+ 
+СТАНДАРТ.
+МНОГО ЛОВКОСТИ + ДИСПЕЛЛ ДЕБАФФОВ"
+			"item_invis_sword"		"2-Й СЛОТ.
+АЛЬТЕРНАТИВНЫЙ БИЛД ЧЕРЕЗ ЛОТАР КОТОРЫЙ ОБЯЗАТЕЛЬНО ПОТОМ АПАЕМ В СИЛЬВЕР
+
+ЕСЛИ В ФАЙТЕ БОЛЬНО ЖОПЕ(ВРАГИ ЛОМАЮТ ПОЗИЦИЮ)
+"
+			"item_hurricane_pike"		"1-Й СЛОТ
+
+СИЛЬНЫЙ ПРЕДМЕТ.ПОЗВОЛЯЕТ ДЕРЖАТЬ ПОЗИЦИОНКУ. 
+
+НЕ ДАВАЙТЕ ВРАГАМ К СЕБЕ ПОДХОДИТЬ"
+			"item_satanic"		"4 или 5-Й СЛОТ
+ДЛЯ ОТЖОРА. МОЖНО БИТЬ В ОБРАТКУ,И БЫСТРО ОТХИЛИТЬСЯ.
+ВСЕГДА БРАТЬ ПРОТИВ АКСЫ И ЛЕГИ,ЧТОБ НЕ УМИРАТЬ В ИХ КОНТРОЛЕ"
+			"item_butterfly"		"3,4-Й СЛОТ
+БЕРИТЕ, НЕ ПОЖАЛЕТЕЕ
+
+ДАЕТ ОЧЕНЬ МНОГО УРОНА И СКРОСТИ АТАКИ.
+"
+			"item_black_king_bar"		"3-Й СЛОТ.
+ЕСЛИ БЕЗ НЕГО НИКАК :(
+В 70% ИГР ПРИХОДИТСЯ БРАТЬ"
+			"item_skadi"		"5 или 6 СЛОТ.
+ДАСТ МНОГО ПЛОТНОСТИ И ЗАМЕДЛО.
+ЕСЛИ У  ВРАГА БКБ И ОН ВСЕГДА УБЕГАЕТ,ТО СКАДИ ПОМОЖЕТ ОЧЕНЬ СИЛЬНО"
+			"item_keen_optic"		"ЕСЛИ ДРУГОГО НЕТ МОЖНО ВЗЯТЬ,ДАЕТ МАНУ"
+			"item_ironwood_tree"		"ЛУЧШАЯ ВЕЩЬ 1 ТИРА
+ДАЁТ МНОГО СТАТОВ."
+			"item_royal_jelly"		"НА СЕБЯ И НА ДРУГА"
+			"item_grove_bow"		"ЛУЧШАЯ ШМОТКА ПЕРВОГО И ВТОРОГО ТИРА
+
+10/10 (для 2 тира)"
+			"item_vampire_fangs"		"ТОП 3
+ПО СИТУАЦИИ МОЖНО ВЗЯТЬ ВМЕСТО ВАМБРЕЙСА"
+			"item_ring_of_aquila"		"БОЛЬШЕ ЛОВКОСТИ БОГУ ЛОВКОСТИ
+
+7/10 (для 2 тира)"
+			"item_pupils_gift"		"НЕ ОЧЕНЬ,НАМ НУЖНА ЛОВКОСТЬ"
+			"item_vambrace"		"ЕСЛИ НЕТ ЛУКА, ЭТО ТОЖЕ КРУТО
+
+7/10 (для 2 тира)"
+			"item_orb_of_destruction"		"КРАЙНЕ СИЛЬНАЯ ВЕЩЬ
+
+9/10 (для 2 тира)"
+			"item_bloodstone"		"??????????"
+			"item_blink"		"ЕСЛИ В КОМАНДЕ НЕТ НОРМАЛЬНОЙ ИННИЦИАЦИИ И ВСЕ ИДЕТ ОЧЕНЬ ХОРОШО БРАТЬ 3-М СЛОТОМ(РЕДКО) ВМЕСТЕ С БКБ"
+			"item_monkey_king_bar"		"С добавлением в игру аганим шарда, стал бесполезен. против миссов берите теперь шард
+"
+			"item_bfury"		"??????"
+			"item_greater_crit"		"3 или 4 или 5 СЛОТ
+
+ПРОСТО ДАМАГ. КОГДА БКБ НЕ НУЖНО, БЕРИТЕ БАБОЧКУ И ДАЕДАЛУС
+
+ИНОГДА ИГРЫ ПОЗВОЛЯЮТ ВЗЯТЬ ВМЕСТО БКБ ИЛИ САТАНИКА"
+			"item_iron_talon"		"ДЛЯ ФАРМА ЛЕСА ДА,НО ДЛЯ ФАЙТОВ ЛУЧШЕ ВЕТКА"
+			"item_ocean_heart"		"F"
+			"item_clumsy_net"		"ТОП 6
+СТАТЫ И МАНА"
+			"item_imp_claw"		"ТОП 4
+ПРИЯТНЫЙ УРОН"
+			"item_dragon_scale"		"ТОП 5"
+			"item_greater_faerie_fire"		"ТОП 3
+ДАЁТ ДОВОЛЬНО МНОГО УРОНА"
+			"item_enchanted_quiver"		"НА МОМЕНТ ВЫХОДА БЫЛА ИМБОЙ, ПОТОМ ПОНЕРФИЛИ УРОН В 2 РАЗА(
+
+7/10  (для 3 тира)"
+			"item_titan_sliver"		"жалко"
+			"item_paladin_sword"		"И УРОН И ВАМПИРИК. ХОРОШО
+
+10/10  (для 3 тира)"
+			"item_princes_knife"		"ТОП 2 
+ХЕКС ЭТО ПРИЯТНО"
+			"item_the_leveller"		"НУ КУДА ЗАЧЕЕМ УБРАЛИ"
+			"item_witless_shako"		"А ТРАКСЫ И ТАК МАЛО МАНЫ, +НАМ ХП НЕ НУЖНО,МЫ НЕ ТАНЧИМ,МЫ ЛОМАЕМ ЕБАЛО"
+			"item_apex"		"МНОГО СТАТОВ ДЛЯ ДРОВКИ ОБЯЗАТЕЛЬНЫ
+
+10/10 (для 5 тира)"
+			"item_pirate_hat"		"СТОЛЬКО СКОРОСТИ АТАКИ ЭТО ПРЯМ ВАУ
+10/10 (для 5 тира)"
+			"item_desolator_2"		"ЕСЛИ У ВРАГА КОРЫ НЕ ЛОВКАЧИ И ОНИ НЕ КУПИЛИ КИРАССУ (т.е армора мало) 
+10/10"
+			"item_ballista"		"ТОЖЕ НЕПЛОХО.
+ХОРОШО СОЧЕТАЕТСЯ СО СКАДИ(ВРАГ ПРОСТО НЕ СМОЖЕТ ПОДОЙТИ)"
+			"item_recipe_trident"		"ХУЖЕ АПЕКСА И ДОРОГО"
+			"item_ethereal_blade"		"F этериалу на дровку
+RIP 
+6.80-7.30"
+			"item_wind_lace"		"МОЖНО БРАТЬ,МОЖНО НЕ БРАТЬ. МС ПРИЯТНЫЙ"
+			"item_possessed_mask"		"ХОРОШАЯ ШМОТКА,ДАЁТ МНОГО ЛОВКОСТИ,НО ВЕТКА ЛУЧШЕ 
+ах да, ветку же убрали(
+
+10/10 (для 1 тира)"
+			"item_quicksilver_amulet"		"F"
+			"item_elven_tunic"		"НА УРОВНЕ С ПАЛАДИНЧИКОМ
+
+8-9/10  (для 3 тира)"
+			"item_trickster_cloak"		"ИНВИЗ, ЕСЛИ ЛОТАР БРАТЬ НЕ ХОЧЕТСЯ МОЖНО ВЗЯТЬ ЕЁ, ВЕСЬМА НЕПЛОХО
+
+8/10 (для 4 тира)"
+			"item_penta_edged_sword"		"СПОРНЫЙ ПРЕДМЕТ. ЕСЛИ НЕТ МИЛИШНОГО КОРА КОТОРЫЙ ЕЕ ХОЧЕТ, МОЖНО ВЗЯТЬ. УРОНА ДАЁТ ОЧ МНОГО, ДА И ЗАМЕДЛЯЕТ ТОЖЕ
+
+7/10 (для 4 тира)"
+			"item_aghanims_shard"		"ОБЯЗАТЕЛЬНО К ПОКУПКЕ
+
+MVP ШМОТКА ДЛЯ ДАМАГА
+БЕРИТЕ АСПЕКТ НА ВОЗВЫШЕННОСЬ"
+			"item_silver_edge"		"ЕСЛИ У ВРАГА ЕСТЬ СИЛЬНЫЕ ПАССИВКИ, ВЗЯТЬ НА 3-4 СЛОТ"
+			"item_swift_blink"		"6-Й СЛОТ
+
+ЕСЛИ НУЖНО БЫСТРО ПРЫГНУТЬ В ФАЙТ ПОД ИНИЦИАЦИЮ ТИММЕЙТА (БЛЕКХОЛ, АКС, МАРС)
+
+ОЧЕНЬ ДОРОГОЙ, ПОЭТОМУ МИНИМУМ 5-м СЛОТОМ БЕРИТЕ"
+			"item_sange_and_yasha"		"В ЭТОМ ПАТЧЕ ВЫГЛЯДИТ ХОРОШО, ИЗ-ЗА ТОГО ЧТО УБРАЛИ СТАТУС РЕЗИСТ У САТАНИКА"
+			"item_ninja_gear"		"ЛОВКОСТЬ+МС = победа?
+
+9/10 (для 4 тира)"
+			"item_rapier"		"ДАЁТ БОЛЬШОЙ БУСТ ПО УРОНУ И ПОЗВОЛЯЕТ УБИТЬ ВРАГА ЗА КОНТРОЛЬ.
+ЕСЛИ ИГРА ЗАВИСИТ ТОЛЬКО ОТ ОДНОГО ВРАЖЕСКОГО КОРА, ТО ЭТО ОЧЕНЬ ХОРОШИЙ ПРЕДМЕТ
+ОЧЕНЬ ЗАХОДИТ ПРОТИВ ТБ И ВОЙДА"
+			"item_unstable_wand"		"Для статов
+
+9/10 (для 1 тира)"
+			"item_trusty_shovel"		"На крайняк, если ничего лучше нету
+
+7/10 (для 1 тира)"
+			"item_mirror_shield"		"Свет мой, зеркальце,скажи!
+Да всю правду доложи
+Я ль на свете всех милее,
+Всех румяней и белее?
+
+НЕ, НУ А ШО ЕЩЁ БРАТЬ ЕСЛИ НИЧЕГО НЕТ, КРИЗИС ХУЛЕ
+
+8/10"
+			"item_magic_wand"		"МОЖНО ВЗЯТЬ ДО ВРЕЙС БЕНДА ЕСЛИ СПАМЯТ КНОПКАМИ НА ЛИНИИ"
+			"item_quelling_blade"		"МОЖНО ВЗЯТЬ ЕСЛИ НЕ ПОЛУЧАЕТСЯ НОРМАЛЬНО ЛАСТХИТИТЬ, ПО СУТИ ПРЕДМЕТ НЕПЛОХОЙ
++СДЕЛАЛИ ДЕШЕВЛЕ
+
+БРАТЬ ИЛИ ШТУКИ НА СТАТЫ ИЛИ 1 ЦИРКЛЕТКУ И ТОПОРИК"
+			"item_occult_bracelet"		"8/10 (для 1 тира)
+Можно для статов, почему бы и нет"
+			"item_specialists_array"		"8/10 (для 2 тира)
+ПО УРОНУ ЛУЧШЕ ВАМБРЕЙС АХУЕТЬ"
+			"item_ogre_seal_totem"		"ГЫГЫ МОРЖООГР ДЕЛАЕТ ПЫРГ ПРЫГ"
+			"item_boots_of_bearing"		"САППОРТ ДРОВКА ПОЕХАЛИ"
+			"item_ultimate_scepter"		"Против морфа, хускара, героя с сатаниками
+ 
+Немного поможет против иллюзионистов
+Но в основном против отхила"
+			"item_vindicators_axe"		"АТАК СПИД ИМБА"
+			"item_duelist_gloves"		"УРОН И АТАК СИПД ИМБА
+
+10/10 (для 1 тира)"
+			"item_nemesis_curse"		"СТРАННО, ПУСТЬ БУДЕТ ЕСЛИ НИЧЕГО ЛУЧШЕ НЕТУ"
+			"item_ancient_guardian"		"ДА ДА ДА ДА
+
+10/10 (для 4 тира)"
+			"item_mind_breaker"		"ПОСЛЕ ТОГО КАК ЕЕ ПОСТАВИЛИ В 4 ТИР, СТАЛА ХОРОШЕЙ ШМОТКОЙ"
+			"item_sphere"		"НЕ САМАЯ ПОЛЕЗНАЯ ШМОТКА. НО ИНОГДА БЕЗ НЕЕ НИКАК"
+			"item_slippers"		"НУЖЕН НА СТАРТЕ ЧТОБЫ ЛЕГЧЕ ДОБИВАТЬ КРИПОВ. К ТЫЧКЕ ДРОВКИ НУЖНО ПРИВЫКНУТЬ, УРОН ЛИШНИМ НЕ БУДЕТ"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"drow_ranger_frost_arrows"
+			"2"		"drow_ranger_multishot"
+			"3"		"drow_ranger_frost_arrows"
+			"4"		"drow_ranger_multishot"
+			"5"		"drow_ranger_multishot"
+			"6"		"drow_ranger_marksmanship"
+			"7"		"drow_ranger_multishot"
+			"8"		"drow_ranger_wave_of_silence"
+			"9"		"drow_ranger_frost_arrows"
+			"10"		"special_bonus_unique_drow_ranger_7"
+			"11"		"drow_ranger_wave_of_silence"
+			"12"		"drow_ranger_marksmanship"
+			"13"		"drow_ranger_wave_of_silence"
+			"14"		"drow_ranger_wave_of_silence"
+			"15"		"special_bonus_attack_range_75"
+			"16"		"drow_ranger_frost_arrows"
+			"18"		"drow_ranger_marksmanship"
+			"20"		"special_bonus_unique_drow_ranger_1"
+			"25"		"special_bonus_unique_drow_ranger_3"
+		}
+		"AbilityTooltips"
+		{
+			"drow_ranger_frost_arrows"		"БРАТЬ НА ПЕРВОМ УРОВНЕ.ДОП УРОН ДЛЯ ЛАСТИХИТА И ЗАМЕДЛО ДЛЯ ХАРАСА ВРАГА.
+(УЛУЧШАЕТСЯ С АГАНИМ ШАРДОМ)"
+			"drow_ranger_multishot"		"ПОСЛЕ ПРОКАЧКИ 1-ГО СКИЛЛА В 2(ИНОГДА 3),МАКСИТЬ ЭТО.ДАЁТ ФАРМ"
+			"drow_ranger_wave_of_silence"		"ПРОСТО САЛО,НА ЛАЙНЕ ПОЧТИ ВСЕГДА БЕЗПОЛЕЗНО, НО МОЖНО ВЗЯТЬ ЕСЛИ УБИЙСТВО НА ЛИНИИ ЗАВИСИТ ОТ САЛА(НА 4-5 УР МОЖНО БРАТЬ)"
+			"special_bonus_movement_speed_20"		"СЛАБО"
+			"special_bonus_agility_10"		"В ОСНОВНОМ БРАТЬ ЭТО"
+			"special_bonus_unique_drow_ranger_1"		"ПРИЯТНО"
+			"special_bonus_unique_drow_ranger_3"		"Будет сильнее, если в файте дают бить
+"
+			"special_bonus_unique_drow_ranger_6"		"Тоже не плохо"
+			"special_bonus_cooldown_reduction_30"		"ТАКЖЕ РЕЖЕТ КД ПРЕДМЕТОВ
+ПРЕДПОЧТИТЕЛЬНО БРАТЬ ЕГО ЕСЛИ БИЛД ЧЕРЕЗ  БКБ,ХЕКС И ТД.ЭТО"
+			"drow_ranger_marksmanship"		"УМНОЖАЕТ ВСЮ НАШУ ЛОВКОСТЬ И ТАКЖЕ ДАЁТ ЕЁ НАШИМ ТИММЕЙТАМ В ОКРУГЕ.
+ВАЖНО ПОМНИТЬ,ЧТО СКИЛЛ ОТКЛЮЧАЕТСЯ КОГДА РЯДОМ ВРАГ! Т.Е. БОЛЬШИЕ СТРЕЛЫ НЕ БУДУТ ПРОКАТЬ КОГДА КТО-ТО ОЧЕНЬ БЛИЗКО"
+			"special_bonus_all_stats_5"		"ЭТО СИЛЬНЕЕ"
+			"special_bonus_unique_drow_ranger_7"		"Нужно брать. Иначе маны будет не хватать всю игру"
+			"special_bonus_unique_drow_ranger_2"		"Обычно 4-я волна в файте не нужна, то есть это чисто под лес. Хз, лучше взять минус ману"
+			"special_bonus_unique_drow_ranger_8"		"Если играем от статов(много ловкости) то можно взять это"
+			"special_bonus_unique_drow_ranger_gust_selfmovespeed"		"Сложно реализовать, лучше правый"
+			"special_bonus_attack_range_75"		"Дальность лишней не будет. +позиция"
+		}
+	}
+}
+ 

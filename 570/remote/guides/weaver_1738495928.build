@@ -1,0 +1,87 @@
+"guidedata"
+{
+	"Hero"		"weaver"
+	"Title"		"100% EZ GAME"
+	"GameplayVersion"		"7.37e"
+	"Overview"		""
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x00000000CBDD272C"
+	"OriginalCreatorID"		"0x00000000382F8487"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000679F6CC0"
+	"TimePublished"		"0x00000000679F6CC0"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_falcon_blade"
+				"item"		"item_power_treads"
+				"item"		"item_dragon_lance"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_greater_crit"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
+				"item"		"item_satanic"
+				"item"		"item_skadi"
+				"item"		"item_rapier"
+				"item"		"item_hurricane_pike"
+				"item"		"item_assault"
+				"item"		"item_mjollnir"
+				"item"		"item_monkey_king_bar"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_flask"
+				"item"		"item_clarity"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_dust"
+				"item"		"item_infused_raindrop"
+				"item"		"item_smoke_of_deceit"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"weaver_shukuchi"
+			"2"		"weaver_geminate_attack"
+			"3"		"weaver_geminate_attack"
+			"4"		"weaver_shukuchi"
+			"5"		"weaver_geminate_attack"
+			"6"		"weaver_time_lapse"
+			"7"		"weaver_shukuchi"
+			"8"		"weaver_geminate_attack"
+			"9"		"weaver_shukuchi"
+			"10"		"special_bonus_strength_7"
+			"11"		"weaver_the_swarm"
+			"12"		"weaver_time_lapse"
+			"13"		"weaver_the_swarm"
+			"14"		"weaver_the_swarm"
+			"15"		"special_bonus_mana_break_20"
+			"16"		"weaver_the_swarm"
+			"18"		"weaver_time_lapse"
+			"20"		"special_bonus_unique_weaver_2"
+			"25"		"special_bonus_unique_weaver_5"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

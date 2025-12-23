@@ -1,0 +1,252 @@
+"guidedata"
+{
+	"Hero"		"morphling"
+	"Title"		"Morphine"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.40"
+	"Overview"		"В данном руководстве на Morphling'а я поведаю вам основы skillbuild'а & itembuild'а для игры на средней линии. В разделах: \"Начальные предметы\", \"Ранняя игра\", \"Середина игры\" и \"Поздняя игра\" собраны предметы как бы выглядела идеальная игра, но идеальных игр не существует, поэтому в разделе \"Ситуативно\" собраны предметы под самые разные ситуации. Способности и Древо талантов следует прокачивать ситуативно. "
+	"GuideRevision"		"3017"
+	"AssociatedWorkshopItemID"		"0x000000005227CEAE"
+	"OriginalCreatorID"		"0x000000001365C3F4"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006949477F"
+	"TimePublished"		"0x000000006949477F"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Начальные предметы (EBB)"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_rapier"
+				"item"		"item_branches"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
+				"item"		"item_faerie_fire"
+				"item"		"item_rapier"
+				"item"		"item_magic_stick"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_faerie_fire"
+				"item"		"item_rapier"
+			}
+			"Начальные предметы (FLOW)"
+			{
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_ring_of_protection"
+				"item"		"item_rapier"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+			}
+			"EBB"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
+				"item"		"item_diffusal_blade"
+				"item"		"item_dragon_lance"
+			}
+			"EBB late"
+			{
+				"item"		"item_manta"
+				"item"		"item_butterfly"
+				"item"		"item_disperser"
+				"item"		"item_skadi"
+				"item"		"item_hurricane_pike"
+				"item"		"item_swift_blink"
+			}
+			"FLOW"
+			{
+				"item"		"item_ring_of_health"
+				"item"		"item_soul_ring"
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+			}
+			"FLOW late"
+			{
+				"item"		"item_phylactery"
+				"item"		"item_dagon_5"
+				"item"		"item_ethereal_blade"
+				"item"		"item_disperser"
+				"item"		"item_skadi"
+				"item"		"item_swift_blink"
+				"item"		"item_refresher"
+			}
+			"ситуативно"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_wind_lace"
+				"item"		"item_wraith_band"
+				"item"		"item_bottle"
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_falcon_blade"
+				"item"		"item_aghanims_shard"
+				"item"		"item_hand_of_midas"
+				"item"		"item_vladmir"
+				"item"		"item_mage_slayer"
+				"item"		"item_revenants_brooch"
+				"item"		"item_black_king_bar"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_nullifier"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_sphere"
+				"item"		"item_satanic"
+				"item"		"item_greater_crit"
+				"item"		"item_sheepstick"
+				"item"		"item_mjollnir"
+				"item"		"item_angels_demise"
+				"item"		"item_silver_edge"
+				"item"		"item_bloodthorn"
+				"item"		"item_wind_waker"
+			}
+			"Конец игры"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_mask_of_madness"
+				"item"		"item_vladmir"
+				"item"		"item_armlet"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_meteor_hammer"
+				"item"		"item_desolator"
+				"item"		"item_boots_of_bearing"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_wraith_band"		"Покупать не больше 2-ух тиар."
+			"item_sange_and_yasha"		"Плотность и сопротивление эффектам."
+			"item_ethereal_blade"		"Ура, езериал изменили)"
+			"item_diffusal_blade"		"Против героев, которые убегают при помощи высокой скорости передвижения.
+
+искл. Кентавр, Люкан, Лансер, Вивер и Дарк Сир."
+			"item_hand_of_midas"		"Окупается за 21 минуты."
+			"item_aghanims_shard"		"Не работает в хексе, в страхе, в дуэли, в блекхоле, в думе и в стяжке Лича."
+			"item_magic_wand"		"Перед применением желательно избавиться от атрибутов силы и интеллекта, а также от предметов, дающих здоровье и ману."
+			"item_bottle"		"Перед применением желательно избавиться от атрибутов силы и интеллекта, а также от предметов, дающих здоровье и ману."
+			"item_black_powder_bag"		"Green armor"
+			"item_revenants_brooch"		"Против большого количества брони."
+			"item_disperser"		"Против героев, которые убегают при помощи высокой скорости передвижения.
+
+искл. Кентавр, Люкан, Лансер, Вивер и Дарк Сир."
+			"item_lifesteal"		"Покупается для того, чтобы находиться на полном здоровье."
+			"item_satanic"		"Позволяет перебить многих героев."
+			"item_dragon_lance"		"Атрибуты и плотность."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"morphling_morph_agi"
+			"2"		"morphling_adaptive_strike_agi"
+			"3"		"morphling_waveform"
+			"4"		"morphling_morph_agi"
+			"5"		"morphling_waveform"
+			"6"		"morphling_waveform"
+			"7"		"morphling_waveform"
+			"8"		"morphling_replicate"
+			"9"		"morphling_adaptive_strike_agi"
+			"10"		"morphling_adaptive_strike_agi"
+			"11"		"morphling_adaptive_strike_agi"
+			"12"		"morphling_replicate"
+			"13"		"morphling_morph_agi"
+			"18"		"morphling_replicate"
+			"22"		"morphling_morph_agi"
+			"23"		"special_bonus_unique_morphling_8"
+			"24"		"special_bonus_unique_morphling_1"
+			"25"		"special_bonus_unique_morphling_7"
+			"26"		"special_bonus_unique_morphling_waveform_cooldown"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_unique_morphling_1"		"
+              *•.,¸,.•*•.,¸,.•*╭━━━━╮
+              *•.,¸,.•*•.,¸,.•*  |::::::::::::: /\\___/\\
+              *•.,¸,.•*•.,¸,.•*  |:::::::::::::( ●ω●)
+              *•.,¸,.•*•.,¸,.•*╰し-----し---Ｊ
+
+      Увеличивает дальность волны на 25%"
+			"special_bonus_agility_10"		"10 скорости атаки;
+10 урона;
+≈1.67 броню."
+			"special_bonus_attack_speed_30"		"Берём если хватает и 20 сек. действия Morph
+
+                            ╭╯
+                   ╱▔╭╯▔╲
+               ▕╲▂▂▂▂╱▏                  ▏               ▕━╮
+                  ▏  Coffee    ▕    ┃
+                  ▏               ▕━╯
+                   ╲▂▂▂▂╱"
+			"special_bonus_cooldown_reduction_15"		"Хорошо сочетается с BLACK KING BAR и многими способностями. "
+			"special_bonus_agility_12"		"Для быстрых игр"
+			"special_bonus_attack_speed_40"		"Для быстрых игр или не в кого превращаться"
+			"special_bonus_unique_morphling_8"		"Кулдаун: 140/100/60                     ／＞    フ
+                                                                 　　　　　| 　  _　      _|
+Длительность: 36                       ／ミ   x  彡
+                                                         　　 　 /　　　 　                |
+                                                        /　     ヽ         /      
+                                            ／￣ |　　           |　    |  　|
+　                                            |  (￣ヽ＿_ヽ_)_)
+                                      　     ＼二つ "
+			"special_bonus_cooldown_reduction_12"		"-12% слишком слабо"
+			"special_bonus_strength_30"		" ⊂_ヽ                                         
+　       ＼＼ Λ＿Λ                     +.     +     
+        　　 ＼ (　ˇωˇ)　                     ・゜+    *
+             \\        　　　 　⌒ヽ           ☆    °。+
+             　　　/ ⌢⌢     ◠◠      へ＼           /             * 。*
+          　　 /           　　 /  ＼＼       /         +30 Strength
+　　 ﾚ　         (        ノ      ヽ_つ/ 
+         /　       /                     /
+　       / "
+			"special_bonus_agility_15"		"2,4 armor, 15 attack speed
+(15 damage for EBB)"
+			"special_bonus_strength_20"		"400 HP и 1,8 HP/sec"
+			"special_bonus_magic_resistance_15"		"Против большого количества магического урона.
+⠀⠀ ⠀ 
+                                            ／l ／l
+　　　　　　　                                     　     （ﾟ•  .  • ｡ )
+                                              　　　　　　　　　l  、   ヽ   .•　　
+　　　　　　                              　　           　しし (＿)ノ"
+			"special_bonus_strength_35"		"770 HP and 3,15 HP/sec
+(35 damage for FLOW)
+    ⊂ヽ
+        　 ＼＼Λ ＿ Λ
+　　           ＼(ˇㅅˇ)
+              　　　\\　                ヽ            ☆
+             　　　/ 　         ⌒  ＼             /
+          　　 /             　　/　    ＼ ＼         /
+         　　(　          ノ         ヽ＿つ/
+         　　/        　/                          /
+　       /　    /    |
+     　(     　(    ヽ
+      　|　     |、  ＼
+      　|     　| ＼⌒)
+      　|   丿  |     /
+  ／    )   ( _ /
+(＿／"
+			"morphling_morph_agi"		"Отключать, когда базовая сила заканчивается."
+			"morphling_morph_str"		"Включать на фонтане, при применении bottle и подъёме на highground."
+			"special_bonus_unique_morphling_waveform_cooldown"		"   ∧＿∧                               CD:  7.2 sec
+  ( ●ㅅ●)              brooo...   
+⊂         つ━☆   
+    し   Ｊ          ・。                  ／l   ／l           ☆- 
+                            +                   (  x  ｡ x  /                \\
+                                  ⊂、        : • . :  . つ  /
+                                                    \\        /
+                                                   /  /  |  |
+               ...ther.                   ⊂ /       • . : ."
+		}
+	}
+}
+ 

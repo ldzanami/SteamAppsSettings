@@ -1,0 +1,29 @@
+"252490"
+{
+	"ChangeNumber"		"33"
+	"OSType"		"0"
+	"cfg/favorites.cfg"
+	{
+		"root"		"1"
+		"size"		"1413"
+		"localtime"		"1763144413"
+		"time"		"1763144412"
+		"remotetime"		"1763144412"
+		"sha"		"6ac05850c270d0c911f0b64e3a4a0d2207324363"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cfg/keys.cfg"
+	{
+		"root"		"1"
+		"size"		"1446"
+		"localtime"		"1761577136"
+		"time"		"1761577135"
+		"remotetime"		"1761577135"
+		"sha"		"48898bbb93961e38ad91accba3e2ef34e78fcabc"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

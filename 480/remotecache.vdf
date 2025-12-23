@@ -1,0 +1,29 @@
+"480"
+{
+	"ChangeNumber"		"0"
+	"OSType"		"0"
+	"MainCharacter/metadata.json"
+	{
+		"root"		"0"
+		"size"		"567"
+		"localtime"		"1658565216"
+		"time"		"1658565215"
+		"remotetime"		"1658565215"
+		"sha"		"4bb010af6707d9dc00014cb4013522ec0b8b91b7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"progress.txt"
+	{
+		"root"		"0"
+		"size"		"262"
+		"localtime"		"1658660073"
+		"time"		"1658660072"
+		"remotetime"		"1658660072"
+		"sha"		"cbaeb0d1f1ec43912e41023355787071761ff563"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
