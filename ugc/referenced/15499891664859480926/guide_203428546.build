@@ -1,0 +1,171 @@
+"guidedata"
+{
+	"Hero"		"legion_commander"
+	"Title"		"Torte de Lini Position 3, Facet 1"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.40b"
+	"Overview"		" "
+	"GuideRevision"		"444"
+	"AssociatedWorkshopItemID"		"0x000000000C2012C2"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000694D38D8"
+	"TimePublished"		"0x00000000694D38D8"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_gauntlets"
+				"item"		"item_circlet"
+			}
+			"early GAME"
+			{
+				"item"		"item_bracer"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"core ITEMS"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_blade_mail"
+				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
+			}
+			"situationAL ITEMS"
+			{
+				"item"		"item_heavens_halberd"
+				"item"		"item_revenants_brooch"
+				"item"		"item_harpoon"
+			}
+			"extension ITEMS"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_nullifier"
+				"item"		"item_refresher"
+				"item"		"item_greater_crit"
+				"item"		"item_assault"
+			}
+			"luxury ITEMS"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_satanic"
+				"item"		"item_bloodthorn"
+				"item"		"item_overwhelming_blink"
+			}
+			"  "
+			{
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"gain mmr at"
+			{
+			}
+			"youtube/tortedelini"
+			{
+			}
+			"twitch/tortedelini"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Legion Commander needs early Duel wins to snowball into the late-game. If youre farming well and can rush this; engaging foes to Duel should be easier; thus more damage and easier time late-game."
+			"item_assault"		"With weak armour and attack speed, Legion Commander really benefits from this defensive and team-oriented item. The reduction in enemies armour as well as bolstering your own really helps even the field so when you duel, youll have continued success."
+			"item_black_king_bar"		"Black King Bar is just a safe item overall and can really help you out of jams. When you are dueling, it is comfortable to know you have BKB if a foe is nearby that may be able to stun you.
+
+Be sure to activate this before dueling as you cannot do it after you start your ultimate."
+			"item_blade_mail"		"Pop Blade Mail just before blinking onto an enemy and Dueling them. This will punish their forceful attacks and kill them within the time-limit of your ultimate ability."
+			"item_monkey_king_bar"		"For pesky evasive enemies, the damage may also be something you want or need. Not necessarily needed, but it can be good if you find yourself not winning the Duels that you need."
+			"item_armlet"		"Be sure to activate this before using your ultimate. With your passive ability lifesteal and Armlet, you will be an incredibly difficult opponent to take down 1 vs. 1.
+
+Armlet should be bought before (or after) Black King Bar. Typically there will be better items later on in the game."
+			"item_silver_edge"		"Silver Edge works great to initiate on your duel. Get the hit in, Break annoying passives that could prevent you from winning the duel and then regank once it is up.
+
+Caution that your mana-pool is really small; so Silver Edge is only justified if the enemy team has evading or strong passives."
+			"item_abyssal_blade"		"It goes without saying why Abyssal Blade is so amazing on Legion Commander, especially at the later stages of the game.
+
+Strong damage, great active ability to finish off with your ultimate! Late into the game, you should have damage so Blink  into Abyssal Stun + auto-attack and Duel."
+			"item_heavens_halberd"		"Dodge, more strength and the ability to disable key foes that you may want to prevent from disrupting your Duel. Quite useful! This fits for Legion Commander!"
+			"item_ultimate_scepter"		"Aghs Scepter not only increases the duration of your Duels so you are more guaranteed to kill your opponent during the Duel to get the damage but it also provides debuff immunity throughout its duration so you cannot be interrupted during that Duel."
+			"item_bracer"		"An early bracer increases your survivability in the lane especially versus a heavy harassing team."
+			"item_phase_boots"		"Phase Boots increases Legion Commanders armor while also helping close the gap between her foes with Overwhelming Odds to eventually duel them."
+			"item_soul_ring"		"Legion Commander suffers from mana issues in which Soul Ring pays that back. Spam Overwhelming Odds with Soul Ring and rely on your passive to eventually earn the health back.
+
+Eventually, you can use Soul Ring to spam Press The while farming the jungle."
+			"item_ancient_janggo"		"Drum of Endurance is a nice all-around item that give Legion more movement speed, some mana regeneration and more importantly, attack speed to finish duels off quickly."
+			"item_desolator"		"Desolator can be a bump in damage and follow-through against towers or enemies to win duels more swiftly if you had a particularly rough mid-game.
+
+It can also be bought to help tear down towers if your team lacks pushing power."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_helm_of_iron_will"		"An early Helm of the Iron Will can help you survive the lane but more importantly, hastens your purchase to Armlet."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in massive attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do will be count as critical, allowing you tear them down relatively quickly before the duration of Bloodthorn ends!"
+			"item_slippers"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_falcon_blade"		"Falcon Blade provides everything that Legion likes: damage for her Duels, mana regeneration to spam her Overwhelming Odds and life to outlast enemies in Duels."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it dispels your target. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls, Glimmer and Satanic to have them nullified against you.
+
+Hero passive abilities like Windrangers Windrun and Monkey Kings Jingu Mastery are also nullified by Nullifier."
+			"item_crimson_guard"		"Crimson Guard is recommended against high-input and illusion-base or unit-related damage heroes, like Lycan or Broodmother, to mitigate their physical output against your team that needs, but cannot focus on, sustainability. Crimson Guard scales with your strength, so it is especially valuable with heroes who have high strength gain or are building strength-base items."
+			"item_harpoon"		"Harpoon should only be considered if playing against heroes with Linkens Sphere."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"legion_commander_overwhelming_odds"
+			"2"		"legion_commander_moment_of_courage"
+			"3"		"legion_commander_overwhelming_odds"
+			"4"		"legion_commander_press_the_attack"
+			"5"		"legion_commander_overwhelming_odds"
+			"6"		"legion_commander_duel"
+			"7"		"legion_commander_overwhelming_odds"
+			"8"		"legion_commander_moment_of_courage"
+			"9"		"legion_commander_moment_of_courage"
+			"10"		"legion_commander_moment_of_courage"
+			"11"		"special_bonus_unique_legion_commander_9"
+			"12"		"legion_commander_duel"
+			"13"		"legion_commander_press_the_attack"
+			"14"		"legion_commander_press_the_attack"
+			"15"		"special_bonus_unique_legion_commander_4"
+			"16"		"legion_commander_press_the_attack"
+			"18"		"legion_commander_duel"
+			"20"		"special_bonus_unique_legion_commander_5"
+			"25"		"special_bonus_unique_legion_commander_8"
+		}
+		"AbilityTooltips"
+		{
+			"legion_commander_overwhelming_odds"		"This ability is your nuke in the lane to help with last-hits and to harass other melee enemies near or around your hero. Use this during Duel right as the fight starts or if you know other enemies will join, pop this ability to do even more damage to your Dueling target."
+			"legion_commander_press_the_attack"		"Press the Attack removes all debuffs and disables on your allies when cast. 
+
+In addition, it also regenerates the targets health and improves their movement speed. This ability can be especially helpful to help you close the gap on enemies you want to Duel before youve purchased Blink Dagger."
+			"legion_commander_moment_of_courage"		"Any and all unique modifiers you have are applied through this passive as well. The lifesteal on this passive is not counted as a unique modifier."
+			"legion_commander_duel"		"Duel before the killing blow. Early on, you want to build damage with this, not initiate first. Activate any items before dueling.
+
+1. Cast Press the Attack on yourself
+2. Blink onto Foe
+3. Duel them to death
+
+Early Duel wins should be used to farm faster. Seek fights only when Duel is up."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

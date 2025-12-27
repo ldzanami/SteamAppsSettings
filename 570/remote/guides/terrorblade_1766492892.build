@@ -1,0 +1,80 @@
+"guidedata"
+{
+	"Hero"		"terrorblade"
+	"Title"		"Без названия"
+	"GameplayVersion"		"7.40"
+	"Overview"		""
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x00000000382F8487"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000694A8B2B"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_tango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_falcon_blade"
+				"item"		"item_power_treads"
+				"item"		"item_dragon_lance"
+				"item"		"item_yasha"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_manta"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_skadi"
+				"item"		"item_greater_crit"
+				"item"		"item_butterfly"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_hurricane_pike"
+				"item"		"item_satanic"
+				"item"		"item_sphere"
+				"item"		"item_rapier"
+				"item"		"item_bloodthorn"
+				"item"		"item_disperser"
+				"item"		"item_swift_blink"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
+				"item"		"item_nullifier"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_ultimate_scepter_2"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"terrorblade_conjure_image"
+			"2"		"terrorblade_metamorphosis"
+			"3"		"terrorblade_conjure_image"
+			"4"		"terrorblade_metamorphosis"
+			"5"		"terrorblade_conjure_image"
+			"6"		"terrorblade_sunder"
+			"7"		"terrorblade_conjure_image"
+			"8"		"terrorblade_metamorphosis"
+			"9"		"terrorblade_metamorphosis"
+			"12"		"terrorblade_sunder"
+			"18"		"terrorblade_sunder"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

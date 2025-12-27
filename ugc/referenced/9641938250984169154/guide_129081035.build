@@ -1,0 +1,188 @@
+"guidedata"
+{
+	"Hero"		"nevermore"
+	"Title"		"Torte de Lini Position 1, Facet 1"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.40b"
+	"Overview"		" "
+	"GuideRevision"		"424"
+	"AssociatedWorkshopItemID"		"0x0000000007B19ECB"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000694C4203"
+	"TimePublished"		"0x00000000694C4203"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"STARTING ITEMS"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_quelling_blade"
+			}
+			"Early game"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_boots"
+			}
+			"Core items"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_falcon_blade"
+				"item"		"item_mask_of_madness"
+				"item"		"item_yasha"
+				"item"		"item_manta"
+				"item"		"item_hurricane_pike"
+			}
+			"Situational Items"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_sphere"
+			}
+			"Extension items"
+			{
+				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
+				"item"		"item_butterfly"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_satanic"
+			}
+			"Luxury Items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_sheepstick"
+				"item"		"item_silver_edge"
+				"item"		"item_swift_blink"
+			}
+			"  "
+			{
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"gain mmr at"
+			{
+			}
+			"youtube/tortedelini"
+			{
+			}
+			"twitch/tortedeliniUntitled"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_bottle"		"Shadow Fiend blows through his mana incredibly fast, especially due to Raze. Quickly rack up souls for your damage and use Raze to do it. You can refill your bottle at a rune."
+			"item_black_king_bar"		"Black King Bar is to let you safely auto-attack and cast your ultimate without fear of being interrupted. Since you want to be as close as possible to your enemies, Black King Bar does away with any fears of not being able to pull off your ultimate."
+			"item_butterfly"		"Evasion and maintain your damage. Butterfly works out great to Shadow Fiends otherwise decent attack speed."
+			"item_manta"		"Push harder, deal faster damage and gain much needed attack and movement speed. Manta Style can also be used to break some disables and silences. To add, since your passive reduces enemys armor, your illusions deal more damage too.
+
+Manta Style can also help you farm other areas while you farm a lane."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities)."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_hurricane_pike"		"When enemies get too close and in your face, use Hurricane Pike to push them away and provide insane range for your attacks.
+
+Also useful if you have the jump on them to push them immediately apart from your attacks and kite them hard."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_ethereal_blade"		"Ethereal Blade can be used both offensively to disarm a physically-attacking enemy and cause it to receive even more magic damage or on an ally/yourself to prevent your opponent from physically targeting them with attacks."
+			"item_tango"		"Plant a tree with iron branch to consume with tangos to increase your regeneration - especially useful in the mid-lane where you want to save starting items to afford early game items like bottle or boots of speed."
+			"item_skadi"		"Eye of Skadi is great at the end-game to take down high health targets, strong rivaling physical carries by slowing their attack speed and also prevent enemies from fleeing with your movement slow debuff. It provides stats across the board providing everything a carry needs to cap the game to a win."
+			"item_invis_sword"		"Shadow Blade allows you to comfortably get near foes. Open with your ultimate: Requiem of Souls and follow-up with Shadowraze before finishing them off with your physical auto-attack.
+
+You dont need to position yourself directly on top of enemies to blow your ultimate, just in a position where you know you can hit them and follow-through with your attack."
+			"item_blink"		"Use Blink Dagger to initiate onto unsuspecting enemies.
+
+Alternatively, rely on Blink Dagger to engage in fights after theyre already begun to ensure you can channel your ultimately entirely to deal massive AoE damage."
+			"item_travel_boots"		"Boots of Travel hastens your farming, movement for positioning and keeps Shadow Fiend on top of fleeing foes or at the rim of fights as it changes direction."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for heroes who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks.
+
+The Pierce effect also means a mix-up in damage, especially strong against enemies who have high armor (Dragon Knight, AGI carries) that can outlast your physical damage output."
+			"item_arcane_blink"		"Arcane Blink means you can nearly instantly cast your ultimate, no longer relying on Euls Scepter and BKB to ensure you can maximize your damage output without interruption."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_dragon_lance"		"Dragon Lance is great stats and additional range for a Shadow Fiend that has great damage but is very susceptible to damage and dying when caught out."
+			"item_aghanims_shard"		"Aghs Shard provides you more utility in fights outside of your ultimate and capitalizes on your follow-through after you use your ultimate to land easy Shadowrazes and thus lower its cooldown for stacked-based damage."
+			"item_sange_and_yasha"		"Sange and Yasha provides a lot more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced while the Yasha portion gives you the movement and attack speed to close the gaps on foes and start dealing damage much faster and efficiently."
+			"item_mask_of_madness"		"If playing Safe Lane Shadow Fiend, pick up Mask of Madness for additional farm and attack speed when engaging in fights but more importantly for farming.
+
+Otherwise, picking this up late to disassemble into Butterfly and Satanic is not a bad idea. The key thing with Mask of Madness is that you hit hard but lack attack speed when you should be online. This is a cheap way to get it."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in massive attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do will be count as critical, allowing you tear them down relatively quickly before the duration of Bloodthorn ends!
+
+Bloodthorn also has True Strike meaning all your attacks will land during its Active component."
+			"item_infused_raindrop"		"Opt for Infused Raindrops for cheap mana regeneration until you can get your larger mana-leaning item.
+
+Infused Raindrops also helps a lot versus nuking abilities that would typically wipe you out."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_falcon_blade"		"Falcon Blade alleviates some of the pressure of always needing mana in the lane, secure last-hits with your right-click and be able to survive harassment comfortably."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_ring_of_basilius"		"An early Ring of Basilius relives mana management on your side but can also provide additional mana for your teammates if you have an especially aggressive lane with great early-game abilities."
+			"item_greater_crit"		"An alternative to Silver Edge if you dont need the break but need massive damage."
+			"item_ultimate_scepter"		"Aghs Scepter not only raises your Souls maximum, thus more damage from your ultimate and attacks but it also enhances your ultimate for the late-game where it does additional damage after casting it."
+			"item_demonicon"		"Please contact Valve Software as they do not allow the build system to recommend leveling stats."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"nevermore_shadowraze1"
+			"2"		"nevermore_dark_lord"
+			"3"		"nevermore_shadowraze1"
+			"4"		"nevermore_dark_lord"
+			"5"		"nevermore_shadowraze1"
+			"6"		"nevermore_requiem"
+			"7"		"nevermore_shadowraze1"
+			"8"		"nevermore_dark_lord"
+			"9"		"nevermore_dark_lord"
+			"10"		"special_bonus_unique_nevermore_4"
+			"11"		"nevermore_frenzy"
+			"12"		"nevermore_requiem"
+			"13"		"nevermore_frenzy"
+			"14"		"nevermore_frenzy"
+			"15"		"special_bonus_unique_nevermore_3"
+			"16"		"nevermore_frenzy"
+			"18"		"nevermore_requiem"
+			"20"		"special_bonus_unique_nevermore_1"
+			"25"		"special_bonus_unique_nevermore_raze_procsattacks"
+		}
+		"AbilityTooltips"
+		{
+			"nevermore_shadowraze1"		"Shadowraze is a skill shot ability that works in three-ranges: Short, Medium, Large. Be sure to follow-up with one after the other if the opponent is coming towards you or fleeing.
+
+During Laning, using your Middle Shadowraze allows you to follow-up with long or short range depending how your opponent reacts
+
+Hitting the target with multiple Shadow Razes increases the damage taken so during the laning phase, definitely harass constantly with this ability.
+
+This increase of damage is also how you farm camps."
+			"nevermore_requiem"		"This ultimate has a small casting time, but it can be stopped with S at any time without a cooldown. 
+
+1. Activate Shadow Blade/Euls/Blink to get into position
+2. Use Requiem of Souls when on top of a foes position
+
+Fear effect does not occur upon deaths version of Requiem of Souls
+3. Follow-up with auto-attacks and Raze"
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_40"		"If following &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Core Items (Magic)&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;, pick this talent."
+			"special_bonus_cooldown_reduction_30"		"If following &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Core Items (Magic)&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;, pick this talent."
+			"special_bonus_attack_speed_15"		"If following &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Core Items (Physical)&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;, pick this talent."
+			"special_bonus_spell_amplify_6"		"If following &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Core Items (Magic)&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;, pick this talent."
+			"special_bonus_movement_speed_25"		"If following &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Core Items (Magic)&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;, pick this talent."
+		}
+	}
+}
+ 

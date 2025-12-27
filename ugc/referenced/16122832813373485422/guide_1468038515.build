@@ -1,0 +1,148 @@
+"guidedata"
+{
+	"Hero"		"alchemist"
+	"Title"		"MOUZ Guides  | Alchemist Carry"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.40b"
+	"Overview"		""
+	"GuideRevision"		"186"
+	"AssociatedWorkshopItemID"		"0x0000000057807D73"
+	"OriginalCreatorID"		"0x0000000006300EB0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000694E9CAD"
+	"TimePublished"		"0x00000000694E9CAD"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_tango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_soul_ring"
+				"item"		"item_magic_wand"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_radiance"
+				"item"		"item_blink"
+				"item"		"item_orchid"
+				"item"		"item_black_king_bar"
+				"item"		"item_bloodthorn"
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_overwhelming_blink"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_aghanims_shard"
+				"item"		"item_satanic"
+				"item"		"item_heart"
+				"item"		"item_mjollnir"
+				"item"		"item_butterfly"
+				"item"		"item_sphere"
+				"item"		"item_nullifier"
+				"item"		"item_sheepstick"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_silver_edge"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_moon_shard"
+			}
+			"consumables"
+			{
+				"item"		"item_flask"
+				"item"		"item_tango"
+				"item"		"item_clarity"
+				"item"		"item_enchanted_mango"
+				"item"		"item_infused_raindrop"
+				"item"		"item_blood_grenade"
+			}
+			"visit mouz.gg/dota"
+			{
+				"item"		"item_gem"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_radiance"		"Radiance is a farming item rather than a fighting one, so choose your fights wisely after you get it. Usually the next item you get after Radiance is the time to go and take fights."
+			"item_black_king_bar"		"Black King Bar enables your teamfight abilities; its an item you usually get against a lot of magic damage or lockdown."
+			"item_blink"		"Blink Dagger is an item for positioning and initiation. Its a great item both offensively and defensively."
+			"item_shivas_guard"		"A great teamfighting tool, gives you vision while you use it, works well against physical damage heroes or heroes with illusions/summons."
+			"item_assault"		"Provides an attack speed and armor aura buff and an armor aura debuff. A great item for teamfighting and pushing."
+			"item_abyssal_blade"		"Abyssal Blade provides you lockdown which can help you burst down certain targets."
+			"item_ultimate_scepter"		"You can give Aghanim’s to your allies; since youre the fastest farmer in the game, you are going to hit your timings really fast. You can further enable them with this great tool and also enable yourself (gain 30 damage and 6% spell AMP for each given Scepter)."
+			"item_octarine_core"		"An item which enables all your active skills and items as well. Works really well with Radiance, Manta Style and Black King Bar."
+			"item_manta"		"A powerful item for farming, split pushing and dodging spells or removing debuffs. If you time it correctly you can dodge your Unstable Concoction if you cannot find a foe to use it on."
+			"item_mjollnir"		"Mjollnir helps you enhance your farming capabilities, helps you push lanes faster, and works really well against illusions or a lot of targets. It can be self-casted or on allied heroes or creeps."
+			"item_sphere"		"You usually get Linkens Sphere against single target spells that have a high impact against you."
+			"item_nullifier"		"An item that prevents the target from using any items’ active abilities and even cancels them if already activated. Especially good against Black King Bar."
+			"item_bloodthorn"		"Bloodthorn is an item that silences targets and helps with bursting them down. One of the best lategame items overall."
+			"item_sheepstick"		"Scythe of Vyse is the strongest disable overall, a perfect item for focusing a certain target."
+			"item_silver_edge"		"An item that can be used both offensively and defensively. Get it especially against heroes with strong passive spells."
+			"item_magic_wand"		"Very good for sustaining and fighting later on."
+			"item_power_treads"		"Very good for both farming and fighting when you need to."
+			"item_travel_boots"		"Boots of Travel helps you split push lanes easily. You also get a lot of value out of the move speed and you can join fights easily since you’ll have 2 ways to TP."
+			"item_monkey_king_bar"		"A strong item against multiple heroes with evasion (Butterfly or evasion talents)."
+			"item_satanic"		"Extremely strong lategame item. Provides you utility since you can remove enemy buffs and you can trade/lifesteal health lost."
+			"item_moon_shard"		"In case you don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t have slots anymore and you don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t have high value targets in your team to feed Aghanims, then you can eat a Moon Shard."
+			"item_heart"		"Provides tankiness. Situationally you can build it instead of Black King Bar in order to become unkillable in case the enemy lineup allows it (they dont have many stuns and limited burst damage)."
+			"item_butterfly"		"Good lategame against against certain specific heroes which are mostly/only psyhical damage."
+			"item_overwhelming_blink"		"In case you want to upgrade your Blink Dagger in order to deal more damage and become even tankier, this is the perfect item."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"alchemist_acid_spray"
+			"2"		"alchemist_unstable_concoction"
+			"3"		"alchemist_unstable_concoction"
+			"4"		"alchemist_acid_spray"
+			"5"		"alchemist_acid_spray"
+			"6"		"alchemist_chemical_rage"
+			"7"		"alchemist_acid_spray"
+			"8"		"alchemist_unstable_concoction"
+			"9"		"alchemist_unstable_concoction"
+			"10"		"alchemist_corrosive_weaponry"
+			"11"		"special_bonus_unique_alchemist_5"
+			"12"		"alchemist_chemical_rage"
+			"13"		"alchemist_corrosive_weaponry"
+			"14"		"alchemist_corrosive_weaponry"
+			"15"		"special_bonus_unique_alchemist_3"
+			"16"		"alchemist_corrosive_weaponry"
+			"18"		"alchemist_chemical_rage"
+			"20"		"special_bonus_unique_alchemist_8"
+			"25"		"special_bonus_unique_alchemist_6"
+		}
+		"AbilityTooltips"
+		{
+			"alchemist_acid_spray"		"Acid Spray improves your farming capabilities. You can push waves with it  and farm camps and stacks really fast.
+
+You can trade really well while the enemy is inside your Acid Spray."
+			"alchemist_unstable_concoction"		"Use Unstable Concoction into Acid Spray to further increase your damage potential."
+			"alchemist_goblins_greed"		"Get this at level 1 since it helps a lot with Bounty Runes.
+
+Farm stacked camps (You can stack them yourself to increase your farming efficiency and take advantage of this skill)."
+			"alchemist_chemical_rage"		"This ultimate has a relatively low cooldown and offers a ton of HP/Mana regeneration. Use it to farm; its also great to survive ganks and get that extra movement speed.
+
+When getting slowed or disabled, consider using your ultimate as a Dispel to rid all annoyances.
+"
+			"special_bonus_unique_alchemist"		"Works really well with +400 Unstable Concoction damage at level 20, helps by giving you multiple stuns during teamfights."
+			"special_bonus_unique_alchemist_2"		"A huge burst of damage with a very low cooldown enabled by your level 10 talent."
+			"special_bonus_attack_damage_50"		"Take this talent only with the Psyhical damage build."
+			"special_bonus_cleave_40"		"Take this talent only with the Psyhical damage build."
+			"alchemist_corrosive_weaponry"		"Applies a slow and status resistance reduction for each hit."
+		}
+	}
+}
+ 

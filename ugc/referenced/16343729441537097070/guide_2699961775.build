@@ -1,0 +1,183 @@
+"guidedata"
+{
+	"Hero"		"pudge"
+	"Title"		"Support | Fresh Meat"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.40b"
+	"Overview"		"[b]Key strategic elements to consider when playing Pudge:[/b]
+[list][*]You can Hook runes without losing any mana. Try to Hook an enemy into your allies at the initial bounty rune. Worst case, you will still get the bounty rune with your Hook.
+[*]During the laning stage, don`t play only around the Hook. Also use your hero`s tankiness and high base damage to trade with enemy heroes and deny creeps.
+[*]Pudge has very high base damage and you can use it to get last hits and deny a lot of creeps.
+[*]Try to keep the creep equilibrium close to your tower, so you can hook enemy heroes under the tower.
+[*]Meat Hook kills creeps instantly, except for ancients. Protect your tower by hooking the catapult.
+[*]You can heal up signicantly by Dismembering a high HP creep.
+[*]Find a partner and use Smoke of Deceit to find pick offs.
+[*]Fight around vision so you can land your Hooks more easily.[/list]
+
+[b]Main skill and item combo order:[/b] Rod of Atos => Meat Hook => Rot => Dismember
+
+[b]Power level during the game:[/b]
+[list][*]Laning phase: Low (0.8 out of 3)
+[*]Mid Game: Medium (1.7 out of 3)
+[*]Late Game: Medium (2 out of 3)
+[*]Very late game: Medium (2 out of 3)[/list]
+
+This guide was written by Hammad: https://skelly.gg/g/YoonA
+
+Find out more about Pudge in our Heropedia: https://dotacoach.gg/en/heroes/pudge"
+	"GuideRevision"		"423"
+	"AssociatedWorkshopItemID"		"0x00000000A0EE25AF"
+	"OriginalCreatorID"		"0x00000000158DAF18"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000694C0DBD"
+	"TimePublished"		"0x00000000694C0DBD"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting"
+			{
+				"item"		"item_boots"
+				"item"		"item_blood_grenade"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+			}
+			"Early Game"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_wind_lace"
+				"item"		"item_infused_raindrop"
+			}
+			"Mid Game"
+			{
+				"item"		"item_cyclone"
+				"item"		"item_glimmer_cape"
+				"item"		"item_aether_lens"
+				"item"		"item_aghanims_shard"
+				"item"		"item_veil_of_discord"
+			}
+			"Late Game"
+			{
+				"item"		"item_shivas_guard"
+				"item"		"item_ethereal_blade"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_overwhelming_blink"
+			}
+			"Situational"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_arcane_boots"
+				"item"		"item_soul_ring"
+				"item"		"item_spirit_vessel"
+				"item"		"item_force_staff"
+				"item"		"item_ghost"
+				"item"		"item_blade_mail"
+				"item"		"item_solar_crest"
+				"item"		"item_pipe"
+				"item"		"item_rod_of_atos"
+				"item"		"item_lotus_orb"
+				"item"		"item_black_king_bar"
+				"item"		"item_aeon_disk"
+				"item"		"item_octarine_core"
+				"item"		"item_travel_boots"
+			}
+			"Neutral items tier 1"
+			{
+				"item"		"item_chipped_vest"
+				"item"		"item_kobold_cup"
+				"item"		"item_enhancement_brawny"
+				"item"		"item_enhancement_mystical"
+			}
+			"Neutral items tier 2"
+			{
+				"item"		"item_mana_draught"
+				"item"		"item_essence_ring"
+				"item"		"item_enhancement_greedy"
+				"item"		"item_enhancement_keen_eyed"
+			}
+			"Neutral items tier 3"
+			{
+				"item"		"item_unrelenting_eye"
+				"item"		"item_whisper_of_the_dread"
+				"item"		"item_enhancement_brawny"
+				"item"		"item_enhancement_keen_eyed"
+			}
+			"Neutral items tier 4"
+			{
+				"item"		"item_idol_of_screeauk"
+				"item"		"item_rattlecage"
+				"item"		"item_enhancement_timeless"
+				"item"		"item_enhancement_brawny"
+			}
+			"Neutral items tier 5"
+			{
+				"item"		"item_fallen_sky"
+				"item"		"item_spider_legs"
+				"item"		"item_enhancement_timeless"
+				"item"		"item_enhancement_boundless"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_boots"		"A core item to increase your movement speed to stay on top of enemy heroes with Rot and find better positions to land a Meat Hook. Gets upgraded to Tranquil Boots later in the game."
+			"item_blood_grenade"		"A consumable to do damage and slow enemy heroes for a small cost of your HP. Especially useful to chase and finish off enemy heroes."
+			"item_ward_sentry"		"An item that lets you see enemy wards and invisible heroes in its AoE. In the laning stage, it helps you block and unblock pull camps."
+			"item_tranquil_boots"		"A core Boots of Speed upgrade that provides HP sustain and great movement speed to roam around the map and stay on top of enemy heroes with Rot. The HP regen helps you stay on the map after using your Rot for fighting and farming."
+			"item_magic_wand"		"Start with Magic Stick if you expect high frequency of spells from enemy heroes on the lane."
+			"item_infused_raindrop"		"An early to mid game item to defend against bursts of magical damage. Also provides some useful mana regeneration."
+			"item_cyclone"		"A core item in the mid game to setup your Meat Hook on enemy heroes. Also lets you dispel yourself and buy time when in trouble. Gets upgraded to Wind Waker later in the game."
+			"item_glimmer_cape"		"A core defensive item to make yourself or an ally invisible to get in and out of fights. Also provides magic resistance and a damage barrier on cast to make you more tanky against heavy magic damage lineups."
+			"item_aether_lens"		"A core item with to pair up with Aghanim`s Shard that extends the range of your Meat Hook and Blink Dagger to catch enemy heroes or save allies from further away. Also increases the cast range on Dismember."
+			"item_aghanims_shard"		"A mid to late game pick up to do even more damage with your Meat Hook on enemy heroes. Has great synergy with Aether Lens and cast range increasing Neutral Items to increase the length of the Hook, effectively doing more damage."
+			"item_veil_of_discord"		"A core item that amplifies your spell damage on enemy heroes and creeps in an AoE around you. Also provides some much needed armor and HP sustain. Builds into Shiva`s Guard later in the game."
+			"item_shivas_guard"		"An upgrade for Veil of Discord to become tanky with armor and reduce healing in an AoE around you. Works well against illusions and summons along with your AoE damage from Rot. Has great synergy with aghs to slow enemy heroes from range with the Arctic Blast active and do even more damage with Rot after getting in range."
+			"item_ethereal_blade"		"A late game pick up to amplify your magic damage toolkit on an enemy hero to burst them down. Also works as a save for your cores against physical damage."
+			"item_ultimate_scepter"		"A core item to significantly improve your AoE damage output with Rot and have more impact in teamfights. Also lowers the HP regen of enemy heroes affected by Rot to lower their tankiness. Has great synergy with the Rotten Core facet."
+			"item_overwhelming_blink"		"A core upgrade for Blink Dagger to have more AoE damage and control in teamfights while becoming even more tanky with HP pool."
+			"item_ring_of_basilius"		"An aura item that provides mana regen for yourself and your team. Builds into Arcane Boots or Vladmir`s Offering later in the game."
+			"item_arcane_boots"		"One of the most cost efficient mana sustain items in DOTA, especially when taking into account that it can affect your allies as well."
+			"item_spirit_vessel"		"A powerful early to mid game item against heavy healing lineups to reduce their HP regen and tankiness. Also makes you significantly more tanky and improves the HP sustain of your team after fights."
+			"item_force_staff"		"A mobility item to push yourself or one of your allies away from trouble, or close the gap on enemies. Also lets you push yourself over cliffs and impassable terrain."
+			"item_ghost"		"A defensive item in the mid game mainly to build towards Ethereal Blade that helps defend yourself against physical damage."
+			"item_solar_crest"		"An early to mid game item to buff one of your cores against physical damage while boosting their attack speed and mobility. Can also be cast on yourself to gain a physical damage barrier."
+			"item_pipe"		"An aura item that improves your impact in teamfights by buffing your whole team with magic resistance."
+			"item_rod_of_atos"		"An alternative to Eul`s Scepter of Divinity as a long range set up item for your Meat Hook. Also makes you more tanky with HP pool and do damage with Rot."
+			"item_lotus_orb"		"A powerful defensive tool to reflect single target spells. Also provides a dispel on cast to remove Spirit Vessel and makes you tanky with armor."
+			"item_black_king_bar"		"A core item that lets you avoid most disables and silences on the enemy team to maintain your Dismember channel and not get kited when running at enemy heroes with Rot. Also improves your right click damage and tankiness through HP pool and magic resistance."
+			"item_octarine_core"		"A late game pick up that maintains your kill threat on the map more often by reducing the cooldown of all your spells and items."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"pudge_meat_hook"
+			"2"		"pudge_rot"
+			"3"		"pudge_rot"
+			"4"		"pudge_meat_hook"
+			"5"		"pudge_meat_hook"
+			"6"		"pudge_dismember"
+			"7"		"pudge_meat_hook"
+			"8"		"pudge_flesh_heap"
+			"9"		"pudge_rot"
+			"10"		"special_bonus_armor_5"
+			"11"		"pudge_rot"
+			"12"		"pudge_flesh_heap"
+			"13"		"pudge_dismember"
+			"14"		"pudge_flesh_heap"
+			"15"		"special_bonus_unique_pudge_7"
+			"16"		"pudge_flesh_heap"
+			"20"		"special_bonus_unique_pudge_5"
+			"21"		"pudge_dismember"
+			"25"		"special_bonus_unique_pudge_3"
+		}
+		"AbilityTooltips"
+		{
+			"pudge_meat_hook"		"You can use this to secure range creeps, catapults and even big neutral creeps as it instantly kills them."
+			"special_bonus_unique_pudge_5"		"Take the other level 20 talent over this suggested one if you have Black King Bar and get an uninterrupted Dismember on a key target on the enemy team."
+			"special_bonus_unique_pudge_3"		"Take the other level 25 talent over this suggested one if you have massive Flesh Heap stacks built up in the late game and are playing as the front line tank for the team."
+		}
+	}
+}
+ 

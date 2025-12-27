@@ -1,0 +1,172 @@
+"guidedata"
+{
+	"Hero"		"ursa"
+	"Title"		"Torte de Lini Position 1, Facet 2"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.40b"
+	"Overview"		" "
+	"GuideRevision"		"447"
+	"AssociatedWorkshopItemID"		"0x000000000F2D2144"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000694B990E"
+	"TimePublished"		"0x00000000694B990E"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+			}
+			"Early game"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
+			}
+			"Core items"
+			{
+				"item"		"item_bfury"
+				"item"		"item_wind_lace"
+				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
+				"item"		"item_basher"
+			}
+			"Situational items"
+			{
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+			}
+			"Extension items"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_nullifier"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_octarine_core"
+				"item"		"item_abyssal_blade"
+				"item"		"item_swift_blink"
+			}
+			"Luxury items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_refresher"
+				"item"		"item_satanic"
+				"item"		"item_disperser"
+			}
+			"  "
+			{
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"gain mmr at"
+			{
+			}
+			"youtube/tortedelini"
+			{
+			}
+			"twitch/tortedelini"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_phase_boots"		"Phase Boots gives you the survivability to live in the lane while also increasing your damage to help last hits. To add, it helps with closing the gap when you dont have Blink yet to initiate."
+			"item_diffusal_blade"		"Diffusal Blade is your approach to keeping foes within your physical attack range as you need to stack a couple of Fury Swipes to eventually kill them."
+			"item_abyssal_blade"		"Abyssal Blade is your late-game item to keep foes down and rivaling Physical Carries crippled as you destroy them as quickly as possible. The extra damage and its stun that goes through magic immunity makes this a great first extension item."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities)."
+			"item_desolator"		"With Ursas strong attack speed thanks to Overpower, you can take down towers incredibly quickly for go on foes who have low armor to completely erase them in a few attacks."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for users who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks. Monkey King Bar not only provides strong attack speed but also heightens your ability to your enemies with your attacks."
+			"item_skadi"		"Eye of Skadi is great at the end-game to take down high health targets, strong rivaling physical carries by slowing their attack speed and also prevent enemies from fleeing with your movement slow debuff. It provides stats across the board providing everything a carry needs to cap the game to a win."
+			"item_orb_of_venom"		"Orb of Venom is an incredible item in combination with your Earthshock and Fury Swipes to tear down foes early in the lane.
+
+Use this item to punish offlaners that try to last-hit."
+			"item_bfury"		"Battlefury provides sufficient mana regen for you to spam Earthshock to flash-farm waves and jungle camps.
+
+Use it combination with Overpower."
+			"item_sange_and_yasha"		"Sange and Yasha provides a lot more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced while the Yasha portion gives you the movement and attack speed to close the gaps on foes and start dealing damage much faster and efficiently."
+			"item_ancient_janggo"		"Drum of Endurance is a nice intermediary item to give Ursa more movement and attack speed to pull off stacks of Fury Swipes during the early-stages of the game."
+			"item_black_king_bar"		"BKB is necessary for a hero that relies on not getting stunned or silenced to dish out the necessary damage."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it dispels your target. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls, Glimmer and Satanic to have them nullified against you.
+
+Hero passive abilities like Windrangers Windrun and Monkey Kings Jingu Mastery are also nullified by Nullifier."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_void_stone"		"Void Stone first so you can cast more spells to help you farm faster without completely depleting your mana."
+			"item_aghanims_shard"		"For maximum usage of your Enrage effect. Cast Earthshock upon unsuspecting foes, then Abyssal Blade (if you have it) before casting Enrage again and then finish Earthshock for the third Enrage."
+			"item_lifesteal"		"With Morbid Mask, you not only sustain in the lane and jungle, but you can also start taking Ancients and Roshan too!"
+			"item_basher"		"With Ursas Overpower, the likelihood you are to Bash someone is very high!"
+			"item_ultimate_scepter"		"If with all that you have, you are still getting chain-stunned and disabled, opt for Aghs Scepter. If you can survive those chain-stuns and find yourself able to fight back, then Aghs Scepter may not be necessary."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_blink"		"Use Blink Dagger to get close with enemies following-up with Earthshock. Your Overpower should be activated before-hand as the cooldown finishes up so you can use Overpower back-to-back."
+			"item_orb_of_corrosion"		"Orb of Corrosion provides a bit more health and combines an early-game slow with minor armor debuff allowing you to force yourself against enemies who have no real escape. Works especially well against enemies who are fragile but hit hard, providing you more survivability and a great slow to keep the enemies within your range."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander Duel."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_disperser"		"Disperser can be played both offensively but it is also appealing to use it on yourself or allies to rid disables and give you extra movement speed for positioning, chasing or otherwise."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"ursa_fury_swipes"
+			"2"		"ursa_earthshock"
+			"3"		"ursa_fury_swipes"
+			"4"		"ursa_overpower"
+			"5"		"ursa_fury_swipes"
+			"6"		"ursa_enrage"
+			"7"		"ursa_fury_swipes"
+			"8"		"ursa_overpower"
+			"9"		"ursa_overpower"
+			"10"		"special_bonus_unique_ursa_4"
+			"11"		"ursa_overpower"
+			"12"		"ursa_enrage"
+			"13"		"ursa_earthshock"
+			"14"		"ursa_earthshock"
+			"15"		"special_bonus_unique_ursa_maul_health"
+			"16"		"ursa_earthshock"
+			"18"		"ursa_enrage"
+			"20"		"special_bonus_unique_ursa_2"
+			"25"		"special_bonus_unique_ursa_7"
+		}
+		"AbilityTooltips"
+		{
+			"ursa_earthshock"		"One early point for the Earthshock to lanes for easy kills.
+
+Level depending on the situation if you can take advantage of it.
+
+Utilize this ability to guarantee range creep in lane."
+			"ursa_overpower"		"Overpower lasts longer than its cooldown, so you can have it ready after using your charges.
+
+1. Activate Overpower before engaging foe
+2. Wait for the cooldown to reset
+3. Blink onto your enemy
+4. Earthshock, then Fury Swipes again after using the charges"
+			"ursa_fury_swipes"		"With its duration, you can, sometimes juggle between different units and keep the stacks high. Mixed with Overpower, you can wear down foes very fast.
+
+You rely on Fury Swipes to last-hit. when the creep is 50 percent or less in health, hit it once to proc Fury Swipes, then hit it again to last-hit as youll deal bonus damage, making it easier to last-hit."
+			"ursa_enrage"		"Use Enrage before a fight to ensure so no one interrupts your damage-dealing Overpower and Fury Swipes attacks."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

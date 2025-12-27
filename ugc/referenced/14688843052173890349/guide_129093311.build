@@ -1,0 +1,163 @@
+"guidedata"
+{
+	"Hero"		"phantom_lancer"
+	"Title"		"Torte de Lini Position 1, Facet 2"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.40b"
+	"Overview"		" "
+	"GuideRevision"		"409"
+	"AssociatedWorkshopItemID"		"0x0000000007B1CEBF"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000694D3791"
+	"TimePublished"		"0x00000000694D3791"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_magic_stick"
+			}
+			"Early game"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_boots"
+			}
+			"Core items"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_yasha"
+				"item"		"item_manta"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_orchid"
+				"item"		"item_aghanims_shard"
+				"item"		"item_bloodthorn"
+			}
+			"Situational items"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_mage_slayer"
+				"item"		"item_sange_and_yasha"
+			}
+			"Extension items"
+			{
+				"item"		"item_nullifier"
+				"item"		"item_heart"
+				"item"		"item_butterfly"
+				"item"		"item_skadi"
+				"item"		"item_disperser"
+			}
+			"  "
+			{
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"gain mmr at"
+			{
+			}
+			"youtube/tortedelini"
+			{
+			}
+			"twitch/tortedelini"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Blink Dagger removes the necessity of Phantom Lancing someone just to get near enough for Diffusal Blade for to later chase/charge, but rather allows you to stay on top of someone; immediately drain their mana, slow and cripple them before they can escape or get away."
+			"item_travel_boots"		"As the game nears the very end and you are completely maxed out on your items, Boots of Travel will allow you to split-push lanes with your illusions and teleport back to base to defend. This is your very last item after you have enough to buyback in case of death."
+			"item_heart"		"With more life comes more hits for your illusions and thus; more illusions. Heart is generally the preferred item after your core items as you outlast most magic nuking abilities that will try to reduce your illusion army."
+			"item_butterfly"		"Evasion makes Phantom Lancer unstoppable and his illusions as well. It will force enemies to get Monkey King Bar as well as items to tear down the amount of illusions who will have and the agility to create more illusions.
+
+The damage from Butterfly (agility) adds damage to your illusions attack."
+			"item_manta"		"Manta style is good for pushing lanes and farming without you needing to be there as these illusions do activate your ultimate.
+
+Manta Style dispels disables like slows and silences."
+			"item_skadi"		"Eye of Skadi works with Diffusal Blades mana burn allowing you to both slow and sap the mana of your opponents, creating an incredible crowd-control setup with your illusions.
+
+The illusions earn the stats from Eye of Skadi, so this is a natural pick-up."
+			"item_diffusal_blade"		"Diffusal Blades mana burn works with Illusions created by you. It is a good slow to keep the illusions on your foe and create even more of an army.
+
+If you buy this in good timing, you can start fighting early before resuming farm when your killing opportunities become more and more reduced."
+			"item_ancient_janggo"		"With Drums of Endurance, your illusions can be sustained much longer, letting you jungle when you cannot gank and otherwise useful for chasing enemies you want to finish off."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it dispels your target. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls, Glimmer and Satanic to have them nullified against you.
+
+Hero passive abilities like Windrangers Windrun and Monkey Kings Jingu Mastery are also nullified by Nullifier."
+			"item_invis_sword"		"Shadow Blade combined with Phantom Rush allows you to get close with the enemy without them seeing it coming."
+			"item_sange_and_yasha"		"Sange and Yasha provides a lot more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced while the Yasha portion gives you the movement and attack speed to close the gaps on foes and start dealing damage much faster and efficiently."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for users who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks. Monkey King Bar not only provides strong attack speed but also heightens your ability to your enemies with your attacks.
+
+Works with your Illusions."
+			"item_octarine_core"		"For Phantom Lance, the extra range for your Phantom Lance as well as a lower cooldown for Doppelganger makes this actually very valuable."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"With Aghs Shard, you can use your Juxtapose to confuse and disjoint against an enemy engagement, giving your Doppelganger freedom to to jump on enemies.
+
+Alternatively, you can use it to gank with invisibility, making hard for enemies to see you coming."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+			"item_ultimate_scepter"		"Poke and prod enemies with Aghs Scepters Spirit Lance, giving you extra damage without having to commit in the fight. The illusions from your Spirit Lance will harass and deal proc. effects on enemies without your direct involvement."
+			"item_disperser"		"Disperser can be played both offensively but it is also appealing to use it on yourself or allies to rid disables and give you extra movement speed for positioning, chasing or otherwise."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"phantom_lancer_spirit_lance"
+			"2"		"phantom_lancer_phantom_edge"
+			"3"		"phantom_lancer_spirit_lance"
+			"4"		"phantom_lancer_doppelwalk"
+			"5"		"phantom_lancer_spirit_lance"
+			"6"		"phantom_lancer_juxtapose"
+			"7"		"phantom_lancer_spirit_lance"
+			"8"		"phantom_lancer_phantom_edge"
+			"9"		"phantom_lancer_phantom_edge"
+			"10"		"special_bonus_unique_phantom_lancer_juxtapose_illusio_proc_chance"
+			"11"		"phantom_lancer_phantom_edge"
+			"12"		"phantom_lancer_juxtapose"
+			"13"		"phantom_lancer_doppelwalk"
+			"14"		"phantom_lancer_doppelwalk"
+			"15"		"special_bonus_unique_phantom_lancer_illusion_lances"
+			"16"		"phantom_lancer_doppelwalk"
+			"18"		"phantom_lancer_juxtapose"
+			"20"		"special_bonus_unique_phantom_lancer_juxtapose_damage_in"
+			"25"		"special_bonus_unique_phantom_lancer_4"
+		}
+		"AbilityTooltips"
+		{
+			"phantom_lancer_spirit_lance"		"Phantom Lance is your harassment tool and later on, your way of initiating on enemies. It offers a slow, creates an illusion at your target and is your basic nuke.
+
+As you Phantom Rush towards an enemy, lock them down with Phantom Lance to build up Doppelgangers.
+
+Try to save your Doppelganger just in case more arrive to lock you down."
+			"phantom_lancer_doppelwalk"		"Doppelganger is your dodge tool and escape. Make sure to spam it as it costs moderate amount of mana and can give you a jumpstart with your ultimate: Juxtapose if you know no other dangers are coming to hold you down.
+
+You can dodge stuns, AOE attacks and everything else that has a projectile."
+			"phantom_lancer_phantom_edge"		"Use Phantom Rush to add agility to your damage and armour - allowing you to more comfortably farm and hasten your itemization. 
+
+Phantom Rush is also another way of closing the gap to your enemies and also works with your illusions.
+
+Can be toggled on or off."
+			"phantom_lancer_juxtapose"		"Juxtapose works great with all your illusion-creating abilities/items: Phantom Lance, Doppelganger, Manta Style. Juxtapose continues to illusions that will sap the enemys mana (Diffusal Blade) and dish out damage as you reposition yourself depending on how the fight is going."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_30_crit_2"		"2x means 200% critical damage."
+		}
+	}
+}
+ 
