@@ -73,25 +73,29 @@
 		}
 		"ControlGroup6"
 		{
-			"Key"		"MOUSE3"
-			"Modifier"		"ALT"
+			"Key"		"5"
 			"Mode"		"0"
+			"Modifier"		"ALT"
 		}
 		"ControlGroup7"
 		{
 			"Mode"		"0"
+			"Key"		"6"
 		}
 		"ControlGroup8"
 		{
-			"Key"		"8"
+			"Key"		"7"
+			"Mode"		"0"
 		}
 		"ControlGroup9"
 		{
-			"Key"		"9"
+			"Key"		"8"
+			"Mode"		"0"
 		}
 		"ControlGroup10"
 		{
-			"Key"		"0"
+			"Key"		"9"
+			"Mode"		"0"
 		}
 		"AbilityPrimary1"
 		{
@@ -606,6 +610,7 @@
 		"SelectAll"
 		{
 			"Mode"		"0"
+			"Key"		"CAPSLOCK"
 		}
 		"SelectAllOthers"
 		{
@@ -702,12 +707,12 @@
 		}
 		"ControlGroup1"
 		{
-			"Key"		"F3"
+			"Key"		"MOUSE5"
 			"Mode"		"-1"
 		}
 		"ControlGroup2"
 		{
-			"Key"		"F4"
+			"Key"		"MOUSE4"
 			"Mode"		"-1"
 		}
 		"InspectHeroInWorld"
@@ -716,12 +721,13 @@
 		}
 		"ControlGroup3"
 		{
-			"Key"		"MWHEELUP"
+			"Key"		"5"
 			"Mode"		"-1"
 		}
 		"ControlGroup4"
 		{
-			"Key"		"H"
+			"Key"		"MOUSE5"
+			"Modifier"		"ALT"
 			"Mode"		"-1"
 		}
 		"HeroMove"
@@ -735,11 +741,11 @@
 		}
 		"FilterNonHero"
 		{
-			"Key"		"MOUSE4"
 			"Mode"		"-1"
 		}
 		"FilterEnemy"
 		{
+			"Key"		"`"
 			"Mode"		"-1"
 		}
 		"FilterAlly"
@@ -748,7 +754,6 @@
 		}
 		"FilterHero"
 		{
-			"Key"		"MOUSE5"
 			"Mode"		"-1"
 		}
 		"OverlayMapToggle"
@@ -770,7 +775,6 @@
 		}
 		"ScoreboardToggle"
 		{
-			"Key"		"`"
 			"Mode"		"-1"
 		}
 		"NeutralItemSelect1"
@@ -795,12 +799,23 @@
 		}
 		"ControlGroup5"
 		{
-			"Key"		"MWHEELDOWN"
+			"Key"		"MOUSE4"
+			"Modifier"		"ALT"
 			"Mode"		"-1"
 		}
 		"CameraGrip"
 		{
 			"Key"		"MOUSE3"
+			"Mode"		"-1"
+		}
+		"CameraZoomIn"
+		{
+			"Key"		"MWHEELUP"
+			"Mode"		"-1"
+		}
+		"CameraZoomOut"
+		{
+			"Key"		"MWHEELDOWN"
 			"Mode"		"-1"
 		}
 	}
@@ -861,7 +876,7 @@
 		}
 		"item_enchanted_mango"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_blood_grenade"
 		{
@@ -2121,7 +2136,7 @@
 			"AbilityPrimary1"
 			{
 				"Key"		"Q"
-				"Mode"		"0"
+				"Mode"		"2"
 			}
 			"AbilityPrimary2"
 			{
@@ -2477,6 +2492,226 @@
 			{
 				"Key"		"R"
 				"Mode"		"2"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+		}
+		"npc_dota_hero_silencer"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Mode"		"2"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"1"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Mode"		"1"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+		}
+		"npc_dota_hero_jakiro"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Mode"		"1"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"2"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Mode"		"1"
 			}
 			"TalentUpgradeStatLeft"
 			{

@@ -10,6 +10,17 @@
 				"SurveyDateVersion"		"4249651112081202752"
 				"StartMenuShortcutCheck"		"1"
 				"DesktopShortcutCheck"		"1"
+				"apps"
+				{
+					"570"
+					{
+						"cloudenabled"		"0"
+					}
+					"730"
+					{
+						"cloudenabled"		"0"
+					}
+				}
 			}
 		}
 	}

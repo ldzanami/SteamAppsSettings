@@ -2,14 +2,14 @@
 {
 	"Hero"		"weaver"
 	"Title"		"100% EZ GAME"
-	"GameplayVersion"		"7.37e"
+	"GameplayVersion"		"7.40b"
 	"Overview"		""
-	"GuideRevision"		"4"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x00000000CBDD272C"
 	"OriginalCreatorID"		"0x00000000382F8487"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000679F6CC0"
-	"TimePublished"		"0x00000000679F6CC0"
+	"TimeUpdated"		"0x0000000069635190"
+	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
 		"Items"
@@ -40,6 +40,7 @@
 				"item"		"item_assault"
 				"item"		"item_mjollnir"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_desolator"
 			}
 			"#DOTA_Item_Build_Luxury"
 			{

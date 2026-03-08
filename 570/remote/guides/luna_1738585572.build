@@ -2,13 +2,13 @@
 {
 	"Hero"		"luna"
 	"Title"		"100% EZ GAME"
-	"GameplayVersion"		"7.39"
+	"GameplayVersion"		"7.40c"
 	"Overview"		""
-	"GuideRevision"		"9"
+	"GuideRevision"		"10"
 	"AssociatedWorkshopItemID"		"0x00000000CBDD34CE"
 	"OriginalCreatorID"		"0x00000000382F8487"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006833454A"
+	"TimeUpdated"		"0x0000000069AD091D"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -23,7 +23,6 @@
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
-				"item"		"item_wraith_band"
 				"item"		"item_power_treads"
 				"item"		"item_mask_of_madness"
 				"item"		"item_manta"
@@ -87,8 +86,8 @@
 		"AbilityOrder"
 		{
 			"10"		"special_bonus_unique_luna_7"
-			"15"		"special_bonus_unique_luna_6"
-			"20"		"special_bonus_unique_luna_1"
+			"15"		"attribute_bonus"
+			"20"		"attribute_bonus"
 			"25"		"special_bonus_unique_luna_3"
 		}
 		"AbilityTooltips"

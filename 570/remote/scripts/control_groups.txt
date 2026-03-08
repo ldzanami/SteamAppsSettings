@@ -120,21 +120,35 @@
 			{
 				"unitname"		"npc_dota_hero_terrorblade"
 				"illusion"		"1"
-				"illusionlabel"		"conjure_image_0"
+				"illusionlabel"		"rune_0"
 				"unitindex"		"0"
 			}
 			"2"
 			{
 				"unitname"		"npc_dota_hero_terrorblade"
 				"illusion"		"1"
-				"illusionlabel"		"manta_0"
+				"illusionlabel"		"manta_1"
 				"unitindex"		"0"
 			}
 			"3"
 			{
 				"unitname"		"npc_dota_hero_terrorblade"
 				"illusion"		"1"
-				"illusionlabel"		"manta_1"
+				"illusionlabel"		"conjure_image_0"
+				"unitindex"		"0"
+			}
+			"4"
+			{
+				"unitname"		"npc_dota_hero_terrorblade"
+				"illusion"		"1"
+				"illusionlabel"		"manta_0"
+				"unitindex"		"0"
+			}
+			"5"
+			{
+				"unitname"		"npc_dota_hero_terrorblade"
+				"illusion"		"1"
+				"illusionlabel"		"rune_1"
 				"unitindex"		"0"
 			}
 		}
@@ -210,21 +224,35 @@
 			{
 				"unitname"		"npc_dota_hero_terrorblade"
 				"illusion"		"1"
-				"illusionlabel"		"conjure_image_0"
+				"illusionlabel"		"rune_0"
 				"unitindex"		"0"
 			}
 			"2"
 			{
 				"unitname"		"npc_dota_hero_terrorblade"
 				"illusion"		"1"
-				"illusionlabel"		"manta_0"
+				"illusionlabel"		"manta_1"
 				"unitindex"		"0"
 			}
 			"3"
 			{
 				"unitname"		"npc_dota_hero_terrorblade"
 				"illusion"		"1"
-				"illusionlabel"		"manta_1"
+				"illusionlabel"		"conjure_image_0"
+				"unitindex"		"0"
+			}
+			"4"
+			{
+				"unitname"		"npc_dota_hero_terrorblade"
+				"illusion"		"1"
+				"illusionlabel"		"manta_0"
+				"unitindex"		"0"
+			}
+			"5"
+			{
+				"unitname"		"npc_dota_hero_terrorblade"
+				"illusion"		"1"
+				"illusionlabel"		"rune_1"
 				"unitindex"		"0"
 			}
 		}
@@ -418,23 +446,10 @@
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
-				"illusionlabel"		"illusion_3"
-				"unitindex"		"0"
-			}
-		}
-		"1"
-		{
-			"0"
-			{
-				"unitname"		"npc_dota_hero_naga_siren"
-				"illusion"		"1"
 				"illusionlabel"		"illusion_0"
 				"unitindex"		"0"
 			}
-		}
-		"2"
-		{
-			"0"
+			"1"
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
@@ -442,17 +457,7 @@
 				"unitindex"		"0"
 			}
 		}
-		"4"
-		{
-			"0"
-			{
-				"unitname"		"npc_dota_hero_naga_siren"
-				"illusion"		"1"
-				"illusionlabel"		"illusion_1"
-				"unitindex"		"0"
-			}
-		}
-		"3"
+		"1"
 		{
 			"0"
 			{
@@ -471,35 +476,44 @@
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
-				"illusionlabel"		"illusion_0"
+				"illusionlabel"		"illusion_3"
 				"unitindex"		"0"
 			}
-			"3"
-			{
-				"unitname"		"npc_dota_hero_naga_siren"
-				"illusion"		"1"
-				"illusionlabel"		"manta_1"
-				"unitindex"		"0"
-			}
-			"4"
-			{
-				"unitname"		"npc_dota_hero_naga_siren"
-				"illusion"		"1"
-				"illusionlabel"		"illusion_2"
-				"unitindex"		"0"
-			}
-			"5"
+		}
+		"2"
+		{
+			"0"
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
 				"illusionlabel"		"manta_0"
 				"unitindex"		"0"
 			}
-			"6"
+			"1"
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
-				"illusionlabel"		"illusion_3"
+				"illusionlabel"		"manta_1"
+				"unitindex"		"0"
+			}
+		}
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"manta_0"
+				"unitindex"		"0"
+			}
+		}
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_0"
 				"unitindex"		"0"
 			}
 		}
@@ -509,7 +523,47 @@
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
-				"illusionlabel"		"manta_1"
+				"illusionlabel"		"illusion_1"
+				"unitindex"		"0"
+			}
+		}
+		"6"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_0"
+				"unitindex"		"0"
+			}
+		}
+		"7"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_1"
+				"unitindex"		"0"
+			}
+		}
+		"8"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_2"
+				"unitindex"		"0"
+			}
+		}
+		"9"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_3"
 				"unitindex"		"0"
 			}
 		}
@@ -604,6 +658,184 @@
 			{
 				"unitname"		"npc_dota_neutral_centaur_khan"
 				"unitlabel"		"helm_of_the_dominator_neutral"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_chaos_knight"
+	{
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_chaos_knight"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_chaos_knight"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_3"
+				"unitindex"		"0"
+			}
+			"2"
+			{
+				"unitname"		"npc_dota_hero_chaos_knight"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_1"
+				"unitindex"		"0"
+			}
+			"3"
+			{
+				"unitname"		"npc_dota_hero_chaos_knight"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_0"
+				"unitindex"		"0"
+			}
+			"4"
+			{
+				"unitname"		"npc_dota_hero_chaos_knight"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_2"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_phantom_lancer"
+	{
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_phantom_lancer"
+				"illusion"		"1"
+				"illusionlabel"		"illusion10"
+				"unitindex"		"0"
+			}
+		}
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_phantom_lancer"
+				"illusion"		"1"
+				"illusionlabel"		"illusion10"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_chen"
+	{
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_chen"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_neutral_polar_furbolg_ursa_warrior"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"2"
+			{
+				"unitname"		"npc_dota_neutral_frostbitten_golem"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"4"
+			{
+				"unitname"		"npc_dota_neutral_black_drake"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_chen"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_neutral_polar_furbolg_ursa_warrior"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"2"
+			{
+				"unitname"		"npc_dota_neutral_frostbitten_golem"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"4"
+			{
+				"unitname"		"npc_dota_neutral_black_drake"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_ursa"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_ursa"
+				"illusion"		"1"
+				"illusionlabel"		"rune_0"
+				"unitindex"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_ursa"
+				"illusion"		"1"
+				"illusionlabel"		"rune_1"
+				"unitindex"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_juggernaut"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_juggernaut"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_juggernaut_healing_ward"
+				"unitlabel"		"healing_ward"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_juggernaut"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_juggernaut_healing_ward"
+				"unitlabel"		"healing_ward"
 				"illusion"		"0"
 				"unitindex"		"0"
 			}

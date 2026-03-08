@@ -2,13 +2,13 @@
 {
 	"Hero"		"naga_siren"
 	"Title"		"MAKE NAGA GREAT AGAIN"
-	"GameplayVersion"		"7.39d"
+	"GameplayVersion"		"7.40c"
 	"Overview"		""
-	"GuideRevision"		"3"
+	"GuideRevision"		"4"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x00000000382F8487"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068A8147E"
+	"TimeUpdated"		"0x0000000069806A73"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -49,6 +49,7 @@
 				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_swift_blink"
+				"item"		"item_sheepstick"
 			}
 			"#DOTA_HeroGuide_Untitled"
 			{

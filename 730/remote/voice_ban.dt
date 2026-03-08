@@ -30,6 +30,26 @@
 			flags = 3
 			steamid = 76561199562321854
 		},
+		{
+			flags = 3
+			steamid = 76561198312198066
+		},
+		{
+			flags = 3
+			steamid = 76561198244041526
+		},
+		{
+			flags = 3
+			steamid = 76561198772721934
+		},
+		{
+			flags = 3
+			steamid = 76561198072954981
+		},
+		{
+			flags = 3
+			steamid = 76561198866844549
+		},
 	]
 	player_volume_map = null
 }

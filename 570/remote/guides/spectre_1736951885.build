@@ -2,13 +2,13 @@
 {
 	"Hero"		"spectre"
 	"Title"		"EZ GAME 100%"
-	"GameplayVersion"		"7.40"
+	"GameplayVersion"		"7.40b"
 	"Overview"		""
-	"GuideRevision"		"8"
+	"GuideRevision"		"9"
 	"AssociatedWorkshopItemID"		"0x00000000CBDD298A"
 	"OriginalCreatorID"		"0x00000000382F8487"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069454F82"
+	"TimeUpdated"		"0x00000000696A9ABB"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -25,6 +25,7 @@
 			"#DOTA_Item_Build_Early_Game"
 			{
 				"item"		"item_magic_wand"
+				"item"		"item_pers"
 				"item"		"item_power_treads"
 				"item"		"item_orchid"
 				"item"		"item_manta"

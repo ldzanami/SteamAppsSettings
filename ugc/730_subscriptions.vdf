@@ -1,104 +1,116 @@
 "subscribedfiles"
 {
 	"appid"		"730"
-	"time_last_updated"		"1764439315"
+	"time_last_updated"		"1769268303"
 	"0"
+	{
+		"publishedfileid"		"3626013801"
+		"time_subscribed"		"1769270820"
+		"disabled_locally"		"0"
+	}
+	"1"
+	{
+		"publishedfileid"		"3562419385"
+		"time_subscribed"		"1769268264"
+		"disabled_locally"		"0"
+	}
+	"2"
 	{
 		"publishedfileid"		"3503785509"
 		"time_subscribed"		"1751041686"
 		"disabled_locally"		"0"
 	}
-	"1"
+	"3"
 	{
 		"publishedfileid"		"3254587589"
 		"time_subscribed"		"1750756131"
 		"disabled_locally"		"0"
 	}
-	"2"
+	"4"
 	{
 		"publishedfileid"		"3482314780"
 		"time_subscribed"		"1750756124"
 		"disabled_locally"		"0"
 	}
-	"3"
+	"5"
 	{
 		"publishedfileid"		"3084291314"
 		"time_subscribed"		"1743341423"
 		"disabled_locally"		"0"
 	}
-	"4"
+	"6"
 	{
 		"publishedfileid"		"3146105097"
 		"time_subscribed"		"1726235077"
 		"disabled_locally"		"0"
 	}
-	"5"
+	"7"
 	{
 		"publishedfileid"		"3318584423"
 		"time_subscribed"		"1725204336"
 		"disabled_locally"		"0"
 	}
-	"6"
+	"8"
 	{
 		"publishedfileid"		"3250543760"
 		"time_subscribed"		"1723800004"
 		"disabled_locally"		"0"
 	}
-	"7"
+	"9"
 	{
 		"publishedfileid"		"3250592791"
 		"time_subscribed"		"1723799982"
 		"disabled_locally"		"0"
 	}
-	"8"
+	"10"
 	{
 		"publishedfileid"		"3270706131"
 		"time_subscribed"		"1723799977"
 		"disabled_locally"		"0"
 	}
-	"9"
+	"11"
 	{
 		"publishedfileid"		"3275080617"
 		"time_subscribed"		"1723799975"
 		"disabled_locally"		"0"
 	}
-	"10"
+	"12"
 	{
 		"publishedfileid"		"3279281339"
 		"time_subscribed"		"1723799970"
 		"disabled_locally"		"0"
 	}
-	"11"
+	"13"
 	{
 		"publishedfileid"		"3272008480"
 		"time_subscribed"		"1723799968"
 		"disabled_locally"		"0"
 	}
-	"12"
+	"14"
 	{
 		"publishedfileid"		"3232466864"
 		"time_subscribed"		"1716723703"
 		"disabled_locally"		"0"
 	}
-	"13"
+	"15"
 	{
 		"publishedfileid"		"3244203953"
 		"time_subscribed"		"1716723693"
 		"disabled_locally"		"0"
 	}
-	"14"
+	"16"
 	{
 		"publishedfileid"		"3251878584"
 		"time_subscribed"		"1716723691"
 		"disabled_locally"		"0"
 	}
-	"15"
+	"17"
 	{
 		"publishedfileid"		"3100869952"
 		"time_subscribed"		"1715314082"
 		"disabled_locally"		"0"
 	}
-	"16"
+	"18"
 	{
 		"publishedfileid"		"3086023598"
 		"time_subscribed"		"1715313869"
