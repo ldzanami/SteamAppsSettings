@@ -70,6 +70,66 @@
 			flags = 3
 			steamid = 76561198111057783
 		},
+		{
+			flags = 3
+			steamid = 76561199519573400
+		},
+		{
+			flags = 3
+			steamid = 76561199036030772
+		},
+		{
+			flags = 3
+			steamid = 76561198087033000
+		},
+		{
+			flags = 3
+			steamid = 76561198297243561
+		},
+		{
+			flags = 3
+			steamid = 76561198064844242
+		},
+		{
+			flags = 3
+			steamid = 76561198977039324
+		},
+		{
+			flags = 3
+			steamid = 76561198852890130
+		},
+		{
+			flags = 3
+			steamid = 76561199759804644
+		},
+		{
+			flags = 3
+			steamid = 76561198836933827
+		},
+		{
+			flags = 3
+			steamid = 76561198347475190
+		},
+		{
+			flags = 3
+			steamid = 76561199839032940
+		},
+		{
+			flags = 3
+			steamid = 76561199066680752
+		},
+		{
+			flags = 3
+			steamid = 76561199098609177
+		},
+		{
+			flags = 3
+			steamid = 76561198006083953
+		},
+		{
+			flags = 3
+			steamid = 76561198033625258
+		},
 	]
 	player_volume_map = null
 }

@@ -5,6 +5,21 @@
 		"0"
 		{
 			"type"		"1"
+			"filename"		"570/screenshots/20260406144717_1.jpg"
+			"thumbnail"		"570/screenshots/thumbnails/20260406144717_1.jpg"
+			"imported"		"1"
+			"timelineid"		"timeline_57020260406_051946"
+			"timelinetime"		"8850986"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"570"
+			"creation"		"1775461637"
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
 			"filename"		"570/screenshots/20260308153647_1.jpg"
 			"thumbnail"		"570/screenshots/thumbnails/20260308153647_1.jpg"
 			"imported"		"1"
@@ -17,7 +32,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"1"
+		"2"
 		{
 			"type"		"1"
 			"filename"		"570/screenshots/20251229235633_1.jpg"

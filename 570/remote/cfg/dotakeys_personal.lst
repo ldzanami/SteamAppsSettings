@@ -1318,6 +1318,30 @@
 		{
 			"Mode"		"1"
 		}
+		"item_essence_distiller"
+		{
+			"Mode"		"1"
+		}
+		"item_crellas_crozier"
+		{
+			"Mode"		"1"
+		}
+		"item_medallion_of_courage"
+		{
+			"Mode"		"1"
+		}
+		"item_heavy_blade"
+		{
+			"Mode"		"1"
+		}
+		"item_dagger_of_ristul"
+		{
+			"Mode"		"1"
+		}
+		"item_stonefeather_satchel"
+		{
+			"Mode"		"1"
+		}
 	}
 	"Units"
 	{
@@ -2046,7 +2070,7 @@
 			"AbilityPrimary1"
 			{
 				"Key"		"Q"
-				"Mode"		"0"
+				"Mode"		"2"
 			}
 			"AbilityPrimary2"
 			{
