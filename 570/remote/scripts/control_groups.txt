@@ -717,6 +717,33 @@
 				"unitindex"		"0"
 			}
 		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_phantom_lancer"
+				"illusion"		"1"
+				"illusionlabel"		"illusion10"
+				"unitindex"		"0"
+			}
+		}
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_phantom_lancer"
+				"illusion"		"1"
+				"illusionlabel"		"manta_1"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_phantom_lancer"
+				"illusion"		"1"
+				"illusionlabel"		"manta_0"
+				"unitindex"		"0"
+			}
+		}
 	}
 	"npc_dota_hero_chen"
 	{

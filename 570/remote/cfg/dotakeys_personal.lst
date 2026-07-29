@@ -703,11 +703,12 @@
 		}
 		"ControlGroupCycle"
 		{
+			"Key"		"MOUSE5"
 			"Mode"		"-1"
 		}
 		"ControlGroup1"
 		{
-			"Key"		"MOUSE5"
+			"Key"		"`"
 			"Mode"		"-1"
 		}
 		"ControlGroup2"
@@ -745,7 +746,6 @@
 		}
 		"FilterEnemy"
 		{
-			"Key"		"`"
 			"Mode"		"-1"
 		}
 		"FilterAlly"
