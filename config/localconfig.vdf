@@ -13,9 +13,9 @@
 	"streaming_v2"
 	{
 		"EnableStreaming"		"1"
-		"DefaultAudioDevice"		"{0.0.0.00000000}.{fa4a12a9-04f4-4175-815b-e681274400f3}"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{63a70466-0bad-4f3d-a267-98a6a729a632}"
 		"DefaultAudioDeviceName"		"Динамики (Realtek(R) Audio)"
-		"DefaultMicrophone"		"{0.0.1.00000000}.{4227d2b9-272b-4561-b442-324842d38780}"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{616847b1-1e9a-4889-b0c9-28f455c997ef}"
 		"DefaultMicrophoneName"		"Микрофон (USB PnP Audio Device)"
 	}
 	"friends"
@@ -309,7 +309,7 @@
 			{
 				"0"		"root"
 			}
-			"avatar"		"1f41a85519513b2d263d48629fc40c77e1936728"
+			"avatar"		"8d337d31ff701a3f9c4fd7052807d1f1058cab19"
 		}
 		"1132089213"
 		{
@@ -332,8 +332,8 @@
 	}
 	"SharedAuth"
 	{
-		"id"		"1551777840"
-		"AuthData"		"4b45170808b538ff85adc79056abdc15245bb25584ae29753aaf74d5047f1ab3"
+		"id"		"1670021126"
+		"AuthData"		"9bd493b4935fd2cabc8aca24831a52f977e1979b6a3790029021c5aa347e602f"
 	}
 	"ParentalSettings"
 	{
@@ -342,38 +342,39 @@
 	}
 	"apptickets"
 	{
-		"7"		"320000000400000087842f380100100107000000088f15250301a8c000000000227b696aa22a856a01000000000000000000cbf546695187aa11c24cc2aabe662b0071a59ca4004d959cfd2e6cb0c123ad84625fcc1fb51625f975406e0386c343f57d44457d2d2dedc01c668f808def13159e624c46f589a032dfc4983f3143c0beb0c457999febbe0e3da2cd2fe031f971d5a132a9b6ea37b9eaf612e5bbdb238b37b13c4f14c909bc754a02393172db21"
-		"228980"		"320000000400000087842f3801001001747e0300088f15251500a8c000000000a811696a28c1846a010000000000000000007d9fbec912711be7dfef3ffb9c2fb4e1a0bbc93a5e25ed796fca00cad85bbc7353da9b2a650d80a0fc782c13c5247051af447034c57ce23386d83b544e4b1a7daadbe088980fdc48f30f302656b07d2988f0ee4c8303bd7f4f74acec52da4e0ec59a09aba6dbd8a85a0ec620dd70a6435e68101b9a3f1de687a6b7b3a151fb73"
-		"705210"		"320000000400000087842f3801001001bac20a00088f15251500a8c000000000a811696a28c1846a01005e660400000000003937194c7844c0010bfe703f5a86bc43f06cd3a8616420dc079e359a5b9e1ea709a0d65897e42bda18c173181c055b7fd02019881705ac13ef0da285ed7e7813173dbb561cef1021a5c10d78c14ce8989ed1795b114d668d9fce6e56ef83f56c45f129a596d7186252a03e13e5aaca5255cf6c8a1a7d53eb023de5d5557196af"
-		"252490"		"440000000400000087842f38010010014ada0300088f15251500a8c000000000c111696a41c1846a0100a6ba03000300a4b00a0000001e7d1900000068613b000000000077130d03bd135529a2e222ce46ba6046ba34d195e60f74cbcb615640945a78a4146c282b4ca7e0227f29376f3f58870133dc4165624661d866eef446aaca33566f4adcaf7f21078b0eab7e54f05920c0f36128596066f02b25df9ba02c0a148d987b9eb83a384c3513a40c3b4deef62ac1a33b13220b6d68a9fdf7d2451adb71"
-		"892970"		"380000000400000087842f38010010012aa00d00088f15251500a8c000000000c611696a46c1846a010068590400010094ae0d0000000000ccfc3b091debe219ebd6afe2cab2ce719b52507ea3a6408a5db2cb010bdbd0d560226b7c0e213636d562a8eaccddb34e3f849ebaa040addefe99fec45b677d5aa0f36bd5ffca15755c0839ac0504268ae3c5e90368262bdf6ce8d2d5dfdf98968936db3f73adbe56a8225ec9125bbcd791d09f190e7e36a9eafef5b74a22bc17"
-		"105600"		"380000000400000087842f3801001001809c0100088f15251500a8c000000000c911696a49c1846a0100f71f000001008a8f130000000000c68f89bd63de7a05e6654104f119afadceeb91bc7461236f6f3fc38c9e30c398bcefa0ac81286ca05f39bc31dd28c4829c1ecefd8e5f7ffb60ff6e3f67511f54b89701929e60fb83ee0917401e49082a4b5720576d38f87856771a11c6ea7ae5d4ea480e1d7e238b2f761b0b98f981793fdcca9381a12e194329f41a421105a8"
-		"3527290"		"320000000400000087842f38010010017ad23500088f15251500a8c000000000d211696a52c1846a010063ff1200000000007bc2cc09b66c5f0de87385d6c6274f6c965cf6df422003c0c41ec0241f7ab1e17ffb333efba36e55203c5cd30d844da101e67f9608dd92a134898551c3f6c8fafcf295789d5ab787fbbcce311854c445f29032da706fac4073ec9f5b897dd19e277185e940bb40fddfdc661727a50b5b65ae58be5eeb7429f268927cefd951f5"
-		"2239140"		"320000000400000087842f3801001001a42a2200088f15251500a8c000000000d711696a57c1846a0100fc3f0c0000000000ccac8673c7a3c1386afb5ecbac55bf1b3a8d9d0368a6c9588c2a93e259f515bc618e2f379386ee420569912779dcbc174042dc859b8b00b1104378fb6e99b50294fa9fa0845f991ffcc24b4e584406f771fa9372fa11154295dc58daa451d3c385ce43059b68f33c552cf1a31192b33073725edf95c0ed78e9121b9859af6432"
-		"262060"		"500000000400000087842f3801001001acff0300088f15251500a8c000000000de11696a5ec1846a0100558400000500c8460500000004da080000004cb80a000000f2390b000000a40e110000000000a4487a7563efc3d46e6a540b204ffc943c09a589cd982d71014a586e0c534cbbb7ccaaeb3193b076b0010581cca3932759a7c821868f2e1a61bd6f434d8716a9ec09d6a86f7e650194ac38d01f57a1b9ab50a6ef53015bb0ec0bba1023acd716712ae8e7f9a0e42770954b0da245d971e4e553a874bb1d221cc3d62545821b2a"
-		"730"		"4a0000000400000087842f3801001001da020000088f15251500a8c000000000e311696a63c1846a01000dd300000400e40200000000b4880900000028c92200000029c9220000000000b35ad8e047425f4e9b3b9085fff37273f7a2a30d6b19b858dd7fee0ab0e05e2a36a86901b64c863dba4fbfd3e7b6b46f2b2b4a50b515dfa852e6e31368c354ac64efe8a28470e69076ea6d48bca9ac3d81f3dff898258232a9a1d5fe9cea1650f18c04c8a183dcaacb60df27e32406a197f11329eb0e4a289196275976e19f1f"
-		"251570"		"380000000400000087842f3801001001b2d60300088f15251500a8c000000000e911696a69c1846a0100157800000100147e040000000000127ef02ced949d22b91c79e51d186eec65fb3a9b55a0733d0af193ee7c50c81d3775372633d53a1a772100e4488aef3c24b29694c72f6b90c8b11cd91d109507ef902428c22cb44cdf1a052b2272913265159df19859f46238b10a006f7aee4dfe6a4be2ec92490da80bf77832fd4dc909054ec36858f81bb91ce879bd433613"
-		"570"		"500000000400000087842f38010010013a020000088f15251500a8c0000000000112696a81c1846a01000000000005003f0200000000a2c70400000034b2050000007a2006000000a4450700000000002b7ba0138e93afdc19ce740abe54f7a5f8ffee604a08a41426521486621a3b17be673cad2cdcf262e001bda4afba48d5849f3c3dd4e1c2d505808182d8ddfa8a6a74df72a0a6466d7e80af2b7102a49c237af20233fed86f50aec318f6b8cd15c0501cec6cabca980c1fa5fdac634d004f7ebd9cc03c8b40d74409143a3c77a1"
-		"313250"		"320000000400000087842f3801001001a2c70400088f15250301a8c000000000227b696aa22a856a01000000000000000000712d920acee44c99f66ec2a69121e80e8178000cc62c5304c91971a50060d39a095905386dbe68e7c5db3532324259e03bcb12da29749ea11ae74fb566efccb017f92851da9ca3ae10dced5dc27aa648f947f7b1e304ed176d17c177615a13a5ef5b7b739803213ca62c7ba6df2836f628c0b123415db0b00af7a6322d3b0fee"
-		"373300"		"320000000400000087842f380100100134b20500088f15250301a8c000000000227b696aa22a856a010000000000000000004fa5ae2b3d359d8b12f86fe545e80a9ce95539fb4baf20dc8637a085e147394a1424e319824d51bb827c3e89a100ab10fe20477c1a9bbe419ab672817f61600a8f17698a8ca0429b67a7fc59381a23c6e8acb52ead03127a16b287840f6b16fc68a95f1609f6bff100e5982a3f7f51dde5b0dae82228aa566b9c7d60f0372a8c"
-		"401530"		"320000000400000087842f38010010017a200600088f15250301a8c000000000227b696aa22a856a01000000000000000000da07fe059adea9de11507e6ee3a1c97d18f26ec9278c51731d1a64b824bb1ca37ac4d41798b707fc6f58825906a7c62419f00e080c2efa32dcff170e7aa8b9812f30d2cbe0b85f341e782912c880adbe9f0d71f5e55625802b2a5aaa98b1629fe72e3888d7fad59a7a8037e73124156fdb2bdada75e5682cc369f501e12fc830"
-		"476580"		"320000000400000087842f3801001001a4450700088f15250301a8c000000000237b696aa32a856a0100000000000000000011da43094bd4ffd2025c58f347057fc195635c2b5c9a992d08b4a464387343be0ab90896bbbddf94d0faae0afbb24cb2f4d2a705eb712f8781b28a3771344eb92351d4812befd42b570e4c7ad69ebec29effaae7bb27be0b67f95e6533f5f0f401d56d9f3ed5f45b43a0084b0717b6eedf016c18bed1f4a5e17288afa0426615"
-		"2279720"		"320000000400000087842f380100100128c92200088f15250301a8c000000000237b696aa32a856a01000dd30000000000000c6602493abbbf080b0079c5942820a1fa9c93fdb6cff3e51c01afe585b9fd0fe391e67c7566e1f4057f2c06eddab7825348278790d394eabd6270033ed83b7716414d7667f65b9847ea0aa2d3fc295b6e56bc86edf933a4763d88c7e903f071c562423de9dd55bec5b2648fddb30e69cde9d14e47111253a701e685b541f767"
-		"2279721"		"320000000400000087842f380100100129c92200088f15250301a8c000000000237b696aa32a856a01000dd30000000000009d395557b46799c872940272b6f2011e1e313a7a3978117c4cb0c7d7b9fde043a115076e79d49793b7241470af48ea8fe6dd3c6dd54faa8763594069cfd8c521d3b424dfe3f5b563505092c937efe06369a4718aed82dbe1cbb17691dd2e79d692edeeac6cca4aaadf7217b7cfcffd79fd41a37803657f0b91d14dfad6093838"
-		"1670430"		"320000000400000087842f38010010011e7d1900088f15250301a8c000000000237b696aa32a856a0100f80f0900000000003911471a8e4a228559881e7a14fa16468910daee28983bf715fac994d9d19ffc7d67d8c78775623dcf09cb0b61a17e4704519a8fea3bcfb42accb3af2e15f86f80ffbddccbfd8f45a749086b6b835a95c4ad9fdf0889e06ab6f94d9db563b7511639c26d01a4d54e227fc24801bc5d3ce035c4c5d9fd1af46b0909cbd52fc944"
-		"3891560"		"320000000400000087842f380100100168613b00088f15250301a8c000000000237b696aa32a856a010080df140000000000bae0bb23e2bfcbe4b88d136b36f614beb250363cc0dd7d50960e843ab1e3ea3cc469fe71b02b23ec834bb5b3f3a28e8a15d780a69f0c7202cb9f0a19bc3dc03a8cae1e7eeaa170b872d83437b0d3781bc11370824c3a458aa0ecdafc2faefb264bc0b00d4584a1e4da4205a72ba6d93e25a4c6dabb02e0132ca9a262706c2a2b"
-		"580100"		"320000000400000087842f380100100104da0800088f15250301a8c000000000237b696aa32a856a0100bf44020000000000c336aac5a5496e5731a7d0dfea92e06d888691da299b3d425d3401d3c7192a9ca141d64a723c53126edd14188cc499e1d9eb871ae9c483a6a4b62347715dddb8eba3d6e5bf3a03acf3a1d37985c314447d6299402dc1d9aa6944177625cd1e916fe5edceb6db032b748d3305f3faba753831669b863f07fcb318f8a9cce15fa2"
-		"702540"		"320000000400000087842f38010010014cb80a00088f15250301a8c000000000237b696aa32a856a01000517030000000000acb57cfbeeeb87f0c37af9504aef9d9d14e57f440e56464b51fe57cab626e63c4995c9efbb62860c65a74f2ec3ce267464ceb5aa5e42e2d7a917f450299d788e398a736dec92bf82e6d79e3a199720f901057dc9e8da1f5747ac72b7a9c429133e47564a436928fcba5189bcd48b5171db7fab678fa591ca091a5cbaa2cfaec8"
-		"735730"		"320000000400000087842f3801001001f2390b00088f15250301a8c000000000237b696aa32a856a01009147030000000000ab4095ffaccb35e20cebb69e77ef98da2923fb66e9ce5fe17b1b9afa48ef86cbe7f713b743dc0150f1e4506850a15feb099ac3132a9d14da2c3b0fe40422a5489a6176c31c32570cad075ed3ca0f2eeca9d7c48c6ddd2277453f9292ee75300b9da802fef05d087141ef859d436718fdbab418ca44bfaa877cba3783031b349b"
-		"1117860"		"320000000400000087842f3801001001a40e1100088f15250301a8c000000000237b696aa32a856a01007fc60500000000008fa9c919dd7d0190262214ac061bb7c7856a5220d6c1c0c84c77a14a4b033baece1c06e26823e76e70705a81c3d26adacc4b35aed406b38c9329c4992b44468296c1e25c357d5987562cf020203e192b5bdd0407cc25c992d709d4dfbac43652c2366d087543a6ab2dd4e9a03b55cf6f682835a6a77b0eee5efd1db3a30c8732"
+		"7"		"320000000400000087842f380100100107000000d52e7e5c0301a8c00000000057fc7b6ad7ab976a01000000000000000000dc71d802f7545ed01092a9dcf7e8109cddb11bf0c58bd57c420986abcd504f5637d75d7653a6791085b5731873686dc0728fad3e53eae7cd04fd06ecfab267f857f0d9ab5baf0d481affe503034ad7388cd6f5997021ad30b81daa06cdbe1b646effce48804766fe8628bb639891617ae44c82e0c0bc4927fb74044416dc78bc"
+		"228980"		"320000000400000087842f3801001001747e0300d52e7e5c1500a8c0000000004e46786acef5936a01000000000000000000a6a23a85a6c15f3a04ff80c5216322ff610a4648ead3efff13c916f0a3ba9158f6e7e9d16c506161a80daa9c84978760fbc139ce57efd3acae49fa2135ea3c7679ae0a33484649e5d4f70160f353a6d4c618a306c69ff6c158ae042e4207da76b66ca6f1c7065205135f07d6164f4cf3102f12ee6cae59219aca64eeffa80d15"
+		"705210"		"320000000400000087842f3801001001bac20a00d52e7e5c1500a8c0000000004f46786acff5936a01005e660400000000007388c1546254faaf2864e8eab2a7ccdcd209287ab2a8237ec5a0a0b822475e9941a25577bf64d926952af87725de2c6c2da49db8ec8c73123fa4372a146ee17fe45be80edb759511264bd57253486dd2e3bcb6cc17f760860696820c88a5b91e083c300655369adf9732703194358b0983d1a45bcf5b635a3c6d3686062fbb95"
+		"252490"		"440000000400000087842f38010010014ada0300d52e7e5c1500a8c0000000004e46786acef5936a0100a6ba03000300a4b00a0000001e7d1900000068613b00000000001b727e386216df4103b46cc36002a187c9bc803ac299edf7a101a859387fae51aad236781a3db2269b37e26bf0933fc598603d747b2c7421ddd91d2cc7c75ddb4c592632b65bb9a346a14b2c93bdfeae96f06a5e268b1561a783a3eb7fe06f2071c655ca530cf993f1352521cf2ffe315c04cffd6aff4c7991e1e2bf3e2b9d42"
+		"892970"		"380000000400000087842f38010010012aa00d00d52e7e5c1500a8c0000000004f46786acff5936a010068590400010094ae0d000000000036f7493fb04a4f2832350e2019afc9af2bcce2f8da4af314dfa9bd2a493790c6c221a93ea55877a32cf70a551ea10ef8da0c3225a0f9b6e821d3c0f4f4c2202092aa6f522b1804196d5672c57fcc076bbf02b06356a4ffd85fd4bc6528a2f6bb79577216f510b3725b8d37cecd64f2d8375931eecbb3832db6192572233a4ceb"
+		"105600"		"380000000400000087842f3801001001809c0100d52e7e5c1500a8c0000000004e46786acef5936a0100f71f000001008a8f1300000000001ab486215e5c09977a800e725c774eb8cdac54d6dbf0b878a6ad058d85b6a4385608ecceeb2c91b0e9b055ad80b6030950183048da117155e8df76202565c58e2286edb45ca19449a333e9573b9b26761492a507e39bba4150f6c505e519aa82082d88611af3dd102486a0116bd3e4446dd4d6c8195bc6f86c67967c7b36ae2e"
+		"3527290"		"320000000400000087842f38010010017ad23500d52e7e5c1500a8c0000000004f46786acff5936a010063ff120000000000c20ade7ccb58d7b96b22991b427a7326b027303c741d3a5af4865646fe0f73862f73881515e200a77ae810b6608d22eb579efe757eb9f2d0f5cdcd6d55b138ca87d4a1d4aad4ec2e6ebaae4e0af3ba999b43500d7a40ed8044f257be1d4ec2742d1231c4da4890934dd4ee3ce48651e124e8a7aa6ba24ae9335ccebc0b1c0197"
+		"2239140"		"320000000400000087842f3801001001a42a2200d52e7e5c1500a8c0000000004f46786acff5936a0100fc3f0c00000000003b4122453a6b74c257c8eafbc3d4a8ae345fed870c85b85ae4c3114cf97fccfbcefb89c62f3a011d2b77fea1a636bb05d321f05eaf75f68810788fe23dae003fc901d57c58224bdf64cd16df261bdb8c331f0fed57978d77b9a0cf4cdafcb8ad4a976e8fe31593fa1a7faa0597c3155acbeebc3d19cd6e4a6286238b5aa4cd82"
+		"262060"		"500000000400000087842f3801001001acff0300d52e7e5c1500a8c0000000004e46786acef5936a0100558400000500c8460500000004da080000004cb80a000000f2390b000000a40e1100000000006cf367e89e1bea5bbe97694ef2b6084237c0cc9e95fd02397b98d31be24780bbb540a15af018ad445bcac3768f4fb90da13db2c1108418c73eafcf54596bde7984668ad684b54855105e86b523115e6d56d231fbdb23fa0e348f2a557ece16a6a7f9a3d28a47e9f9ac13967237fca548c3d009e8a81fc09d4afdd258d36755ec"
+		"730"		"4a0000000400000087842f3801001001da020000d52e7e5c1500a8c0000000004e46786acef5936a01000dd300000400e40200000000b4880900000028c92200000029c9220000000000c9cf22d344bed35c8e85a1f1a3cbbd85e3f424f7d9ba5146b6845d2fe290c99552fe56889ff5e0797004bec2c6ef371cc7ac70f9860c7a59986dd6a6919f4652c64f426d74b7da7444876af0b19dc8547a4c75bbd019c8f04b5ca551b5d05571dfe720307528b4f545e2728d6613aad6fffb19783ec407ee52927e15fe853c7e"
+		"251570"		"380000000400000087842f3801001001b2d60300d52e7e5c1500a8c0000000004e46786acef5936a0100157800000100147e04000000000070af2c8db46c76ed9271896c2ecc51e7c1baec4235aaf6d1a97a5f57fb8facb93ca437d839ec415b5ccd9e1afff2459fe89fcddbd252bcfc94b4344e4f941f89a59fd0200af87cc0862639e7879d7a6df1ee0114118643ed2fc9a9a4b72eedab9d9795bca5e29214b03eab9591434f2486a026218073f72f52c07261a58c3ad7"
+		"570"		"500000000400000087842f38010010013a020000d52e7e5c1500a8c0000000004d46786acdf5936a01000000000005003f0200000000a2c70400000034b2050000007a2006000000a445070000000000767f8b1ad04d7d7e86c9a5afa3373c0f0c1649d65c686cc262c664e17edcc97b22dc016668f989c63b1e6610c8579ae8a39ea9b0ed1ab94d323363e0c0df574c38eb86be992ebda746fa3b935eab8fafcde42fdd4a664a684afe8155761eedec7da7c44062fa8e6b42c2ed06f4cb916976e368da86c087b78b6e83ad4f58b404"
+		"313250"		"320000000400000087842f3801001001a2c70400d52e7e5c1500a8c0000000004d46786acdf5936a010000000000000000002c1813c9b8d2e3e5a7d5dae56f63281f646b0c6c3c63e43a07e1fd5b09b21b57209a718648c08ccaa8f9653626ace45068923043f3d78bd34341d464cb26e0ae05016a40b733adf1b356d58780c52b649033db5fa26f4c88b7b8b47df1463976aeffcfa24da94b6915f22c2f0f5696a81728aded27298dad16e0e31afdf491d1"
+		"373300"		"320000000400000087842f380100100134b20500d52e7e5c1500a8c0000000004d46786acdf5936a0100000000000000000038d52e426ce0fcfe8190161fbf4c64b1a5c1ab228fc444fb07810beed964f331767a7165ca51f930de598edfa99fe0db50eec50d3cd15ecddaf399e06f9d8d763e7db7ba005852510d7245908f87b11f8053fa92155b1fc39dc5de276dadd370237be0c0c6164f05f8a7c4d58ac8bfdf22c2902cc10babdaeed8104e582562d9"
+		"401530"		"320000000400000087842f38010010017a200600d52e7e5c1500a8c0000000004d46786acdf5936a01000000000000000000689fbb425fff9324d6b8bda98a7812a8ed74b3f7bc9f05408ca4481c4b083fa1bcb260f1a557f47221187dc55973beefb40e24c60d0e0f98bf73c17fdb38d0453fb6518aa90ac7a3c13c873df23e5ef035eccf4af23097f1c0d9ae4f311099d4843bc655221b0dfc3c74bec7fdd300125aed7967dae26b145498651978a7f753"
+		"476580"		"320000000400000087842f3801001001a4450700d52e7e5c1500a8c0000000004d46786acdf5936a010000000000000000002a8039407e632be355f91611da0adf7457925eb0a991943d6d7fd75db0a869db8ed15040b64a205d623b74d005256125b4d10b5f62c30b91733291471c04483cd9c12fc95c5a589e7930a049b5c6624a3ead68785789e869639e2441f9a46f7d99c848fd506df78127d36fc6b92d1dcd6974295f66da5c96a3facc548c9fdd9d"
+		"2279720"		"320000000400000087842f380100100128c92200d52e7e5c1500a8c0000000004e46786acef5936a01000dd300000000000037c4c7eb8377ccff5e266c78c1f2bee01fbba83e4c3b8210402e76d74feff16f4d87eb34495ff444872654463b81e4c8314835066b3c7ca11a30a12ec6dd2dbe00aa0e2d4a81436ca215afad4deeaeb38eb62f408bcff067d009e5545cd2857581b9c9a8044db042a6964f05d565355443578da7a91a57166a436615af671745"
+		"2279721"		"320000000400000087842f380100100129c92200d52e7e5c1500a8c0000000004e46786acef5936a01000dd30000000000002c9e66ce2223d02cbe136528662d8058ac908236055dbd10887e26a26d5d197b785fae87deb2931ba11c8cfd555114b3a0d47a30ee5a87dc2ffa332eb51ea4ced8129e68b2208ee0479c857a1f54d7fa9a2661337b05ff3fc48a92a2078401c9fa8a0114a4e93010536367934b5f95cb30a537d4a374e30fb428eeed2c050ad4"
+		"1670430"		"320000000400000087842f38010010011e7d1900d52e7e5c1500a8c0000000004e46786acef5936a0100f80f090000000000ca64741311c1f12c74200cc86878b67e99848126f2ea4a0cc5f04c06eaea2de7436aa75b5bb272373c73d3e6375848c96092a715130dcd8f64446c0aaa757076a108b56d74748c2677d5bf3c211a65ba26335deb76ac2c915f42ba7a66fdce1621d145074a08d6958d4267797d1a8a987adaabe1d47b74a909b691b70a3591c5"
+		"3891560"		"320000000400000087842f380100100168613b00d52e7e5c1500a8c0000000004e46786acef5936a010080df1400000000004b7c4e0e120aae7e57061fb31038503d184511952e52852372b4d9ff9294b64302681bc621d3886f4360758f91a4c3395936c0e74427cf8aa945f7409de881e3199b0a1bb874eb3a4abea37fc5862187b9061c5e89f634d004c0b2d5ccd613f279e7c064026c1a0c0640683d9d1cdc4f7e77af66d1e13384d2092ec3ec8ffa8d"
+		"580100"		"320000000400000087842f380100100104da0800d52e7e5c1500a8c0000000004e46786acef5936a0100bf440200000000000945936aee7e814e3bd5307589b691546ad350303758614de7be702ef3ccf83b7150cc1103a0a29186b48fb8f66e5ca816c5812e0d150492ac845a2386c5b67a5ba8f4314c730cbb592672542eccf01735ea1401819289b0cce8a18548cdfd3abb403ce3be3b813a725f3dc6d8fa35cb007b755a800addbcae952df6a8b39979"
+		"702540"		"320000000400000087842f38010010014cb80a00d52e7e5c1500a8c0000000004f46786acff5936a0100051703000000000073c2d8a39ebb7ddbb1140100b2d10b8ebdde8acc9c80cde547fa9ac46921ee1e0559ae84254ee88a21234086f55afa1cac127c9142adcc6ddfdde23b4fdb1e2fb8200bb3f7ee3dc1a65cc9be252d44ff254a7cc537ea0a6f3ec18d7d026f615af2a8b4bc46f294a5a78f898b9ea0ce874eab02f075b9130c99ab63516dbd22c2"
+		"735730"		"320000000400000087842f3801001001f2390b00d52e7e5c1500a8c0000000004f46786acff5936a01009147030000000000797f1d5b1b3bed7f4c938b6d9933fa602e54fa905003f0e0bcec9d8f8c4ee04de523077202193d48c55e97b2f8e752641107865c2802ba7b9ce880db94f89a9fd1ea08aff3d3418c914a42f16b1a3e905bbef6957e1ea0b87a8ddac909d69a9ce7c741451f2ab65466f302cbbae2d0af81a5944bd50ac4a7b5bceb508d8f5d34"
+		"1117860"		"320000000400000087842f3801001001a40e1100d52e7e5c1500a8c0000000004f46786acff5936a01007fc60500000000008d9ecdf5902b9f5d42529a6cf34712c70af7e7a97474be633a27a47fe67d46b996ecb709efa9844b0668ddfc44fa85266ff9a3d79d068c2488c68ce6afc5f043740097414d9af22446da6543aa476c758809aea44237377e1e32b6c26d2479b0ffbafaf39f3e03facdcbd6fa674be893db2766097123330c58bf45dc9f43e744"
+		"4108000"		"320000000400000087842f3801001001e0ae3e00d52e7e5c0100007f000000004664786ac613946a0100fbf6150000000000cc1e28c99613227d898fd1ce444b3804d6947114671424b62e70c9531fa047688005b5c53705251c4817ea2a147b321c4f17915c97e570b867f581431e1f132891327714dc540c5bbaf4fe5cd0c263d5f278a9678964e55ee11ec3a7965c36017b90871bf477eaa5d9981e498a296631cf5e9f52210f75f33cd824283b804458"
 	}
-	"AppInfoChangeNumber"		"37620010"
+	"AppInfoChangeNumber"		"37956141"
 	"Offline"
 	{
-		"Ticket"		"088789bec1031553e0696a"
-		"Signature"		"0fe65784f1cee0044eb10eddded391867817d1b0bd5731d944aae9cc1f972f65dea46fd2e58fd27caaa70e82a3f7a6bdb7025ac5a55f2bb9c524d75521a72842946833a8803213a5460e5cb3eab1ad6703b1ec71f24ebe5ea38b9fa7b62441e5e88045480c0a9664a54bbe173a9d34818b92ac487d4cd03d2755fcc887cb4c5e302d182c8504ab8ab2027d765487baac2cf89ea11084a3e2476f3f2bd659c01edd3594f117e446b4c58c52b1705a6fd24d7abec761a45a622d5b505f87e837c2f090bd834d217c8f68ac732544651ca055f142e72c08ca0a3af4ee75f331a22d147abdb1fcb9f58b953676e4588dadefb46e2938ffa5c1f43a23a8fb130fa314"
-		"EncryptedTicket"		"0a20a2e57d3a77b9e9b22fdde19f07b8f145d3a628c99297e2f903b9d1d56878b3e31280020fe65784f1cee0044eb10eddded391867817d1b0bd5731d944aae9cc1f972f65dea46fd2e58fd27caaa70e82a3f7a6bdb7025ac5a55f2bb9c524d75521a72842946833a8803213a5460e5cb3eab1ad6703b1ec71f24ebe5ea38b9fa7b62441e5e88045480c0a9664a54bbe173a9d34818b92ac487d4cd03d2755fcc887cb4c5e302d182c8504ab8ab2027d765487baac2cf89ea11084a3e2476f3f2bd659c01edd3594f117e446b4c58c52b1705a6fd24d7abec761a45a622d5b505f87e837c2f090bd834d217c8f68ac732544651ca055f142e72c08ca0a3af4ee75f331a22d147abdb1fcb9f58b953676e4588dadefb46e2938ffa5c1f43a23a8fb130fa3141806220822e3a84997973f3428043208ce4887bd8a884fda"
-		"EncryptedSignature"		"0fe65784f1cee0044eb10eddded391867817d1b0bd5731d944aae9cc1f972f65dea46fd2e58fd27caaa70e82a3f7a6bdb7025ac5a55f2bb9c524d75521a72842946833a8803213a5460e5cb3eab1ad6703b1ec71f24ebe5ea38b9fa7b62441e5e88045480c0a9664a54bbe173a9d34818b92ac487d4cd03d2755fcc887cb4c5e302d182c8504ab8ab2027d765487baac2cf89ea11084a3e2476f3f2bd659c01edd3594f117e446b4c58c52b1705a6fd24d7abec761a45a622d5b505f87e837c2f090bd834d217c8f68ac732544651ca055f142e72c08ca0a3af4ee75f331a22d147abdb1fcb9f58b953676e4588dadefb46e2938ffa5c1f43a23a8fb130fa314"
+		"Ticket"		"088789bec1031559fc7b6a"
+		"Signature"		"9a72a0165fb01f8a310a462aacde1e353e92105c63c57322da8b2602f9af206e682d54397a7f0bda6c0d8dfa79c535bf34dcb7a51fcd6602b0b20ecfdecd23ab6e5fe045081d80937e69dcd6e18d4d22c1d14e79729675190122a3389e9c1d087c869ad2d72e5096618d6b883771bfd39db4c4f9a3962d45a7dbca9c10a3b22f9e3226050f0c2c59ae509d0bde657424a1b5e821086c081b64155ebc3faf2f19c6105815904d5d38993de28f7d608f72871b9c1868193a5e351c4ff39b3061afdf09f072c74509bfa332495b91101f364e8242aaee5c04121dd5c8a82e16bdf0c5874810ab918770f6c307b2d0c3075846bf8e3f19de44856fcb08c71382d779"
+		"EncryptedTicket"		"0a204c16cfc209e3f8b0e3bd34f40e787c1f60b83901ec693dc9769c9114b134006d1280029a72a0165fb01f8a310a462aacde1e353e92105c63c57322da8b2602f9af206e682d54397a7f0bda6c0d8dfa79c535bf34dcb7a51fcd6602b0b20ecfdecd23ab6e5fe045081d80937e69dcd6e18d4d22c1d14e79729675190122a3389e9c1d087c869ad2d72e5096618d6b883771bfd39db4c4f9a3962d45a7dbca9c10a3b22f9e3226050f0c2c59ae509d0bde657424a1b5e821086c081b64155ebc3faf2f19c6105815904d5d38993de28f7d608f72871b9c1868193a5e351c4ff39b3061afdf09f072c74509bfa332495b91101f364e8242aaee5c04121dd5c8a82e16bdf0c5874810ab918770f6c307b2d0c3075846bf8e3f19de44856fcb08c71382d7791806220822e3a84997973f342804320876cbcfad3ce3228e"
+		"EncryptedSignature"		"9a72a0165fb01f8a310a462aacde1e353e92105c63c57322da8b2602f9af206e682d54397a7f0bda6c0d8dfa79c535bf34dcb7a51fcd6602b0b20ecfdecd23ab6e5fe045081d80937e69dcd6e18d4d22c1d14e79729675190122a3389e9c1d087c869ad2d72e5096618d6b883771bfd39db4c4f9a3962d45a7dbca9c10a3b22f9e3226050f0c2c59ae509d0bde657424a1b5e821086c081b64155ebc3faf2f19c6105815904d5d38993de28f7d608f72871b9c1868193a5e351c4ff39b3061afdf09f072c74509bfa332495b91101f364e8242aaee5c04121dd5c8a82e16bdf0c5874810ab918770f6c307b2d0c3075846bf8e3f19de44856fcb08c71382d779"
 	}
 	"Software"
 	{
@@ -393,7 +394,6 @@
 					"480"
 					{
 						"LastPlayed"		"1784394661"
-						"Playtime2wks"		"27"
 						"Playtime"		"8365"
 						"PlaytimeDisconnected"		"29"
 					}
@@ -404,20 +404,21 @@
 					}
 					"570"
 					{
-						"LastPlayed"		"1785338642"
-						"Playtime2wks"		"5061"
-						"Playtime"		"131119"
+						"LastPlayed"		"1786460997"
+						"Playtime2wks"		"3040"
+						"Playtime"		"133953"
 						"cloud"
 						{
 							"last_sync_state"		"conflictingchanges"
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1785338638"
-							"lastexit"		"1785338637"
+							"lastlaunch"		"1786454486"
+							"lastexit"		"1786460997"
 						}
 						"BadgeData"		"02000000080c"
 						"DisableUpdatesUntil"		"0"
+						"PlaytimeDisconnected"		"1"
 					}
 					"730"
 					{
@@ -436,11 +437,10 @@
 					"105600"
 					{
 						"LastPlayed"		"1784115880"
-						"Playtime2wks"		"14"
 						"Playtime"		"29392"
 						"cloud"
 						{
-							"last_sync_state"		"changesincloud"
+							"last_sync_state"		"synchronized"
 						}
 					}
 					"212070"
@@ -482,14 +482,21 @@
 					}
 					"262060"
 					{
-						"LastPlayed"		"1774012347"
-						"Playtime"		"1892"
-						"PlaytimeDisconnected"		"3118"
+						"LastPlayed"		"1785864445"
+						"Playtime"		"1895"
 						"262060_eula_0"		"0"
 						"cloud"
 						{
-							"last_sync_state"		"changesincloud"
+							"last_sync_state"		"changeslocally"
 						}
+						"autocloud"
+						{
+							"lastlaunch"		"1785864283"
+							"lastexit"		"1785864441"
+						}
+						"BadgeData"		"02000000080c"
+						"Playtime2wks"		"2"
+						"PlaytimeDisconnected"		"3118"
 					}
 					"306130"
 					{
@@ -552,7 +559,7 @@
 						"Playtime"		"2492"
 						"cloud"
 						{
-							"last_sync_state"		"changesincloud"
+							"last_sync_state"		"synchronized"
 						}
 					}
 					"892970"
@@ -561,7 +568,7 @@
 						"Playtime"		"9617"
 						"cloud"
 						{
-							"last_sync_state"		"changesincloud"
+							"last_sync_state"		"synchronized"
 						}
 					}
 					"1085660"
@@ -689,25 +696,43 @@
 							"last_sync_state"		"synchronized"
 						}
 					}
+					"553850"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"4108000"
+					{
+						"LastPlayed"		"1786278569"
+						"BadgeData"		"02000000080c"
+						"Playtime2wks"		"60"
+						"Playtime"		"60"
+					}
 				}
-				"LastPlayedTimesSyncTime"		"1785223220"
+				"LastPlayedTimesSyncTime"		"1786460997"
 				"PlayerLevel"		"12"
+				"ShaderCacheManager"
+				{
+					"LastSeenBackendHitCacheGeneration"		"4"
+				}
 			}
 		}
 	}
 	"CloudManager"
 	{
-		"HintAppsToPreload"		"570"
+		"HintAppsToPreload"		"2371090"
 	}
 	"WebStorage"
 	{
 		"SteamVoiceSettings_942638215"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"5fb7876f4f54500aea5dc02361de2799e65a4ee54e0b3274a15e607eb6daff36\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true,\"useSteamAudioSpatialization\":false}"
-		"CTextFilterStore_TextFilterPreferences_942638215"		"{\"eTextFilterSetting\":3,\"bIgnoreFriends\":1}"
+		"CTextFilterStore_TextFilterPreferences_942638215"		"{\"bIgnoreFriends\":1,\"eTextFilterSetting\":3}"
 		"CTextFilterStore_TextFilterWords_942638215"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
 		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":3,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]}}"
 		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11},{\"notification_type\":28,\"notification_targets\":1}]"
 		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]},\"provide_deck_feedback\":0,\"game_frame_rate_reporting\":0,\"primary_language\":-1,\"secondary_languages\":0}"
-		"LocalizedTagNames2_russian"		"{\"version_hash\":\"570875741\",\"tags\":[{\"tagid\":9,\"name\":\"Стратегия\"},{\"tagid\":19,\"name\":\"Экшен\"},{\"tagid\":21,\"name\":\"Приключение\"},{\"tagid\":84,\"name\":\"Дизайн и иллюстрация\"},{\"tagid\":87,\"name\":\"Утилиты\"},{\"tagid\":113,\"name\":\"Бесплатная игра\"},{\"tagid\":122,\"name\":\"Ролевая игра\"},{\"tagid\":128,\"name\":\"ММО\"},{\"tagid\":492,\"name\":\"Инди\"},{\"tagid\":493,\"name\":\"Ранний доступ\"},{\"tagid\":597,\"name\":\"Казуальная игра\"},{\"tagid\":599,\"name\":\"Симулятор\"},{\"tagid\":699,\"name\":\"Гонки\"},{\"tagid\":701,\"name\":\"Спорт\"},{\"tagid\":784,\"name\":\"Видеопродакшн\"},{\"tagid\":809,\"name\":\"Обработка фото\"},{\"tagid\":872,\"name\":\"Анимация и моделирование\"},{\"tagid\":1027,\"name\":\"Работа со звуком\"},{\"tagid\":1036,\"name\":\"Образование\"},{\"tagid\":1445,\"name\":\"Обучение работе с ПО\"},{\"tagid\":1616,\"name\":\"Поезда\"},{\"tagid\":1621,\"name\":\"Музыка\"},{\"tagid\":1625,\"name\":\"Платформер\"},{\"tagid\":1628,\"name\":\"Метроидвания\"},{\"tagid\":1637,\"name\":\"Собаки\"},{\"tagid\":1638,\"name\":\"Dog\"},{\"tagid\":1643,\"name\":\"Строительство\"},{\"tagid\":1644,\"name\":\"Вождение\"},{\"tagid\":1645,\"name\":\"Башенная защита\"},{\"tagid\":1646,\"name\":\"Слэшер\"},{\"tagid\":1647,\"name\":\"Вестерн\"},{\"tagid\":1651,\"name\":\"Сатира\"},{\"tagid\":1654,\"name\":\"Расслабляющая\"},{\"tagid\":1659,\"name\":\"Зомби\"},{\"tagid\":1662,\"name\":\"Выживание\"},{\"tagid\":1663,\"name\":\"Шутер от первого лица\"},{\"tagid\":1664,\"name\":\"Головоломка\"},{\"tagid\":1665,\"name\":\"Три в ряд\"},{\"tagid\":1666,\"name\":\"Карточная игра\"},{\"tagid\":1667,\"name\":\"Хоррор\"},{\"tagid\":1669,\"name\":\"Поддержка модификаций\"},{\"tagid\":1670,\"name\":\"4X\"},{\"tagid\":1671,\"name\":\"Супергерои\"},{\"tagid\":1673,\"name\":\"Инопланетяне\"},{\"tagid\":1674,\"name\":\"Печатание\"},{\"tagid\":1676,\"name\":\"Стратегия в реальном времени\"},{\"tagid\":1677,\"name\":\"Пошаговая\"},{\"tagid\":1678,\"name\":\"Война\"},{\"tagid\":1680,\"name\":\"Ограбления\"},{\"tagid\":1681,\"name\":\"Пираты\"},{\"tagid\":1684,\"name\":\"Фэнтези\"},{\"tagid\":1685,\"name\":\"Кооператив\"},{\"tagid\":1687,\"name\":\"Стелс\"},{\"tagid\":1688,\"name\":\"Ниндзя\"},{\"tagid\":1693,\"name\":\"Классика\"},{\"tagid\":1695,\"name\":\"Открытый мир\"},{\"tagid\":1697,\"name\":\"От третьего лица\"},{\"tagid\":1698,\"name\":\"Point & Click\"},{\"tagid\":1702,\"name\":\"Крафтинг\"},{\"tagid\":1708,\"name\":\"Тактика\"},{\"tagid\":1710,\"name\":\"Сюрреалистичная\"},{\"tagid\":1714,\"name\":\"Психоделия\"},{\"tagid\":1716,\"name\":\"Рогалик\"},{\"tagid\":1717,\"name\":\"Шестиугольная карта\"},{\"tagid\":1718,\"name\":\"MOBA\"},{\"tagid\":1719,\"name\":\"Юмор\"},{\"tagid\":1720,\"name\":\"Подземелья\"},{\"tagid\":1721,\"name\":\"Психологический хоррор\"},{\"tagid\":1723,\"name\":\"Экшен-RTS\"},{\"tagid\":1730,\"name\":\"Сокобан\"},{\"tagid\":1732,\"name\":\"Воксельная графика\"},{\"tagid\":1733,\"name\":\"Unforgiving\"},{\"tagid\":1734,\"name\":\"Быстрая\"},{\"tagid\":1738,\"name\":\"Поиск предметов\"},{\"tagid\":1741,\"name\":\"Пошаговая стратегия\"},{\"tagid\":1742,\"name\":\"Глубокий сюжет\"},{\"tagid\":1743,\"name\":\"Файтинг\"},{\"tagid\":1746,\"name\":\"Баскетбол\"},{\"tagid\":1751,\"name\":\"По комиксу\"},{\"tagid\":1752,\"name\":\"Ритм-игра\"},{\"tagid\":1753,\"name\":\"Скейтбординг\"},{\"tagid\":1754,\"name\":\"MMORPG\"},{\"tagid\":1755,\"name\":\"Космос\"},{\"tagid\":1756,\"name\":\"Отличный саундтрек\"},{\"tagid\":1759,\"name\":\"Одна жизнь\"},{\"tagid\":1770,\"name\":\"Настольная с полем\"},{\"tagid\":1773,\"name\":\"Аркада\"},{\"tagid\":1774,\"name\":\"Шутер\"},{\"tagid\":1775,\"name\":\"Игрок против игрока\"},{\"tagid\":1776,\"name\":\"Шпионаж\"},{\"tagid\":1777,\"name\":\"Стимпанк\"},{\"tagid\":3796,\"name\":\"По мотивам книги\"},{\"tagid\":3798,\"name\":\"Вид сбоку\"},{\"tagid\":3799,\"name\":\"Визуальная новелла\"},{\"tagid\":3810,\"name\":\"Песочница\"},{\"tagid\":3813,\"name\":\"Тактика в реальном времени\"},{\"tagid\":3814,\"name\":\"Шутер от третьего лица\"},{\"tagid\":3834,\"name\":\"Исследования\"},{\"tagid\":3835,\"name\":\"Постапокалипсис\"},{\"tagid\":3839,\"name\":\"От первого лица\"},{\"tagid\":3841,\"name\":\"Локальный кооператив\"},{\"tagid\":3843,\"name\":\"Сетевой кооператив\"},{\"tagid\":3854,\"name\":\"Проработанная вселенная\"},{\"tagid\":3859,\"name\":\"Для нескольких игроков\"},{\"tagid\":3871,\"name\":\"2D\"},{\"tagid\":3877,\"name\":\"Платформер на точность\"},{\"tagid\":3878,\"name\":\"Соревновательная\"},{\"tagid\":3916,\"name\":\"Олдскул\"},{\"tagid\":3920,\"name\":\"Кулинария\"},{\"tagid\":3934,\"name\":\"Иммерсивная игра\"},{\"tagid\":3942,\"name\":\"Научная фантастика\"},{\"tagid\":3952,\"name\":\"Готика\"},{\"tagid\":3954,\"name\":\"Rail Shooter\"},{\"tagid\":3955,\"name\":\"Яркий главный герой\"},{\"tagid\":3959,\"name\":\"Упрощённый рогалик\"},{\"tagid\":3964,\"name\":\"Пиксельная графика\"},{\"tagid\":3965,\"name\":\"Эпичная\"},{\"tagid\":3968,\"name\":\"Физика\"},{\"tagid\":3978,\"name\":\"Хоррор на выживание\"},{\"tagid\":3987,\"name\":\"Историческая\"},{\"tagid\":3993,\"name\":\"Бой\"},{\"tagid\":4004,\"name\":\"Ретро\"},{\"tagid\":4026,\"name\":\"Сложная\"},{\"tagid\":4036,\"name\":\"Паркур\"},{\"tagid\":4046,\"name\":\"Драконы\"},{\"tagid\":4057,\"name\":\"Магия\"},{\"tagid\":4064,\"name\":\"Триллер\"},{\"tagid\":4085,\"name\":\"Аниме\"},{\"tagid\":4094,\"name\":\"Минимализм\"},{\"tagid\":4102,\"name\":\"Боевые гонки\"},{\"tagid\":4106,\"name\":\"Приключенческий экшен\"},{\"tagid\":4115,\"name\":\"Киберпанк\"},{\"tagid\":4136,\"name\":\"Смешная\"},{\"tagid\":4137,\"name\":\"Трансгуманизм\"},{\"tagid\":4145,\"name\":\"Кинематографичная\"},{\"tagid\":4150,\"name\":\"Вторая мировая война\"},{\"tagid\":4155,\"name\":\"Разделение на классы\"},{\"tagid\":4158,\"name\":\"Beat 'em up\"},{\"tagid\":4161,\"name\":\"В реальном времени\"},{\"tagid\":4162,\"name\":\"Kids\"},{\"tagid\":4166,\"name\":\"Атмосферная\"},{\"tagid\":4168,\"name\":\"Военные действия\"},{\"tagid\":4172,\"name\":\"Средневековье\"},{\"tagid\":4175,\"name\":\"Реализм\"},{\"tagid\":4182,\"name\":\"Для одного игрока\"},{\"tagid\":4184,\"name\":\"Шахматы\"},{\"tagid\":4190,\"name\":\"Затягивающая\"},{\"tagid\":4191,\"name\":\"3D\"},{\"tagid\":4195,\"name\":\"Мультипликация\"},{\"tagid\":4202,\"name\":\"Торговля\"},{\"tagid\":4231,\"name\":\"Ролевой экшен\"},{\"tagid\":4234,\"name\":\"Короткая\"},{\"tagid\":4236,\"name\":\"Лут\"},{\"tagid\":4242,\"name\":\"Сериал\"},{\"tagid\":4252,\"name\":\"Стилизация\"},{\"tagid\":4255,\"name\":\"Shoot 'em up\"},{\"tagid\":4291,\"name\":\"Космические корабли\"},{\"tagid\":4295,\"name\":\"Будущее\"},{\"tagid\":4305,\"name\":\"Цветастая\"},{\"tagid\":4325,\"name\":\"Пошаговые сражения\"},{\"tagid\":4328,\"name\":\"Градостроение\"},{\"tagid\":4342,\"name\":\"Мрачная\"},{\"tagid\":4345,\"name\":\"Кровь\"},{\"tagid\":4364,\"name\":\"Глобальная стратегия\"},{\"tagid\":4376,\"name\":\"Assassin\"},{\"tagid\":4400,\"name\":\"Абстрактная\"},{\"tagid\":4434,\"name\":\"Японская ролевая игра\"},{\"tagid\":4474,\"name\":\"Компьютерная ролевая игра\"},{\"tagid\":4486,\"name\":\"Выбери себе приключение\"},{\"tagid\":4508,\"name\":\"Совместная кампания\"},{\"tagid\":4520,\"name\":\"Фермерство\"},{\"tagid\":4535,\"name\":\"Дворфы\"},{\"tagid\":4559,\"name\":\"QTE\"},{\"tagid\":4562,\"name\":\"Мультфильмы\"},{\"tagid\":4598,\"name\":\"Альтернативная история\"},{\"tagid\":4604,\"name\":\"Тёмное фэнтези\"},{\"tagid\":4608,\"name\":\"Сражения на мечах\"},{\"tagid\":4637,\"name\":\"Шутер с видом сверху\"},{\"tagid\":4667,\"name\":\"Насилие\"},{\"tagid\":4684,\"name\":\"Военные конфликты\"},{\"tagid\":4695,\"name\":\"Экономика\"},{\"tagid\":4711,\"name\":\"Реиграбельность\"},{\"tagid\":4726,\"name\":\"Милая\"},{\"tagid\":4736,\"name\":\"2D-файтинг\"},{\"tagid\":4747,\"name\":\"Кастомизация персонажа\"},{\"tagid\":4754,\"name\":\"Политика\"},{\"tagid\":4758,\"name\":\"Твин-стик шутер\"},{\"tagid\":4777,\"name\":\"Зрелищные сражения\"},{\"tagid\":4791,\"name\":\"Вид сверху\"},{\"tagid\":4821,\"name\":\"Мехи\"},{\"tagid\":4835,\"name\":\"Свобода движения\"},{\"tagid\":4840,\"name\":\"Локальная игра на четверых\"},{\"tagid\":4845,\"name\":\"Капитализм\"},{\"tagid\":4852,\"name\":\"Бильярд\"},{\"tagid\":4853,\"name\":\"Политическая\"},{\"tagid\":4878,\"name\":\"Пародия\"},{\"tagid\":4885,\"name\":\"Пулевой ад\"},{\"tagid\":4947,\"name\":\"Романтика\"},{\"tagid\":4975,\"name\":\"2.5D\"},{\"tagid\":4994,\"name\":\"Морской бой\"},{\"tagid\":5030,\"name\":\"Антиутопия\"},{\"tagid\":5055,\"name\":\"Киберспорт\"},{\"tagid\":5125,\"name\":\"Процедурная генерация\"},{\"tagid\":5154,\"name\":\"Набор очков\"},{\"tagid\":5160,\"name\":\"Динозавры \"},{\"tagid\":5179,\"name\":\"Холодная война\"},{\"tagid\":5186,\"name\":\"Психологическая\"},{\"tagid\":5228,\"name\":\"Blood\"},{\"tagid\":5230,\"name\":\"Сиквел\"},{\"tagid\":5300,\"name\":\"Симулятор бога\"},{\"tagid\":5348,\"name\":\"Модификации\"},{\"tagid\":5350,\"name\":\"Для всей семьи\"},{\"tagid\":5363,\"name\":\"Разрушения\"},{\"tagid\":5372,\"name\":\"Заговор\"},{\"tagid\":5379,\"name\":\"2D-платформер\"},{\"tagid\":5382,\"name\":\"Первая мировая война\"},{\"tagid\":5390,\"name\":\"Игра на время\"},{\"tagid\":5395,\"name\":\"3D-платформер\"},{\"tagid\":5407,\"name\":\"Бенчмарк\"},{\"tagid\":5411,\"name\":\"Красивая\"},{\"tagid\":5432,\"name\":\"Программирование\"},{\"tagid\":5502,\"name\":\"Хакерство\"},{\"tagid\":5537,\"name\":\"Головоломка-платформер\"},{\"tagid\":5547,\"name\":\"Арена-шутер\"},{\"tagid\":5608,\"name\":\"Эмоциональная\"},{\"tagid\":5613,\"name\":\"Детектив\"},{\"tagid\":5652,\"name\":\"Коллектатон\"},{\"tagid\":5673,\"name\":\"Современность\"},{\"tagid\":5708,\"name\":\"Ремейк\"},{\"tagid\":5711,\"name\":\"Командная\"},{\"tagid\":5716,\"name\":\"Тайна\"},{\"tagid\":5727,\"name\":\"Бейсбол\"},{\"tagid\":5752,\"name\":\"Роботы\"},{\"tagid\":5765,\"name\":\"Кастомизация оружия\"},{\"tagid\":5794,\"name\":\"Наука\"},{\"tagid\":5796,\"name\":\"Замедление времени\"},{\"tagid\":5851,\"name\":\"Изометрия\"},{\"tagid\":5900,\"name\":\"Симулятор ходьбы\"},{\"tagid\":5914,\"name\":\"Теннис\"},{\"tagid\":5923,\"name\":\"Чёрный юмор\"},{\"tagid\":5941,\"name\":\"Перезапуск\"},{\"tagid\":5981,\"name\":\"Горное дело\"},{\"tagid\":6041,\"name\":\"Лошади\"},{\"tagid\":6052,\"name\":\"Нуар\"},{\"tagid\":6054,\"name\":\"Эльфы\"},{\"tagid\":6129,\"name\":\"Логика\"},{\"tagid\":6214,\"name\":\"Птицы\"},{\"tagid\":6276,\"name\":\"Менеджмент инвентаря\"},{\"tagid\":6310,\"name\":\"Дипломатия\"},{\"tagid\":6378,\"name\":\"Криминал\"},{\"tagid\":6426,\"name\":\"Решения с последствиями\"},{\"tagid\":6506,\"name\":\"3D-файтинг\"},{\"tagid\":6621,\"name\":\"Пинбол\"},{\"tagid\":6625,\"name\":\"Контроль времени\"},{\"tagid\":6650,\"name\":\"Нагота\"},{\"tagid\":6691,\"name\":\"90-е\"},{\"tagid\":6702,\"name\":\"Марс\"},{\"tagid\":6730,\"name\":\"Игрок против ИИ\"},{\"tagid\":6815,\"name\":\"Рисованная графика\"},{\"tagid\":6835,\"name\":\"Покер\"},{\"tagid\":6869,\"name\":\"Нелинейная\"},{\"tagid\":6910,\"name\":\"Флот\"},{\"tagid\":6915,\"name\":\"Боевые искусства\"},{\"tagid\":6948,\"name\":\"Рим\"},{\"tagid\":6971,\"name\":\"Несколько концовок\"},{\"tagid\":7038,\"name\":\"Гольф\"},{\"tagid\":7107,\"name\":\"Можно приостановить\"},{\"tagid\":7108,\"name\":\"Вечеринка\"},{\"tagid\":7178,\"name\":\"Командная игра\"},{\"tagid\":7208,\"name\":\"Протагонистка\"},{\"tagid\":7250,\"name\":\"Линейная\"},{\"tagid\":7309,\"name\":\"Лыжи\"},{\"tagid\":7328,\"name\":\"Боулинг\"},{\"tagid\":7332,\"name\":\"Строительство базы\"},{\"tagid\":7368,\"name\":\"Локальный мультиплеер\"},{\"tagid\":7423,\"name\":\"Снайперство\"},{\"tagid\":7432,\"name\":\"Лавкрафт\"},{\"tagid\":7481,\"name\":\"Контроллер\"},{\"tagid\":7556,\"name\":\"Игральные кости\"},{\"tagid\":7569,\"name\":\"Перемещение по сетке\"},{\"tagid\":7622,\"name\":\"Бездорожье\"},{\"tagid\":7702,\"name\":\"Повествование\"},{\"tagid\":7743,\"name\":\"80-е\"},{\"tagid\":7918,\"name\":\"Dwarf\"},{\"tagid\":7926,\"name\":\"Искусственный интеллект\"},{\"tagid\":7948,\"name\":\"Саундтрек\"},{\"tagid\":8013,\"name\":\"Программное обеспечение\"},{\"tagid\":8075,\"name\":\"TrackIR\"},{\"tagid\":8093,\"name\":\"Мини-игры\"},{\"tagid\":8122,\"name\":\"Редактор уровней\"},{\"tagid\":8253,\"name\":\"Генерация на основе музыки\"},{\"tagid\":8369,\"name\":\"Расследования\"},{\"tagid\":8666,\"name\":\"Раннер\"},{\"tagid\":8945,\"name\":\"Управление ресурсами\"},{\"tagid\":9130,\"name\":\"Хентай\"},{\"tagid\":9157,\"name\":\"Подводный мир\"},{\"tagid\":9204,\"name\":\"Иммерсивный симулятор\"},{\"tagid\":9271,\"name\":\"Коллекционная карточная игра\"},{\"tagid\":9541,\"name\":\"Демоны\"},{\"tagid\":9551,\"name\":\"Симулятор свиданий\"},{\"tagid\":9564,\"name\":\"Охота\"},{\"tagid\":9592,\"name\":\"Динамическое повествование\"},{\"tagid\":9626,\"name\":\"Животные\"},{\"tagid\":9803,\"name\":\"Снег\"},{\"tagid\":10235,\"name\":\"Симулятор жизни\"},{\"tagid\":10383,\"name\":\"Транспорт\"},{\"tagid\":10397,\"name\":\"Мемы\"},{\"tagid\":10437,\"name\":\"Викторина\"},{\"tagid\":10617,\"name\":\"Самураи\"},{\"tagid\":10679,\"name\":\"Путешествия во времени\"},{\"tagid\":10695,\"name\":\"Партийная ролевая игра\"},{\"tagid\":10808,\"name\":\"Сверхъестественное\"},{\"tagid\":10816,\"name\":\"Разделение экрана\"},{\"tagid\":11014,\"name\":\"Интерактивная литература\"},{\"tagid\":11095,\"name\":\"Boss Rush\"},{\"tagid\":11104,\"name\":\"Гонки на выживание\"},{\"tagid\":11123,\"name\":\"Управление мышью\"},{\"tagid\":11333,\"name\":\"Злодей-протагонист\"},{\"tagid\":11634,\"name\":\"Викинги\"},{\"tagid\":12057,\"name\":\"Обучение\"},{\"tagid\":12095,\"name\":\"Сексуальный контент\"},{\"tagid\":12190,\"name\":\"Бокс\"},{\"tagid\":12472,\"name\":\"Менеджмент\"},{\"tagid\":12686,\"name\":\"Вампиры\"},{\"tagid\":13070,\"name\":\"Пасьянс\"},{\"tagid\":13276,\"name\":\"Танки\"},{\"tagid\":13382,\"name\":\"Стрельба из лука\"},{\"tagid\":13577,\"name\":\"Мореплавание\"},{\"tagid\":13782,\"name\":\"Экспериментальная\"},{\"tagid\":13906,\"name\":\"Разработка игр\"},{\"tagid\":14139,\"name\":\"Пошаговая тактика\"},{\"tagid\":14720,\"name\":\"Ностальгия\"},{\"tagid\":14906,\"name\":\"Нарочито неудобное управление\"},{\"tagid\":15045,\"name\":\"Полёты\"},{\"tagid\":15172,\"name\":\"Conversation\"},{\"tagid\":15277,\"name\":\"Философская\"},{\"tagid\":15564,\"name\":\"Рыбалка\"},{\"tagid\":15868,\"name\":\"Мотокросс\"},{\"tagid\":15954,\"name\":\"Молчаливый главный герой\"},{\"tagid\":16094,\"name\":\"Мифология\"},{\"tagid\":16250,\"name\":\"Азартная\"},{\"tagid\":16598,\"name\":\"Космический симулятор\"},{\"tagid\":16689,\"name\":\"Тайм-менеджмент\"},{\"tagid\":17015,\"name\":\"Оборотни\"},{\"tagid\":17305,\"name\":\"Ролевая стратегия\"},{\"tagid\":17337,\"name\":\"Лемминги\"},{\"tagid\":17389,\"name\":\"Настольная игра\"},{\"tagid\":17770,\"name\":\"Асинхронный мультиплеер\"},{\"tagid\":17894,\"name\":\"Котики\"},{\"tagid\":17927,\"name\":\"Pool\"},{\"tagid\":18594,\"name\":\"FMV-игра\"},{\"tagid\":19568,\"name\":\"Велосипеды\"},{\"tagid\":19780,\"name\":\"Подводная лодка\"},{\"tagid\":19995,\"name\":\"Чёрная комедия\"},{\"tagid\":20486,\"name\":\"Волки\"},{\"tagid\":21006,\"name\":\"Подземная\"},{\"tagid\":21635,\"name\":\"Изучение языков\"},{\"tagid\":21725,\"name\":\"Тактическая ролевая игра\"},{\"tagid\":21978,\"name\":\"VR\"},{\"tagid\":22602,\"name\":\"Сельское хозяйство\"},{\"tagid\":22955,\"name\":\"Мини-гольф\"},{\"tagid\":23491,\"name\":\"Уборка\"},{\"tagid\":24003,\"name\":\"Словесная\"},{\"tagid\":25085,\"name\":\"Сенсорное управление\"},{\"tagid\":25959,\"name\":\"Уся\"},{\"tagid\":26921,\"name\":\"Политический симулятор\"},{\"tagid\":27758,\"name\":\"Управление голосом\"},{\"tagid\":28444,\"name\":\"Сноубординг\"},{\"tagid\":29482,\"name\":\"Похожа на Dark Souls\"},{\"tagid\":30358,\"name\":\"Природа\"},{\"tagid\":30927,\"name\":\"Fox\"},{\"tagid\":31275,\"name\":\"Текстовая\"},{\"tagid\":31579,\"name\":\"Отомэ\"},{\"tagid\":32322,\"name\":\"Построение колоды\"},{\"tagid\":33572,\"name\":\"Маджонг\"},{\"tagid\":35079,\"name\":\"Симулятор работы\"},{\"tagid\":37376,\"name\":\"Падающие блоки\"},{\"tagid\":37799,\"name\":\"Combat Flight Simulator\"},{\"tagid\":40500,\"name\":\"Sexual Themes\"},{\"tagid\":42089,\"name\":\"Скример\"},{\"tagid\":42152,\"name\":\"Беседы\"},{\"tagid\":42329,\"name\":\"Coding\"},{\"tagid\":42804,\"name\":\"Экшен-рогалик\"},{\"tagid\":44868,\"name\":\"ЛГБТК+\"},{\"tagid\":46348,\"name\":\"Зоопарк\"},{\"tagid\":47827,\"name\":\"Реслинг\"},{\"tagid\":49213,\"name\":\"Регби\"},{\"tagid\":52406,\"name\":\"Культ\"},{\"tagid\":56690,\"name\":\"Рельсовый шутер\"},{\"tagid\":61357,\"name\":\"Электронная музыка\"},{\"tagid\":71389,\"name\":\"Правописание\"},{\"tagid\":87918,\"name\":\"Симулятор фермы\"},{\"tagid\":91114,\"name\":\"Работа в магазине\"},{\"tagid\":92092,\"name\":\"Jet\"},{\"tagid\":96359,\"name\":\"Катание\"},{\"tagid\":97070,\"name\":\"Ассассины\"},{\"tagid\":97376,\"name\":\"Уютная\"},{\"tagid\":102530,\"name\":\"Elf\"},{\"tagid\":117648,\"name\":\"8-битная музыка\"},{\"tagid\":123332,\"name\":\"Байки\"},{\"tagid\":129761,\"name\":\"Квадроциклы\"},{\"tagid\":150626,\"name\":\"Об играх\"},{\"tagid\":158638,\"name\":\"Крикет\"},{\"tagid\":176981,\"name\":\"Королевская битва\"},{\"tagid\":180368,\"name\":\"Верования\"},{\"tagid\":189941,\"name\":\"Инструментальная музыка\"},{\"tagid\":198631,\"name\":\"Загадочные подземелья\"},{\"tagid\":198913,\"name\":\"Мотоциклы\"},{\"tagid\":220585,\"name\":\"Симулятор колонии\"},{\"tagid\":252854,\"name\":\"Веломотокросс\"},{\"tagid\":255534,\"name\":\"Автоматизация\"},{\"tagid\":323922,\"name\":\"Мусоу\"},{\"tagid\":324176,\"name\":\"Хоккей\"},{\"tagid\":337964,\"name\":\"Рок-музыка\"},{\"tagid\":353880,\"name\":\"Лутер-шутер\"},{\"tagid\":363767,\"name\":\"Снукер\"},{\"tagid\":379975,\"name\":\"Clicker\"},{\"tagid\":454187,\"name\":\"Традиционный рогалик\"},{\"tagid\":507423,\"name\":\"Лисицы\"},{\"tagid\":552282,\"name\":\"Душевная\"},{\"tagid\":560542,\"name\":\"Инкрементальная\"},{\"tagid\":603297,\"name\":\"Устройства\"},{\"tagid\":615955,\"name\":\"Idle-игра\"},{\"tagid\":620519,\"name\":\"Геройский шутер\"},{\"tagid\":723991,\"name\":\"Пулевой рай\"},{\"tagid\":745697,\"name\":\"Социальная дедукция\"},{\"tagid\":760247,\"name\":\"Сянься\"},{\"tagid\":769306,\"name\":\"Квест-комната\"},{\"tagid\":776177,\"name\":\"Панорамное видео\"},{\"tagid\":791774,\"name\":\"Карточный баттлер\"},{\"tagid\":847164,\"name\":\"Волейбол\"},{\"tagid\":856791,\"name\":\"Асимметричная VR\"},{\"tagid\":889937,\"name\":\"Декорирование\"},{\"tagid\":916648,\"name\":\"Коллекционирование существ\"},{\"tagid\":1023537,\"name\":\"Бумерский шутер\"},{\"tagid\":1084988,\"name\":\"Автобаттлер\"},{\"tagid\":1091588,\"name\":\"Карточный рогалик\"},{\"tagid\":1100686,\"name\":\"Симулятор эпидемии\"},{\"tagid\":1100687,\"name\":\"Автосимулятор\"},{\"tagid\":1100688,\"name\":\"Медицинский симулятор\"},{\"tagid\":1100689,\"name\":\"Симулятор выживания и крафтинга в открытом мире\"},{\"tagid\":1199779,\"name\":\"Шутер с эвакуацией\"},{\"tagid\":1220528,\"name\":\"Симулятор хобби\"},{\"tagid\":1239876,\"name\":\"Организация\"},{\"tagid\":1254546,\"name\":\"Футбол\"},{\"tagid\":1254552,\"name\":\"Американский футбол\"},{\"tagid\":1320952,\"name\":\"Настольный компаньон\"},{\"tagid\":1352486,\"name\":\"Капибары\"}]}"
+		"LocalizedTagNames2_russian"		"{\"version_hash\":\"3922481052\",\"tags\":[{\"tagid\":9,\"name\":\"Стратегия\"},{\"tagid\":19,\"name\":\"Экшен\"},{\"tagid\":21,\"name\":\"Приключение\"},{\"tagid\":84,\"name\":\"Дизайн и иллюстрация\"},{\"tagid\":87,\"name\":\"Утилиты\"},{\"tagid\":113,\"name\":\"Бесплатная игра\"},{\"tagid\":122,\"name\":\"Ролевая игра\"},{\"tagid\":128,\"name\":\"ММО\"},{\"tagid\":492,\"name\":\"Инди\"},{\"tagid\":493,\"name\":\"Ранний доступ\"},{\"tagid\":597,\"name\":\"Казуальная игра\"},{\"tagid\":599,\"name\":\"Симулятор\"},{\"tagid\":699,\"name\":\"Гонки\"},{\"tagid\":701,\"name\":\"Спорт\"},{\"tagid\":784,\"name\":\"Видеопродакшн\"},{\"tagid\":809,\"name\":\"Обработка фото\"},{\"tagid\":872,\"name\":\"Анимация и моделирование\"},{\"tagid\":1027,\"name\":\"Работа со звуком\"},{\"tagid\":1036,\"name\":\"Образование\"},{\"tagid\":1445,\"name\":\"Обучение работе с ПО\"},{\"tagid\":1616,\"name\":\"Поезда\"},{\"tagid\":1621,\"name\":\"Музыка\"},{\"tagid\":1625,\"name\":\"Платформер\"},{\"tagid\":1628,\"name\":\"Метроидвания\"},{\"tagid\":1637,\"name\":\"Собаки\"},{\"tagid\":1638,\"name\":\"Dog\"},{\"tagid\":1643,\"name\":\"Строительство\"},{\"tagid\":1644,\"name\":\"Вождение\"},{\"tagid\":1645,\"name\":\"Башенная защита\"},{\"tagid\":1646,\"name\":\"Слэшер\"},{\"tagid\":1647,\"name\":\"Вестерн\"},{\"tagid\":1651,\"name\":\"Сатира\"},{\"tagid\":1654,\"name\":\"Расслабляющая\"},{\"tagid\":1659,\"name\":\"Зомби\"},{\"tagid\":1662,\"name\":\"Выживание\"},{\"tagid\":1663,\"name\":\"Шутер от первого лица\"},{\"tagid\":1664,\"name\":\"Головоломка\"},{\"tagid\":1665,\"name\":\"Три в ряд\"},{\"tagid\":1666,\"name\":\"Карточная игра\"},{\"tagid\":1667,\"name\":\"Хоррор\"},{\"tagid\":1669,\"name\":\"Поддержка модификаций\"},{\"tagid\":1670,\"name\":\"4X\"},{\"tagid\":1671,\"name\":\"Супергерои\"},{\"tagid\":1673,\"name\":\"Инопланетяне\"},{\"tagid\":1674,\"name\":\"Печатание\"},{\"tagid\":1676,\"name\":\"Стратегия в реальном времени\"},{\"tagid\":1677,\"name\":\"Пошаговая\"},{\"tagid\":1678,\"name\":\"Война\"},{\"tagid\":1680,\"name\":\"Ограбления\"},{\"tagid\":1681,\"name\":\"Пираты\"},{\"tagid\":1684,\"name\":\"Фэнтези\"},{\"tagid\":1685,\"name\":\"Кооператив\"},{\"tagid\":1687,\"name\":\"Стелс\"},{\"tagid\":1688,\"name\":\"Ниндзя\"},{\"tagid\":1693,\"name\":\"Классика\"},{\"tagid\":1695,\"name\":\"Открытый мир\"},{\"tagid\":1697,\"name\":\"От третьего лица\"},{\"tagid\":1698,\"name\":\"Point & Click\"},{\"tagid\":1702,\"name\":\"Крафтинг\"},{\"tagid\":1708,\"name\":\"Тактика\"},{\"tagid\":1710,\"name\":\"Сюрреалистичная\"},{\"tagid\":1714,\"name\":\"Психоделия\"},{\"tagid\":1716,\"name\":\"Рогалик\"},{\"tagid\":1717,\"name\":\"Шестиугольная карта\"},{\"tagid\":1718,\"name\":\"MOBA\"},{\"tagid\":1719,\"name\":\"Юмор\"},{\"tagid\":1720,\"name\":\"Подземелья\"},{\"tagid\":1721,\"name\":\"Психологический хоррор\"},{\"tagid\":1723,\"name\":\"Экшен-RTS\"},{\"tagid\":1730,\"name\":\"Сокобан\"},{\"tagid\":1732,\"name\":\"Воксельная графика\"},{\"tagid\":1733,\"name\":\"Unforgiving\"},{\"tagid\":1734,\"name\":\"Быстрая\"},{\"tagid\":1738,\"name\":\"Поиск предметов\"},{\"tagid\":1741,\"name\":\"Пошаговая стратегия\"},{\"tagid\":1742,\"name\":\"Глубокий сюжет\"},{\"tagid\":1743,\"name\":\"Файтинг\"},{\"tagid\":1746,\"name\":\"Баскетбол\"},{\"tagid\":1751,\"name\":\"По комиксу\"},{\"tagid\":1752,\"name\":\"Ритм-игра\"},{\"tagid\":1753,\"name\":\"Скейтбординг\"},{\"tagid\":1754,\"name\":\"MMORPG\"},{\"tagid\":1755,\"name\":\"Космос\"},{\"tagid\":1756,\"name\":\"Отличный саундтрек\"},{\"tagid\":1759,\"name\":\"Одна жизнь\"},{\"tagid\":1770,\"name\":\"Настольная с полем\"},{\"tagid\":1773,\"name\":\"Аркада\"},{\"tagid\":1774,\"name\":\"Шутер\"},{\"tagid\":1775,\"name\":\"Игрок против игрока\"},{\"tagid\":1776,\"name\":\"Шпионаж\"},{\"tagid\":1777,\"name\":\"Стимпанк\"},{\"tagid\":3796,\"name\":\"По мотивам книги\"},{\"tagid\":3798,\"name\":\"Вид сбоку\"},{\"tagid\":3799,\"name\":\"Визуальная новелла\"},{\"tagid\":3810,\"name\":\"Песочница\"},{\"tagid\":3813,\"name\":\"Тактика в реальном времени\"},{\"tagid\":3814,\"name\":\"Шутер от третьего лица\"},{\"tagid\":3834,\"name\":\"Исследования\"},{\"tagid\":3835,\"name\":\"Постапокалипсис\"},{\"tagid\":3839,\"name\":\"От первого лица\"},{\"tagid\":3841,\"name\":\"Локальный кооператив\"},{\"tagid\":3843,\"name\":\"Сетевой кооператив\"},{\"tagid\":3854,\"name\":\"Проработанная вселенная\"},{\"tagid\":3859,\"name\":\"Для нескольких игроков\"},{\"tagid\":3871,\"name\":\"2D\"},{\"tagid\":3877,\"name\":\"Платформер на точность\"},{\"tagid\":3878,\"name\":\"Соревновательная\"},{\"tagid\":3916,\"name\":\"Олдскул\"},{\"tagid\":3920,\"name\":\"Кулинария\"},{\"tagid\":3934,\"name\":\"Иммерсивная игра\"},{\"tagid\":3942,\"name\":\"Научная фантастика\"},{\"tagid\":3952,\"name\":\"Готика\"},{\"tagid\":3954,\"name\":\"Rail Shooter\"},{\"tagid\":3955,\"name\":\"Яркий главный герой\"},{\"tagid\":3959,\"name\":\"Упрощённый рогалик\"},{\"tagid\":3964,\"name\":\"Пиксельная графика\"},{\"tagid\":3965,\"name\":\"Эпичная\"},{\"tagid\":3968,\"name\":\"Физика\"},{\"tagid\":3978,\"name\":\"Хоррор на выживание\"},{\"tagid\":3987,\"name\":\"Историческая\"},{\"tagid\":3993,\"name\":\"Бой\"},{\"tagid\":4004,\"name\":\"Ретро\"},{\"tagid\":4026,\"name\":\"Сложная\"},{\"tagid\":4036,\"name\":\"Паркур\"},{\"tagid\":4046,\"name\":\"Драконы\"},{\"tagid\":4057,\"name\":\"Магия\"},{\"tagid\":4064,\"name\":\"Триллер\"},{\"tagid\":4085,\"name\":\"Аниме\"},{\"tagid\":4094,\"name\":\"Минимализм\"},{\"tagid\":4102,\"name\":\"Боевые гонки\"},{\"tagid\":4106,\"name\":\"Приключенческий экшен\"},{\"tagid\":4115,\"name\":\"Киберпанк\"},{\"tagid\":4136,\"name\":\"Смешная\"},{\"tagid\":4137,\"name\":\"Трансгуманизм\"},{\"tagid\":4145,\"name\":\"Кинематографичная\"},{\"tagid\":4150,\"name\":\"Вторая мировая война\"},{\"tagid\":4155,\"name\":\"Разделение на классы\"},{\"tagid\":4158,\"name\":\"Beat 'em up\"},{\"tagid\":4161,\"name\":\"В реальном времени\"},{\"tagid\":4162,\"name\":\"Kids\"},{\"tagid\":4166,\"name\":\"Атмосферная\"},{\"tagid\":4168,\"name\":\"Военные действия\"},{\"tagid\":4172,\"name\":\"Средневековье\"},{\"tagid\":4175,\"name\":\"Реализм\"},{\"tagid\":4182,\"name\":\"Для одного игрока\"},{\"tagid\":4184,\"name\":\"Шахматы\"},{\"tagid\":4190,\"name\":\"Затягивающая\"},{\"tagid\":4191,\"name\":\"3D\"},{\"tagid\":4195,\"name\":\"Мультипликация\"},{\"tagid\":4202,\"name\":\"Торговля\"},{\"tagid\":4231,\"name\":\"Ролевой экшен\"},{\"tagid\":4234,\"name\":\"Короткая\"},{\"tagid\":4236,\"name\":\"Лут\"},{\"tagid\":4242,\"name\":\"Сериал\"},{\"tagid\":4252,\"name\":\"Стилизация\"},{\"tagid\":4255,\"name\":\"Shoot 'em up\"},{\"tagid\":4291,\"name\":\"Космические корабли\"},{\"tagid\":4295,\"name\":\"Будущее\"},{\"tagid\":4305,\"name\":\"Цветастая\"},{\"tagid\":4325,\"name\":\"Пошаговые сражения\"},{\"tagid\":4328,\"name\":\"Градостроение\"},{\"tagid\":4342,\"name\":\"Мрачная\"},{\"tagid\":4345,\"name\":\"Кровь\"},{\"tagid\":4364,\"name\":\"Глобальная стратегия\"},{\"tagid\":4376,\"name\":\"Assassin\"},{\"tagid\":4400,\"name\":\"Абстрактная\"},{\"tagid\":4434,\"name\":\"Японская ролевая игра\"},{\"tagid\":4474,\"name\":\"Компьютерная ролевая игра\"},{\"tagid\":4486,\"name\":\"Выбери себе приключение\"},{\"tagid\":4508,\"name\":\"Совместная кампания\"},{\"tagid\":4520,\"name\":\"Фермерство\"},{\"tagid\":4535,\"name\":\"Дворфы\"},{\"tagid\":4559,\"name\":\"QTE\"},{\"tagid\":4562,\"name\":\"Мультфильмы\"},{\"tagid\":4598,\"name\":\"Альтернативная история\"},{\"tagid\":4604,\"name\":\"Тёмное фэнтези\"},{\"tagid\":4608,\"name\":\"Сражения на мечах\"},{\"tagid\":4637,\"name\":\"Шутер с видом сверху\"},{\"tagid\":4667,\"name\":\"Насилие\"},{\"tagid\":4684,\"name\":\"Военные конфликты\"},{\"tagid\":4695,\"name\":\"Экономика\"},{\"tagid\":4711,\"name\":\"Реиграбельность\"},{\"tagid\":4726,\"name\":\"Милая\"},{\"tagid\":4736,\"name\":\"2D-файтинг\"},{\"tagid\":4747,\"name\":\"Кастомизация персонажа\"},{\"tagid\":4758,\"name\":\"Твин-стик шутер\"},{\"tagid\":4777,\"name\":\"Зрелищные сражения\"},{\"tagid\":4791,\"name\":\"Вид сверху\"},{\"tagid\":4821,\"name\":\"Мехи\"},{\"tagid\":4835,\"name\":\"Свобода движения\"},{\"tagid\":4840,\"name\":\"Локальная игра на четверых\"},{\"tagid\":4845,\"name\":\"Капитализм\"},{\"tagid\":4852,\"name\":\"Бильярд\"},{\"tagid\":4878,\"name\":\"Пародия\"},{\"tagid\":4885,\"name\":\"Пулевой ад\"},{\"tagid\":4947,\"name\":\"Романтика\"},{\"tagid\":4975,\"name\":\"2.5D\"},{\"tagid\":4994,\"name\":\"Морской бой\"},{\"tagid\":5030,\"name\":\"Антиутопия\"},{\"tagid\":5055,\"name\":\"Киберспорт\"},{\"tagid\":5125,\"name\":\"Процедурная генерация\"},{\"tagid\":5154,\"name\":\"Набор очков\"},{\"tagid\":5160,\"name\":\"Динозавры \"},{\"tagid\":5179,\"name\":\"Холодная война\"},{\"tagid\":5186,\"name\":\"Психологическая\"},{\"tagid\":5228,\"name\":\"Blood\"},{\"tagid\":5230,\"name\":\"Сиквел\"},{\"tagid\":5300,\"name\":\"Симулятор бога\"},{\"tagid\":5348,\"name\":\"Модификации\"},{\"tagid\":5350,\"name\":\"Для всей семьи\"},{\"tagid\":5363,\"name\":\"Разрушения\"},{\"tagid\":5372,\"name\":\"Заговор\"},{\"tagid\":5379,\"name\":\"2D-платформер\"},{\"tagid\":5382,\"name\":\"Первая мировая война\"},{\"tagid\":5390,\"name\":\"Игра на время\"},{\"tagid\":5395,\"name\":\"3D-платформер\"},{\"tagid\":5407,\"name\":\"Бенчмарк\"},{\"tagid\":5411,\"name\":\"Красивая\"},{\"tagid\":5432,\"name\":\"Программирование\"},{\"tagid\":5502,\"name\":\"Хакерство\"},{\"tagid\":5537,\"name\":\"Головоломка-платформер\"},{\"tagid\":5547,\"name\":\"Арена-шутер\"},{\"tagid\":5608,\"name\":\"Эмоциональная\"},{\"tagid\":5613,\"name\":\"Детектив\"},{\"tagid\":5652,\"name\":\"Коллектатон\"},{\"tagid\":5673,\"name\":\"Современность\"},{\"tagid\":5708,\"name\":\"Ремейк\"},{\"tagid\":5711,\"name\":\"Командная\"},{\"tagid\":5716,\"name\":\"Тайна\"},{\"tagid\":5727,\"name\":\"Бейсбол\"},{\"tagid\":5752,\"name\":\"Роботы\"},{\"tagid\":5765,\"name\":\"Кастомизация оружия\"},{\"tagid\":5794,\"name\":\"Наука\"},{\"tagid\":5796,\"name\":\"Замедление времени\"},{\"tagid\":5851,\"name\":\"Изометрия\"},{\"tagid\":5900,\"name\":\"Симулятор ходьбы\"},{\"tagid\":5914,\"name\":\"Теннис\"},{\"tagid\":5923,\"name\":\"Чёрный юмор\"},{\"tagid\":5941,\"name\":\"Перезапуск\"},{\"tagid\":5981,\"name\":\"Горное дело\"},{\"tagid\":6041,\"name\":\"Лошади\"},{\"tagid\":6052,\"name\":\"Нуар\"},{\"tagid\":6054,\"name\":\"Эльфы\"},{\"tagid\":6129,\"name\":\"Логика\"},{\"tagid\":6214,\"name\":\"Птицы\"},{\"tagid\":6276,\"name\":\"Менеджмент инвентаря\"},{\"tagid\":6310,\"name\":\"Дипломатия\"},{\"tagid\":6378,\"name\":\"Криминал\"},{\"tagid\":6426,\"name\":\"Решения с последствиями\"},{\"tagid\":6506,\"name\":\"3D-файтинг\"},{\"tagid\":6621,\"name\":\"Пинбол\"},{\"tagid\":6625,\"name\":\"Контроль времени\"},{\"tagid\":6650,\"name\":\"Нагота\"},{\"tagid\":6691,\"name\":\"90-е\"},{\"tagid\":6702,\"name\":\"Марс\"},{\"tagid\":6730,\"name\":\"Игрок против ИИ\"},{\"tagid\":6815,\"name\":\"Рисованная графика\"},{\"tagid\":6835,\"name\":\"Покер\"},{\"tagid\":6869,\"name\":\"Нелинейная\"},{\"tagid\":6910,\"name\":\"Флот\"},{\"tagid\":6915,\"name\":\"Боевые искусства\"},{\"tagid\":6948,\"name\":\"Рим\"},{\"tagid\":6971,\"name\":\"Несколько концовок\"},{\"tagid\":7038,\"name\":\"Гольф\"},{\"tagid\":7107,\"name\":\"Можно приостановить\"},{\"tagid\":7108,\"name\":\"Вечеринка\"},{\"tagid\":7178,\"name\":\"Командная игра\"},{\"tagid\":7208,\"name\":\"Протагонистка\"},{\"tagid\":7250,\"name\":\"Линейная\"},{\"tagid\":7309,\"name\":\"Лыжи\"},{\"tagid\":7328,\"name\":\"Боулинг\"},{\"tagid\":7332,\"name\":\"Строительство базы\"},{\"tagid\":7368,\"name\":\"Локальный мультиплеер\"},{\"tagid\":7423,\"name\":\"Снайперство\"},{\"tagid\":7432,\"name\":\"Лавкрафт\"},{\"tagid\":7481,\"name\":\"Контроллер\"},{\"tagid\":7556,\"name\":\"Игральные кости\"},{\"tagid\":7569,\"name\":\"Перемещение по сетке\"},{\"tagid\":7622,\"name\":\"Бездорожье\"},{\"tagid\":7702,\"name\":\"Повествование\"},{\"tagid\":7743,\"name\":\"80-е\"},{\"tagid\":7918,\"name\":\"Dwarf\"},{\"tagid\":7926,\"name\":\"Искусственный интеллект\"},{\"tagid\":7948,\"name\":\"Саундтрек\"},{\"tagid\":8013,\"name\":\"Программное обеспечение\"},{\"tagid\":8075,\"name\":\"TrackIR\"},{\"tagid\":8093,\"name\":\"Мини-игры\"},{\"tagid\":8122,\"name\":\"Редактор уровней\"},{\"tagid\":8253,\"name\":\"Генерация на основе музыки\"},{\"tagid\":8369,\"name\":\"Расследования\"},{\"tagid\":8666,\"name\":\"Раннер\"},{\"tagid\":8945,\"name\":\"Управление ресурсами\"},{\"tagid\":9130,\"name\":\"Хентай\"},{\"tagid\":9157,\"name\":\"Подводный мир\"},{\"tagid\":9204,\"name\":\"Иммерсивный симулятор\"},{\"tagid\":9271,\"name\":\"Коллекционная карточная игра\"},{\"tagid\":9541,\"name\":\"Демоны\"},{\"tagid\":9551,\"name\":\"Симулятор свиданий\"},{\"tagid\":9564,\"name\":\"Охота\"},{\"tagid\":9592,\"name\":\"Динамическое повествование\"},{\"tagid\":9626,\"name\":\"Животные\"},{\"tagid\":9803,\"name\":\"Снег\"},{\"tagid\":10235,\"name\":\"Симулятор жизни\"},{\"tagid\":10383,\"name\":\"Транспорт\"},{\"tagid\":10397,\"name\":\"Мемы\"},{\"tagid\":10437,\"name\":\"Викторина\"},{\"tagid\":10617,\"name\":\"Самураи\"},{\"tagid\":10679,\"name\":\"Путешествия во времени\"},{\"tagid\":10695,\"name\":\"Партийная ролевая игра\"},{\"tagid\":10808,\"name\":\"Сверхъестественное\"},{\"tagid\":10816,\"name\":\"Разделение экрана\"},{\"tagid\":11014,\"name\":\"Интерактивная литература\"},{\"tagid\":11095,\"name\":\"Boss Rush\"},{\"tagid\":11104,\"name\":\"Гонки на выживание\"},{\"tagid\":11123,\"name\":\"Управление мышью\"},{\"tagid\":11333,\"name\":\"Злодей-протагонист\"},{\"tagid\":11634,\"name\":\"Викинги\"},{\"tagid\":12057,\"name\":\"Обучение\"},{\"tagid\":12095,\"name\":\"Сексуальный контент\"},{\"tagid\":12190,\"name\":\"Бокс\"},{\"tagid\":12472,\"name\":\"Менеджмент\"},{\"tagid\":12686,\"name\":\"Вампиры\"},{\"tagid\":13070,\"name\":\"Пасьянс\"},{\"tagid\":13276,\"name\":\"Танки\"},{\"tagid\":13382,\"name\":\"Стрельба из лука\"},{\"tagid\":13577,\"name\":\"Мореплавание\"},{\"tagid\":13782,\"name\":\"Экспериментальная\"},{\"tagid\":13906,\"name\":\"Разработка игр\"},{\"tagid\":14139,\"name\":\"Пошаговая тактика\"},{\"tagid\":14720,\"name\":\"Ностальгия\"},{\"tagid\":14906,\"name\":\"Нарочито неудобное управление\"},{\"tagid\":15045,\"name\":\"Полёты\"},{\"tagid\":15172,\"name\":\"Conversation\"},{\"tagid\":15277,\"name\":\"Философская\"},{\"tagid\":15564,\"name\":\"Рыбалка\"},{\"tagid\":15868,\"name\":\"Мотокросс\"},{\"tagid\":15954,\"name\":\"Молчаливый главный герой\"},{\"tagid\":16094,\"name\":\"Мифология\"},{\"tagid\":16250,\"name\":\"Азартная\"},{\"tagid\":16598,\"name\":\"Космический симулятор\"},{\"tagid\":16689,\"name\":\"Тайм-менеджмент\"},{\"tagid\":17015,\"name\":\"Оборотни\"},{\"tagid\":17305,\"name\":\"Ролевая стратегия\"},{\"tagid\":17337,\"name\":\"Лемминги\"},{\"tagid\":17389,\"name\":\"Настольная игра\"},{\"tagid\":17770,\"name\":\"Асинхронный мультиплеер\"},{\"tagid\":17894,\"name\":\"Котики\"},{\"tagid\":17927,\"name\":\"Pool\"},{\"tagid\":18594,\"name\":\"FMV-игра\"},{\"tagid\":19568,\"name\":\"Велосипеды\"},{\"tagid\":19780,\"name\":\"Подводная лодка\"},{\"tagid\":19995,\"name\":\"Чёрная комедия\"},{\"tagid\":20486,\"name\":\"Волки\"},{\"tagid\":21006,\"name\":\"Подземная\"},{\"tagid\":21635,\"name\":\"Изучение языков\"},{\"tagid\":21725,\"name\":\"Тактическая ролевая игра\"},{\"tagid\":21978,\"name\":\"VR\"},{\"tagid\":22602,\"name\":\"Сельское хозяйство\"},{\"tagid\":22955,\"name\":\"Мини-гольф\"},{\"tagid\":23491,\"name\":\"Уборка\"},{\"tagid\":24003,\"name\":\"Словесная\"},{\"tagid\":25085,\"name\":\"Сенсорное управление\"},{\"tagid\":25959,\"name\":\"Уся\"},{\"tagid\":26921,\"name\":\"Политический симулятор\"},{\"tagid\":27758,\"name\":\"Управление голосом\"},{\"tagid\":28444,\"name\":\"Сноубординг\"},{\"tagid\":29482,\"name\":\"Похожа на Dark Souls\"},{\"tagid\":30358,\"name\":\"Природа\"},{\"tagid\":30927,\"name\":\"Fox\"},{\"tagid\":31275,\"name\":\"Текстовая\"},{\"tagid\":31579,\"name\":\"Отомэ\"},{\"tagid\":32322,\"name\":\"Построение колоды\"},{\"tagid\":33572,\"name\":\"Маджонг\"},{\"tagid\":35079,\"name\":\"Симулятор работы\"},{\"tagid\":37376,\"name\":\"Падающие блоки\"},{\"tagid\":37799,\"name\":\"Combat Flight Simulator\"},{\"tagid\":40500,\"name\":\"Sexual Themes\"},{\"tagid\":42089,\"name\":\"Скример\"},{\"tagid\":42152,\"name\":\"Беседы\"},{\"tagid\":42329,\"name\":\"Coding\"},{\"tagid\":42804,\"name\":\"Экшен-рогалик\"},{\"tagid\":44868,\"name\":\"ЛГБТК+\"},{\"tagid\":46348,\"name\":\"Зоопарк\"},{\"tagid\":47827,\"name\":\"Реслинг\"},{\"tagid\":49213,\"name\":\"Регби\"},{\"tagid\":52406,\"name\":\"Культ\"},{\"tagid\":56690,\"name\":\"Рельсовый шутер\"},{\"tagid\":61357,\"name\":\"Электронная музыка\"},{\"tagid\":71389,\"name\":\"Правописание\"},{\"tagid\":87918,\"name\":\"Симулятор фермы\"},{\"tagid\":91114,\"name\":\"Работа в магазине\"},{\"tagid\":92092,\"name\":\"Jet\"},{\"tagid\":96359,\"name\":\"Катание\"},{\"tagid\":97070,\"name\":\"Ассассины\"},{\"tagid\":97376,\"name\":\"Уютная\"},{\"tagid\":102530,\"name\":\"Elf\"},{\"tagid\":117648,\"name\":\"8-битная музыка\"},{\"tagid\":123332,\"name\":\"Байки\"},{\"tagid\":129761,\"name\":\"Квадроциклы\"},{\"tagid\":150626,\"name\":\"Об играх\"},{\"tagid\":158638,\"name\":\"Крикет\"},{\"tagid\":176981,\"name\":\"Королевская битва\"},{\"tagid\":180368,\"name\":\"Верования\"},{\"tagid\":189941,\"name\":\"Инструментальная музыка\"},{\"tagid\":198631,\"name\":\"Загадочные подземелья\"},{\"tagid\":198913,\"name\":\"Мотоциклы\"},{\"tagid\":220585,\"name\":\"Симулятор колонии\"},{\"tagid\":252854,\"name\":\"Веломотокросс\"},{\"tagid\":255534,\"name\":\"Автоматизация\"},{\"tagid\":323922,\"name\":\"Мусоу\"},{\"tagid\":324176,\"name\":\"Хоккей\"},{\"tagid\":337964,\"name\":\"Рок-музыка\"},{\"tagid\":353880,\"name\":\"Лутер-шутер\"},{\"tagid\":363767,\"name\":\"Снукер\"},{\"tagid\":379975,\"name\":\"Clicker\"},{\"tagid\":454187,\"name\":\"Традиционный рогалик\"},{\"tagid\":507423,\"name\":\"Лисицы\"},{\"tagid\":552282,\"name\":\"Душевная\"},{\"tagid\":560542,\"name\":\"Инкрементальная\"},{\"tagid\":603297,\"name\":\"Устройства\"},{\"tagid\":615955,\"name\":\"Idle-игра\"},{\"tagid\":620519,\"name\":\"Геройский шутер\"},{\"tagid\":723991,\"name\":\"Пулевой рай\"},{\"tagid\":745697,\"name\":\"Социальная дедукция\"},{\"tagid\":760247,\"name\":\"Сянься\"},{\"tagid\":769306,\"name\":\"Квест-комната\"},{\"tagid\":776177,\"name\":\"Панорамное видео\"},{\"tagid\":791774,\"name\":\"Карточный баттлер\"},{\"tagid\":847164,\"name\":\"Волейбол\"},{\"tagid\":856791,\"name\":\"Асимметричная VR\"},{\"tagid\":889937,\"name\":\"Декорирование\"},{\"tagid\":916648,\"name\":\"Коллекционирование существ\"},{\"tagid\":1023537,\"name\":\"Бумерский шутер\"},{\"tagid\":1084988,\"name\":\"Автобаттлер\"},{\"tagid\":1091588,\"name\":\"Карточный рогалик\"},{\"tagid\":1100686,\"name\":\"Симулятор эпидемии\"},{\"tagid\":1100687,\"name\":\"Автосимулятор\"},{\"tagid\":1100688,\"name\":\"Медицинский симулятор\"},{\"tagid\":1100689,\"name\":\"Симулятор выживания и крафтинга в открытом мире\"},{\"tagid\":1199779,\"name\":\"Шутер с эвакуацией\"},{\"tagid\":1220528,\"name\":\"Симулятор хобби\"},{\"tagid\":1239876,\"name\":\"Организация\"},{\"tagid\":1254546,\"name\":\"Футбол\"},{\"tagid\":1254552,\"name\":\"Американский футбол\"},{\"tagid\":1320952,\"name\":\"Настольный компаньон\"},{\"tagid\":1352486,\"name\":\"Капибары\"}]}"
 		"PrivateApps_942638215"		"[]"
 		"CTextFilterStore_strBannedPattern_942638215"		"KDEp"
 		"CTextFilterStore_strCleanPattern_942638215"		"KDEpXihcYihzdGFyZG9jayBjb21tdW5pdHkgYXNzaXN0YW50fGhvbW8gc2FwaWVucyBzYXBpZW5zfHRoZSBzZXh5IGNoaW5hbWFufGtvbXBldGVuenRlYW18y5BwbV9wdXNzecuQfOa0vumAgeWRmHxwaW5lZ3JvdmV8cGFwYXRyb29ufG5cLmVcLmlnXC5lXC58am9obiBkaWNrfGZ1a3VzaGltYXxwdXNzeWNhdHxwbV9wdXNzeXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoaWFufGNvY2tcLmxpfHBodWtldHxuaWdnbGV8ZnV4aXVzfGZ1Y3Vyb3xuaWVnb3xuaWVib3xuaWViYXxuZWlnZXxuZWdneXxuZWJieXxmdXhpc3xjd2ZhZ3wxNDg4OHxwdWJnfG5pYnl8bmVidXxuZWJvfGZ1a3V8ZnVraXxmYWt0fGcyNHxmY3J8XHcqZnZjaHZvXHcqc3RhcmRvY2sgY29tbXVuaXR5IGFzc2lzdGFudHxob21vIHNhcGllbnMgc2FwaWVuc3x0aGUgc2V4eSBjaGluYW1hbnxmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW18y5BwbV9wdXNzecuQfOa0vumAgeWRmHxwaW5lZ3JvdmV8cGFwYXRyb29ufG5cLmVcLmlnXC5lXC58am9obiBkaWNrfGZ1a3VzaGltYXxwdXNzeWNhdHxwbV9wdXNzeXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8cGh1a2V0fG5pZ2dsZXxmdXhpdXN8ZnVjdXJvfG5pZWdvfG5pZWJvfG5pZWJhfG5laWdlfG5lZ2d5fG5lYmJ5fGZ1eGlzfGN3ZmFnfDE0ODg4fHB1Ymd8bmlieXxuZWJ1fG5lYm98ZnVrdXxmdWtpfGZha3R8ZzI0fGZjcnxcdypmdmNodm9cdyopXGIpJA=="
@@ -719,18 +744,31 @@
 		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[18]}"
 		"keyboard_initial_location_desktop"		"\"center-bottom\""
 		"keyboard_initial_location_overlay"		"\"center-bottom\""
-		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":1281930,\"rgAccountIDs\":[185794058,398985712,858056675],\"totalFriends\":3},{\"appid\":570,\"rgAccountIDs\":[425008874,283679852,185794058,417843227,442021603,189210967,481887368,164482154],\"totalFriends\":15},{\"appid\":1808500,\"rgAccountIDs\":[185794058],\"totalFriends\":1},{\"appid\":578080,\"rgAccountIDs\":[1010798636,417843227],\"totalFriends\":2},{\"appid\":1172470,\"rgAccountIDs\":[185794058],\"totalFriends\":1},{\"appid\":306130,\"rgAccountIDs\":[1026853324],\"totalFriends\":1},{\"appid\":331470,\"rgAccountIDs\":[185794058],\"totalFriends\":1},{\"appid\":34330,\"rgAccountIDs\":[185794058],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[283679852,442021603],\"totalFriends\":2},{\"appid\":2669320,\"rgAccountIDs\":[1153332862],\"totalFriends\":1},{\"appid\":250900,\"rgAccountIDs\":[972808259],\"totalFriends\":1},{\"appid\":322170,\"rgAccountIDs\":[972808259],\"totalFriends\":1},{\"appid\":374320,\"rgAccountIDs\":[189210967],\"totalFriends\":1},{\"appid\":105600,\"rgAccountIDs\":[185794058,398985712,858056675],\"totalFriends\":3},{\"appid\":3405690,\"rgAccountIDs\":[1153332862],\"totalFriends\":1},{\"appid\":1222670,\"rgAccountIDs\":[1153332862],\"totalFriends\":1},{\"appid\":730,\"rgAccountIDs\":[972808259,1010798636,442021603,1153332862,417843227,425008874],\"totalFriends\":6}],\"lastFetchTimeMS\":1785263765431}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":1808500,\"rgAccountIDs\":[185794058],\"totalFriends\":1},{\"appid\":306130,\"rgAccountIDs\":[1026853324],\"totalFriends\":1},{\"appid\":1621690,\"rgAccountIDs\":[858056675],\"totalFriends\":1},{\"appid\":4108000,\"rgAccountIDs\":[1010798636,417843227,1592252738],\"totalFriends\":3},{\"appid\":578080,\"rgAccountIDs\":[1010798636,417843227,972808259],\"totalFriends\":3},{\"appid\":1172470,\"rgAccountIDs\":[185794058],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[915662939,283679852,995653023],\"totalFriends\":3},{\"appid\":391540,\"rgAccountIDs\":[972808259],\"totalFriends\":1},{\"appid\":322170,\"rgAccountIDs\":[417843227],\"totalFriends\":1},{\"appid\":879510,\"rgAccountIDs\":[425008874],\"totalFriends\":1},{\"appid\":115320,\"rgAccountIDs\":[972808259],\"totalFriends\":1},{\"appid\":553850,\"rgAccountIDs\":[915662939,1026853324,185794058],\"totalFriends\":3},{\"appid\":252490,\"rgAccountIDs\":[283679852],\"totalFriends\":1},{\"appid\":3405690,\"rgAccountIDs\":[1153332862],\"totalFriends\":1},{\"appid\":1952920,\"rgAccountIDs\":[185794058],\"totalFriends\":1},{\"appid\":493490,\"rgAccountIDs\":[1010798636],\"totalFriends\":1},{\"appid\":730,\"rgAccountIDs\":[972808259,283679852,1010798636,417843227,1153332862],\"totalFriends\":5},{\"appid\":244210,\"rgAccountIDs\":[1010798636],\"totalFriends\":1},{\"appid\":105600,\"rgAccountIDs\":[185794058,398985712,858056675],\"totalFriends\":3},{\"appid\":1281930,\"rgAccountIDs\":[185794058,398985712,858056675],\"totalFriends\":3},{\"appid\":570,\"rgAccountIDs\":[425008874,1592252738,189210967,995653023,417843227,164482154,298772190,481887368],\"totalFriends\":13}],\"lastFetchTimeMS\":1786448117410}"
 		"ChatStorePopupState_942638215"		"{\"window_restore_details\":\"1&x=590&y=191&w=740&h=650\",\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
-		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1785326638,\"appids\":[291550,552500,2141730]},\"rgIgnoredApps\":[]}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1786510165,\"appids\":[291550,552500,2141730]},\"rgIgnoredApps\":[]}"
 		"GetEquippedProfileItemsForUser76561198902903943"		"{\"profile_background\":{\"communityitemid\":\"30078580878\",\"image_large\":\"items/562260/6b71ae5b7c8a314d918e1610504eaf085571c2ce.jpg\",\"name\":\"Black\",\"item_title\":\"Black\",\"item_description\":\"\",\"appid\":562260,\"item_type\":28,\"item_class\":3,\"equipped_flags\":1,\"profile_colors\":[]},\"mini_profile_background\":{\"profile_colors\":[]},\"avatar_frame\":{\"communityitemid\":\"31926993393\",\"image_small\":\"items/1299690/3bee53ed573a561275f253839efe760dd0236054.png\",\"image_large\":\"items/1299690/9a66375101155e55e2ee564bc0e57d4c743af7c8.png\",\"name\":\"Sketched Memory\",\"item_title\":\"Sketched Memory\",\"item_description\":\"Sketched memory, like a flashback, of the dark past in the game Gori: Cuddly Carnage.\",\"appid\":1299690,\"item_type\":29,\"item_class\":14,\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"communityitemid\":\"30188843975\",\"image_small\":\"items/534380/deb70e9ed015c524581f96beb9a477146936ceda.png\",\"image_large\":\"items/534380/4a85f77cbdb6b67057858d93a61e157ffc374b8c.jpg\",\"name\":\"Dying Light 2 Stay Human Profile\",\"item_title\":\"Dying Light 2 Stay Human Profile\",\"item_description\":\"\",\"appid\":534380,\"item_type\":54,\"item_class\":8,\"profile_colors\":[{\"style_name\":\"backgroundgradient_left\",\"color\":\"rgba(255, 255, 255, 0)\"},{\"style_name\":\"backgroundgradient_right\",\"color\":\"rgba(255, 255, 255, 0)\"},{\"style_name\":\"backgroundgradient_center\",\"color\":\"rgba(255, 255, 255, 0)\"},{\"style_name\":\"showcasegradient_left\",\"color\":\"rgba(255, 255, 255, 0)\"},{\"style_name\":\"showcasegradient_right\",\"color\":\"rgba(255, 255, 255, 0)\"}]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
 		"FriendStoreLocalPrefs_942638215"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
-		"GameInvites_942638215"		"{\"dismisstimes\":[[298772190,1785326719]]}"
+		"GameInvites_942638215"		"{\"dismisstimes\":[[0,[0,[298772190,1785326719]]],[1,[942638215,1784916781]],[417843227,1786275023]]}"
 		"OverlaySavedDataV2_570_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1],[\"Browser\",1]]}"
-		"OverlaySavedDataV2_570_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":2,\"rgRequests\":[{\"requestid\":2,\"strURL\":\"https://www.google.com/search?q=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA&sca_esv=f14a8190ae1b4fb1&source=hp&ei=tD5qaovQJPqSwPAP2Z2aqQ8&iflsig=ABILxe8AAAAAampMxC-b_eHikFZYCCG9sWKFptmlZwqs&oq=%D0%BF%D0%B5%D1%80%D0%B5&gs_lp=Egdnd3Mtd2l6IgjQv9C10YDQtSoCCAAyCxAAGIAEGLEDGIMBMggQABiABBixAzIOEAAYgAQYigUYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzIFEAAYgAQyCBAAGIAEGLEDMgsQABiABBixAxiDATIFEAAYgAQyCxAAGIAEGLEDGIMBSMwIUKcCWPMEcAF4AJABAJgBf6ABjwOqAQMzLjG4AQHIAQD4AQGYAgWgArgDqAIKwgIKEAAYAxiPARjqAsICChAuGAMYjwEY6gLCAhEQABiABBiKBRiNBhixAxiDAcICDhAuGIAEGIoFGLEDGIMBwgIREC4YgAQYsQMYgwEYxwEY0QOYAxLxBQGN0BMmXzaqkgcDMy4yoAfaHLIHAzIuMrgHpQPCBwUyLTQuMcgHHoAIAQ&sclient=gws-wiz&sei=tz5qarWYEs-vwPAPvJG5yQY\",\"strLastURL\":\"https://www.google.com/search?q=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA&sca_esv=f14a8190ae1b4fb1&source=hp&ei=tD5qaovQJPqSwPAP2Z2aqQ8&iflsig=ABILxe8AAAAAampMxC-b_eHikFZYCCG9sWKFptmlZwqs&oq=%D0%BF%D0%B5%D1%80%D0%B5&gs_lp=Egdnd3Mtd2l6IgjQv9C10YDQtSoCCAAyCxAAGIAEGLEDGIMBMggQABiABBixAzIOEAAYgAQYigUYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzIFEAAYgAQyCBAAGIAEGLEDMgsQABiABBixAxiDATIFEAAYgAQyCxAAGIAEGLEDGIMBSMwIUKcCWPMEcAF4AJABAJgBf6ABjwOqAQMzLjG4AQHIAQD4AQGYAgWgArgDqAIKwgIKEAAYAxiPARjqAsICChAuGAMYjwEY6gLCAhEQABiABBiKBRiNBhixAxiDAcICDhAuGIAEGIoFGLEDGIMBwgIREC4YgAQYsQMYgwEYxwEY0QOYAxLxBQGN0BMmXzaqkgcDMy4yoAfaHLIHAzIuMrgHpQPCBwUyLTQuMcgHHoAIAQ&sclient=gws-wiz&sei=tz5qarWYEs-vwPAPvJG5yQY\",\"strTitle\":\"переводчик - Поиск в Google\"}]}}"
+		"OverlaySavedDataV2_570_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":4,\"rgRequests\":[{\"requestid\":4,\"strURL\":\"https://steamcommunity.com/profiles/76561198902903943/\",\"strLastURL\":\"https://steamcommunity.com/profiles/76561198902903943/\",\"strTitle\":\"Сообщество Steam :: Teto. The Pare.\"}]}}"
+		"deck_compatibility_feedback_ask"		"[]"
+		"deck_compatibility_feedback_eligible_apps"		"{}"
+		"apps"
+		{
+			"4108000"
+			{
+				"DefaultLaunchOption"
+				{
+					"50c6637d"		"0"
+				}
+			}
+		}
+		"OverlaySavedDataV2_4108000_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1],[\"Achievements\",0]]}"
 	}
 	"CloudKey"		"010000006dd3fac8d45888ea50464174a1f7bb964906965f1a190169206c6c4fdb4a3476790bb4bf"
 	"CloudKeyCRC"		"1803481635"
-	"FavoriteServersLastUpdateTime"		"1785268046"
+	"FavoriteServersLastUpdateTime"		"1786434143"
 	"depots"
 	{
 		"228988"
@@ -820,7 +858,7 @@
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785318890"
+					"Expires"		"1786049336"
 				}
 				"alibaba.cdn.steampipe.steamcontent.com"
 				{
@@ -835,7 +873,7 @@
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1785318890"
+					"Expires"		"1785493397"
 				}
 			}
 		}
@@ -967,17 +1005,22 @@
 				"fastly.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785281626"
+					"Expires"		"1785836251"
 				}
 				"alibaba.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785281626"
+					"Expires"		"1786444954"
 				}
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1785281631"
+					"Expires"		"1785836251"
+				}
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786444948"
 				}
 			}
 		}
@@ -1009,7 +1052,7 @@
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785308793"
+					"Expires"		"1785493457"
 				}
 				"alibaba.cdn.steampipe.steamcontent.com"
 				{
@@ -1020,6 +1063,11 @@
 				{
 					"token"		""
 					"Expires"		"1785308793"
+				}
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1785493413"
 				}
 			}
 		}
@@ -1046,12 +1094,22 @@
 				"fastly.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785308891"
+					"Expires"		"1785836253"
 				}
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785308891"
+					"Expires"		"1786444958"
+				}
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1785836253"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786444958"
 				}
 			}
 		}
@@ -1062,12 +1120,22 @@
 				"alibaba.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785311299"
+					"Expires"		"1786444960"
 				}
 				"fastly.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785311299"
+					"Expires"		"1785836258"
+				}
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1785836258"
+				}
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786444949"
 				}
 			}
 		}
@@ -1109,7 +1177,17 @@
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1785316264"
+					"Expires"		"1786278171"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786278171"
+				}
+				"fastly.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786278171"
 				}
 			}
 		}
@@ -1259,12 +1337,17 @@
 				"alibaba.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785317453"
+					"Expires"		"1785618375"
 				}
 				"fastly.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
 					"Expires"		"1785317453"
+				}
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1785618377"
 				}
 			}
 		}
@@ -1280,12 +1363,12 @@
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1785321728"
+					"Expires"		"1785493402"
 				}
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785321728"
+					"Expires"		"1785493402"
 				}
 				"fastly.cdn.steampipe.steamcontent.com"
 				{
@@ -1358,17 +1441,109 @@
 				"alibaba.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785330701"
+					"Expires"		"1785916453"
 				}
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1785330680"
+					"Expires"		"1786278015"
 				}
 				"steampipe.akamaized.net"
 				{
 					"token"		""
 					"Expires"		"1785330680"
+				}
+			}
+		}
+		"732"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1785836225"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786444949"
+				}
+			}
+		}
+		"2347770"
+		{
+			"CDN"
+			{
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786278048"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786444951"
+				}
+			}
+		}
+		"4108002"
+		{
+			"CDN"
+			{
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786285687"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786285688"
+				}
+			}
+		}
+		"4108000"
+		{
+			"CDN"
+			{
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786285693"
+				}
+			}
+		}
+		"736"
+		{
+			"CDN"
+			{
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786444950"
+				}
+			}
+		}
+		"737"
+		{
+			"CDN"
+			{
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786444950"
+				}
+			}
+		}
+		"738"
+		{
+			"CDN"
+			{
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1786444950"
 				}
 			}
 		}
@@ -1384,10 +1559,12 @@
 		"730"		"00696e7465726e616c00016c616e6775616765007275737369616e000808"
 		"251570"		"00696e7465726e616c00016c616e6775616765007275737369616e000808"
 		"570"		"0055736572436f6e66696700016c616e6775616765007275737369616e000808"
+		"4108000"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
 	}
-	"RecentLocalPlayedGameIDs"		"3a020000000000000f1b6a6a00000000b2d6030000000000e911696a2c020000da02000000000000e311696a2c020000acff030000000000de11696a00040000a42a220000000000d711696a6a736f6e7ad2350000000000d111696a34520000809c010000000000c911696afe7f00002aa00d0000000000c611696a000000004ada030000000000c111696a004ada03"
+	"RecentLocalPlayedGameIDs"		"3a02000000000000453b7b6a00000000e0ae3e0000000000ab72786a00800000acff030000000000f920726a00040000b2d6030000000000e911696a2c020000da02000000000000e311696a2c020000a42a220000000000d711696a6a736f6e7ad2350000000000d111696a34520000809c010000000000c911696afe7f00002aa00d0000000000c611696a000000004ada030000000000c111696a004ada03"
 	"nettickets"
 	{
-		"570"		"010000004a40d518c8b953dc4745820477640fc18c9a8626ab98258cd6f0c5155718d61007f75c132b0edea5c3675821dde6bb903f5ab78893596fe964d2e5e86e7cfb10567867a9f20112d13637b842db3a4759fabdb32abade16344112aa05eb777dbe02494a23bfc32ceb57f82a1857580c6ddb8cb90869a1aa1bc1eeb1326cdfc422b70f48439539dca65a445853a162a60c71b3fc68bf9fc08310f56740aecd6854692004574f3ca52c6933abf32e71373cf78c08d796fd156635cf38c36c898929762ff517ad23dd40d720e6b1107ffb82818ad3dc4c93408d77e03414b26074f5b7461acfe90259f70bfe91961dc5e667b3834e2fbf997c9bce0b496c52e8a1640a1905586394a4f1598709f38acb06d717b00922e3b98a23b8e5b3d89fe015ab4a051b6dff37137bd6b81351184fa1604001cb47f1772ec6c21a04aa1b27f8c18995986b0638b765b0590aca45acb9d94c807c3bc1714d8657dcd887a20d78c5ee347c6baf2fd3c75e1697f7ae079a9ff128f7fc4c01cda5d086e71499e8a2607fa07395a2b0ce85108f4de3dd4b4c9516a2bebeea03fa9410cefa02544f1075f07132d4ae5e15b5193ea0383626a7bfa4a8e36701a34d4237965f773378a792a911fb97093bf8a5d370d4158020841bea22cac96a715c504a99cbfe9e7cf72aad64779d4bf5bc11d8542b4de9ea3f4779caf5da256f2101730dbe72ccced8108383e70783efd1e3b29dfc44167e158cce93b6c7ab2f18d91d0db40bc655b3efdb3fbd4a2f47393bf46f1ff0d95abbc38e8f8e553b828793924e804944d93d789c9456af2dfdbbfe9ea090c25fad6be94d0bf473c2b7dab446481fa8dcf781ce958c5e02e73a5cc7409b753d8fda873d3363a3233bbcd193129f5055ad20eae1c679da28f23d11838262c82d7eacbc8532ee5a56a577cc2130d0659a91fddfac5a5412572695578ddc5b4e2b10c5a49cb4cb81ed6ad3a9dcdda01d216aa813a6f8d6540edd29fe79e80bf39d77fa07bbeea76fbb013f92dc6fee9cb7b27e331cd99797a96ea5d15d2ada8b2182814654e0c72186333f2918d3e4a46cb1a2b5b2cb37e6044f31248dbfffbbd22fdb04f495591e1ec76522ca762710bddaf3f8b5820d225af7a18fc0d170272202df2f869fa520736bcdadd230d988e974652edad21922bc67182aaa4ec5342080638a51d81ae2b6696307975a2e2dfb9350df100181435a8e2d6e883eeab9fd915434839ece788e305ae5fd32b0770317f256fb2604f5d87fa841a1b883e0669e7c68e06b78e3e129dfb5fa210f64fd3e97321c5961b0c95abe046ed3c8a9b25567ab449edf656f622f23e598d52333cc5ac9846845158536293ee4812a89c9ae328e8e3c43c916999f6b94a4f86ea8be6e9ac5253dc27b37d874b987691d3fee79337c138bef88f4a6c6102e08dcbc9ded300104252700c5a366161d18d7ba419817b1af9e44cf39cd4f923639b4d221f8bededda900694cd928"
+		"570"		"010000004a40a3e8100830983255be713e47f5d6a6f3fe07d32331efcd4ff329a5861784373d7b96258e03a72497b1a7375dc9b86c89175d54d1dad90cf3f27d950ee5a89dca67a9f20112d13637b8342be2f63abec8a316cf9735ce5638c37dca0fc6aa6152f5158331b22ac3c8e01857580c6ddb8cb90869ba6309c1eeaa7d7ddfc422b70f48439539dca65a445853a162a60c71b3fc68bf9fc08310f56740aecd6854692004574f3ca52c6933abf32e71373cf78c0822de0d266468bcc4caf6397114590d857dcd36a21c9bde3aff380a76f9e5b3a0ec3a99ca8fae596b169456bb286ccfa457710e7916536fbd43af7bea751647412fbf997c9bce0b496c52e8a1640a19055f5585a4f18426628a8acb06d717b00922e3b98a23b8e5b3d83d4f57ac4a051b6dff37137bd6b81351184fa1604001cb47f1772ec6c21a04aa1b27f8c18995986b0638b7644b884a0acf7a407360b7b8b0850fabe82b7aef19db1ea79b010e5fbeedc28ae64a9f4263ef10b7053c8b39b0c037bbbf74dcd307084194458a8a8a5646f2fa291e5a98e3dd4b4c9516a2bebeea03fa9410cefa02544f1075f07132d4ae5e15b5193ea0383626a7bfa4a8e36608ad4d43349354713f78a192ab11fb30ce8f2ddd3815d2a790a980b4e695e282275c7ee369e18bf693a1ab47ce19b5e27fb06e5e7c561a3792beab9062f8b74f3588cb18d877ec445ed7fac0fec1e40783efd1e3b29dfc44167e158cce93b601653e18d9c0acdf72c655b3efdb3fbd4a2f47393bf46f1ff02854fcc48e8f8e553b828793924e804944d93d789c9456af2dfdbbfe9ea090c25fad6be94d0bf473c2b7daee9c84adf6419d84dd6558bdb16b68d53ef1edbcceb996732c4320bc84e46fcc6b12e95af52642eb878a2eaf75a0a02d9dfc837a72d5786352b6e5b588b167f29ea2eb469a91fddfac5a5412572695578ddc5b4e2b10c5a49cb4cb81ed6ad3a9dcdda01d216aa813a6f8d6540fd427fe79e00ffe907afe0abceea76f0e440e116f19ff486f9f87c110a2e352188b7839ad8cca5b5660abd88d0f86f1441e1297ff3d2a6aae2baaf1d04d375de4710104c4ffdac21bae6ccb3c70f306e193d0ae"
+		"4108000"		"010000004a40c5ae99d094569ff3f0cf4a23bd77d14e8dd8bef015910ff1dcfe44dcdd8ef339b9354570256cb4e54ccebef6165e3821254174a764bc862392ebd32ffd65792167b7f20110d13637b8526d6b2e9e7065055871e35186f74f7e0e1562158e1f904b3a54d0e8e0c90ce41857580c6ddb8cb90869a2260ac1eeb2be7bdfc4786eaf43989e3f590ee66a6042a010be1d1ca5e960b79693d01cf76744a9c56154612b0d554535a226741bbb42e2149270113dfeed099f971aa453652e9dbdf681417777e089d38b9dc180e42f43188b2c3df023d925568f0e6637b03bc906dd62516c29cbe74d3b2c926cff3c9701a9770a7bdb490ea299383e"
 	}
 }

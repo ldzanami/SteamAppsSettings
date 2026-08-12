@@ -718,6 +718,7 @@
 		}
 		"InspectHeroInWorld"
 		{
+			"Key"		"0"
 			"Mode"		"-1"
 		}
 		"ControlGroup3"
@@ -1621,6 +1622,7 @@
 			{
 				"Key"		"Q"
 				"Mode"		"1"
+				"Channel"		"1"
 			}
 			"AbilityPrimary2"
 			{
@@ -2721,6 +2723,445 @@
 			{
 				"Key"		"E"
 				"Mode"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Mode"		"1"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+		}
+		"npc_dota_templar_assassin_psionic_trap"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"R"
+				"Mode"		"1"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"1"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+			}
+			"AbilityUltimate"
+			{
+				"Mode"		"1"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_templar_assassin"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Mode"		"1"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"1"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+				"Channel"		"2"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Mode"		"1"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+		}
+		"npc_dota_hero_puck"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Mode"		"1"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"1"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+				"Channel"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Mode"		"1"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+		}
+		"npc_dota_hero_monkey_king"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Mode"		"1"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"1"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+				"Channel"		"1"
 			}
 			"AbilitySecondary1"
 			{

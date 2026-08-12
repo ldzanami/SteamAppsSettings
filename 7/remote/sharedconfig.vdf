@@ -8,28 +8,10 @@
 			{
 				"SurveyDate"		"2018-03-04"
 				"SurveyDateVersion"		"4249651112081202752"
+				"CloudEnabled"		"0"
 				"StartMenuShortcutCheck"		"1"
 				"DesktopShortcutCheck"		"1"
-				"apps"
-				{
-					"570"
-					{
-						"cloudenabled"		"0"
-					}
-					"730"
-					{
-						"cloudenabled"		"0"
-					}
-				}
 			}
-		}
-	}
-	"JSClientStorage"
-	{
-		"timeline_intro"
-		{
-			"rtSeen"		"0"
-			"rtLinkDismissed"		"1764517120"
 		}
 	}
 }

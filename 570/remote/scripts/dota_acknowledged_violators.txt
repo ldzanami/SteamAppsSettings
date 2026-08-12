@@ -2,4 +2,5 @@
 {
 	"guilds_violator"		"1"
 	"autodeliver_violator"		"1"
+	"damage_contribution_drilldown_violator"		"1"
 }

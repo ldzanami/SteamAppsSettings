@@ -224,35 +224,7 @@
 			{
 				"unitname"		"npc_dota_hero_terrorblade"
 				"illusion"		"1"
-				"illusionlabel"		"rune_0"
-				"unitindex"		"0"
-			}
-			"2"
-			{
-				"unitname"		"npc_dota_hero_terrorblade"
-				"illusion"		"1"
-				"illusionlabel"		"manta_1"
-				"unitindex"		"0"
-			}
-			"3"
-			{
-				"unitname"		"npc_dota_hero_terrorblade"
-				"illusion"		"1"
 				"illusionlabel"		"conjure_image_0"
-				"unitindex"		"0"
-			}
-			"4"
-			{
-				"unitname"		"npc_dota_hero_terrorblade"
-				"illusion"		"1"
-				"illusionlabel"		"manta_0"
-				"unitindex"		"0"
-			}
-			"5"
-			{
-				"unitname"		"npc_dota_hero_terrorblade"
-				"illusion"		"1"
-				"illusionlabel"		"rune_1"
 				"unitindex"		"0"
 			}
 		}
