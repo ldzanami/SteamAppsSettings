@@ -2,13 +2,13 @@
 {
 	"Hero"		"weaver"
 	"Title"		"100% EZ GAME"
-	"GameplayVersion"		"7.40b"
+	"GameplayVersion"		"7.41e"
 	"Overview"		""
-	"GuideRevision"		"5"
+	"GuideRevision"		"6"
 	"AssociatedWorkshopItemID"		"0x00000000CBDD272C"
 	"OriginalCreatorID"		"0x00000000382F8487"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069635190"
+	"TimeUpdated"		"0x000000006A7F667D"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -25,13 +25,13 @@
 			{
 				"item"		"item_falcon_blade"
 				"item"		"item_power_treads"
-				"item"		"item_dragon_lance"
+				"item"		"item_aghanims_shard"
+				"item"		"item_desolator"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_greater_crit"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 				"item"		"item_satanic"
 				"item"		"item_skadi"
@@ -40,7 +40,8 @@
 				"item"		"item_assault"
 				"item"		"item_mjollnir"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_desolator"
+				"item"		"item_dragon_lance"
+				"item"		"item_sphere"
 			}
 			"#DOTA_Item_Build_Luxury"
 			{
@@ -70,16 +71,16 @@
 			"7"		"weaver_shukuchi"
 			"8"		"weaver_geminate_attack"
 			"9"		"weaver_shukuchi"
-			"10"		"special_bonus_strength_7"
 			"11"		"weaver_the_swarm"
 			"12"		"weaver_time_lapse"
 			"13"		"weaver_the_swarm"
 			"14"		"weaver_the_swarm"
-			"15"		"special_bonus_mana_break_20"
 			"16"		"weaver_the_swarm"
 			"18"		"weaver_time_lapse"
-			"20"		"special_bonus_unique_weaver_2"
-			"25"		"special_bonus_unique_weaver_5"
+			"27"		"special_bonus_strength_7"
+			"28"		"attribute_bonus"
+			"29"		"special_bonus_unique_weaver_2"
+			"30"		"special_bonus_unique_weaver_5"
 		}
 		"AbilityTooltips"
 		{

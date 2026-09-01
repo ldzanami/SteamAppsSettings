@@ -86,6 +86,21 @@
 		"0"
 		{
 			"type"		"1"
+			"filename"		"3527290/screenshots/20260818192326_1.jpg"
+			"thumbnail"		"3527290/screenshots/thumbnails/20260818192326_1.jpg"
+			"imported"		"1"
+			"timelineid"		"timeline_352729020260818_080319"
+			"timelinetime"		"15606190"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"3527290"
+			"creation"		"1787055806"
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
 			"filename"		"3527290/screenshots/20260206211304_1.jpg"
 			"thumbnail"		"3527290/screenshots/thumbnails/20260206211304_1.jpg"
 			"imported"		"1"
@@ -98,7 +113,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"1"
+		"2"
 		{
 			"type"		"1"
 			"filename"		"3527290/screenshots/20260206160834_1.jpg"
@@ -113,7 +128,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"2"
+		"3"
 		{
 			"type"		"1"
 			"filename"		"3527290/screenshots/20260131005724_1.jpg"
